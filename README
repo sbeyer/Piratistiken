@@ -1,0 +1,28 @@
+Piratistiken
+============
+
+Generate plots of the number of members of the
+Piratenpartei Deutschland (Pirate Party Germany).
+
+Works with:
+	GNU Make 3.81
+	Ruby 1.8
+	Gnuplot 4.4
+
+Then just type "make" to generate the file output.svg.
+
+The *.txt files are public domain since their content
+is basically compiled from numbers below threshold of
+originality.
+The numbers are taken from public sources (like public
+logs of the Piratenpartei Deutschland).
+
+Note that the project is hosted on GitHub, see:
+
+	http://github.com/sbeyer/Piratistiken
+
+I appreciate forks that, e.g., beautify the output,
+insert missing information or that just add nice
+features.
+
+ -- Stephan Beyer <s-beyer at gmx dot net>
