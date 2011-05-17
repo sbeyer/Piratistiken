@@ -10,6 +10,22 @@ set xlabel "Datum"
 set format x "%m/%y"
 set key outside center right
 
+ymax = 14000
+set arrow from "20090927",0 rto 0,ymax nohead lt 0 # Bundestagswahl 2009
+set arrow from "20090607",0 rto 0,ymax nohead lt 0 # Europawahl 2009
+
+#set arrow from "20090118",0 rto 0,ymax nohead lt 0 # Landtagswahl HE
+set arrow from "20090830",0 rto 0,ymax nohead lt 0 # Landtagswahl SL,SN,TH
+set arrow from "20090927",0 rto 0,ymax nohead lt 0 # Landtagswahl BB,SH
+set arrow from "20100509",0 rto 0,ymax nohead lt 0 # Landtagswahl NRW
+set arrow from "20110220",0 rto 0,ymax nohead lt 0 # Bürgerschaftswahl HH
+set arrow from "20110320",0 rto 0,ymax nohead lt 0 # Landtagswahl LSA
+set arrow from "20110327",0 rto 0,ymax nohead lt 0 # Landtagswahl RLP
+set arrow from "20110327",0 rto 0,ymax nohead lt 0 # Landtagswahl BW
+set arrow from "20110522",0 rto 0,ymax nohead lt 0 # Bürgerschaftswahl HB
+#set arrow from "20110904",0 rto 0,ymax nohead lt 0 # Landtagswahl MV
+#set arrow from "20110918",0 rto 0,ymax nohead lt 0 # Abgeordnetenhauswahl BE
+
 plot \
  'mitglieder.csv' using 1:18 t "Ausland" w filledcurves x1, \
  'mitglieder.csv' using 1:17 t "LV SL" w filledcurves x1, \
