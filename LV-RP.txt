@@ -75,4 +75,6 @@
 20100831	510
 20101107	515
 20110324	516
-20110417	524
+20110417	524	35113.97	http://wiki.piratenpartei.de/RP:2011-04-17_-_55._Vorstandssitzung
+20110501	524		http://wiki.piratenpartei.de/RP:2011-05-01_-_56._Vorstandssitzung
+20110516			http://wiki.piratenpartei.de/RP:2011-05-16_-_57._Vorstandssitzung

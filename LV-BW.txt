@@ -1,9 +1,11 @@
 # ISO-Datum	Mitgl	Schatz	Quelle
-20071213		185.50
+20071125	25		http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Gr%C3%BCndung/Protokoll
+20071213		185.50	http://wiki.piratenpartei.de/2007-12-13_-_Protokoll_Vorstandssitzung_BW
 20080122	91
 20080405	99
-20080406		1097.00
-20080706		1500.00
+20080406		1097.00	http://wiki.piratenpartei.de/2008-04-06_-_Protokoll_Vorstandssitzung_BW
+20080706		1500.00	http://wiki.piratenpartei.de/2008-07-06_-_Protokoll_Vorstandssitzung_BW
+20080728		10200	http://wiki.piratenpartei.de/2009-07-28_-_Protokoll_Vorstandssitzung_BW
 20081206	90
 20081210	88
 20081216	86
@@ -59,62 +61,63 @@
 20090929	1409
 20091004	1449
 20091013	1473
-20091014		14038.08
+20091014		14038.08	http://wiki.piratenpartei.de/2009-10-14_-_Protokoll_Vorstandssitzung_BW
 20091018	1485
 20091025	1497
 20091121	1515
-20091201	1550
-20100218		38709.39
-20100426	1503	30420.15
-20100506	1507	26746.62
-20100517	1440	27201.46
+#20091201	1550		http://wiki.piratenpartei.de/2009-12-01_-_Protokoll_Vorstandssitzung_BW
+20100218		38709.39	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-02-18_-_Vorstandssitzung
+20100426	1503	30420.15	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-04-26_-_Vorstandssitzung
+20100506	1507	26746.62	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-05-06_-_Vorstandssitzung
+20100517	1440	27201.46	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-05-17_-_Vorstandssitzung
 20100525	1446
-20100526		26346.52
-20100604	1448	27562.02
-20100609	1457	29757.97
-20100613	1458
-20100617		29815.97
-20100623		25199.87
-20100701	1469	25311.99
-20100715	1417	26135.63
-20100721	1423	24256.03
-20100804	1412	24667.30
-20100818	1416	22445.37
-20100901	1422	22190.37
-20100915	1436	22714.27
+20100526	1446	26346.52	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-05-26_-_Vorstandssitzung
+20100604	1448	27562.02	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-06-04_-_Vorstandssitzung
+20100609	1457	29757.97	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-06-09-_Vorstandssitzung
+20100613	1458		http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-06-17_-_Vorstandssitzung
+20100617		29815.97	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-06-17_-_Vorstandssitzung
+20100623		25199.87	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-06-23_-_Vorstandssitzung
+20100701	1469	25311.99	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-07-01_-_Vorstandssitzung
+20100715	1417	26135.63	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-07-15_-_Vorstandssitzung
+20100721	1423	24256.03	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-07-21_-_Vorstandssitzung
+20100804	1412	24667.30	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-08-04_-_Vorstandssitzung
+20100818	1416	22445.37	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-08-18_-_Vorstandssitzung
+20100901	1422	22190.37	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-09-01_-_Vorstandssitzung
+20100915	1436	22714.27	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-09-15_-_Vorstandssitzung
 20100925	1446
-20100929	1445	22729.62
+20100929	1445	22729.62	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-09-29_-_Vorstandssitzung
 20101003	1444
-20101013	1446
-20101027	1444	23176.62
+20101013	1446		http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-10-13_-_Vorstandssitzung
+20101027	1444	23176.62	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-10-27_-_Vorstandssitzung
 20101101	1445
-20101110	1446	23691.71
+20101110	1446	23691.71	http://vorstandbawue.piratenpad.de/ep/pad/view/ro.9uJFA87ilq2YVpv$FN6i/latest
 20101112	1446
 20101116	1444
-20101124	1444	21611.16
+20101124	1444	21611.16	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-11-24_-_Vorstandssitzung
 20101130	1444
 20101207	1445
-20101208	1445	21415.99
+20101208	1445	21415.99	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-12-08_-_Vorstandssitzung
 20101213	1447
 20101221	1447
-20101222	1447	23674.49
-20110105	1446	31059.51
+20101222	1447	23674.49	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-12-22_-_Vorstandssitzung
+20110105	1446	31059.51	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-01-05_-_Vorstandssitzung
 20110108	1445
-20110119	1453	20321.41
+20110119	1453	20321.41	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-01-19_-_Vorstandssitzung
 20110120	1453
 20110201	1448
-20110202	1448	15828.54
-20110210		17800.00
-20110216	1446	11635.19
-20110302	1457	48577.28
+20110202	1448	15828.54	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-02-02_-_Vorstandssitzung
+20110210		17800.00	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-02-10_-_Vorstandssitzung#Aktueller_Stand
+20110216	1446	11635.19	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-02-16_-_Vorstandssitzung
+20110302	1457	48577.28	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-03-02_-_Vorstandssitzung
 20110304	1460
 20110307	1465
 20110311	1469
-20110316	1474	26340.95
+20110316	1474	26340.95	http://vorstandbawue.piratenpad.de/ep/pad/view/ro.9AfOSt$wf8VOjyJ52KUMYL/latest
 20110326	1485
-20110330	1507	27230.79
+20110330	1507	27230.79	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-03-30_-_Vorstandssitzung
 20110404	1517
 20110405	1517
-20110413	1520	26658.05
+20110413	1520	26658.05	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-04-13_-_Vorstandssitzung
 20110419	1552
 20110502	1559
+20110511	1562	22168.45	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-05-11_-_Vorstandssitzung

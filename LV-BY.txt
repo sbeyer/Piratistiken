@@ -38,4 +38,6 @@
 20101028	2637
 20110112	2661
 20110208	2640
+20110406	2684	95000	http://wiki.piratenpartei.de/2011-04-06_-_Protokoll_Vorstandssitzung_Bayern
 20110420	2681
+20110518	2600	78953.40	http://wiki.piratenpartei.de/2011-05-18_-_Protokoll_Vorstandssitzung_Bayern

@@ -15,4 +15,6 @@
 20100611	90
 20100724	89
 20101114	89
-20110403	87
+20110403	87	10775.61	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-04-03
+20110417	87	10692.21	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-04-17
+20110501	87	9193.00	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-05-01

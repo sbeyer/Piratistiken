@@ -1,4 +1,6 @@
 # ISO-Datum	Mitgl	Schatz	Quelle
+20080109		1900	http://wiki.piratenpartei.de/wiki/images/9/9c/Protokoll_2008_01_09.pdf
+20081008		860	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2008-10-08
 20080122	72
 20080125	75
 20080405	99
@@ -21,20 +23,48 @@
 20090827	486
 20090902	531
 20090916	595
+20090923		10300	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-09-23
 20091006	701
+20091014		9000	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-10-14
 20091028	732
-20091105	737
-20091112	746
-20091122	746
-20091125	748
+20091028		8800	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-10-28
+20091104	732	16000	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-11-04
+20091111	740	21000	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-11-11
+20091125	744		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-11-25
+20091209	751	11000	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-12-09
+20091223	754	11000	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-12-23
+20100113		11297.00	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-01-13
 20100122	765
+20100127	781	11000	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-01-27
+20100210		11780.28	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-02-10
 20100223	778
-20100224	781
+20100224	781	13413.00	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-02-24
+20100310	781	13593.00	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-03-10
 20100325	800
+20100414	814	11935.00	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-04-14
+20100512		30000.00	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-05-12
+20100609		20600.00	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-06-09
 20100630	833
+20100630		12160.00	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-06-30
 20100707	845
-20101027	866
-20101110	872
-20110112	892
-20110323	899
-20110427	909
+20100714	845	11237.00	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-07-14
+20100728	845	10600.00	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-07-28
+20100811		12000	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-08-11
+20100825		11042.00	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-08-25
+20100908		9920	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-09-08
+20100922	847	7304	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-09-22
+20101013	850	13000	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-10-13
+20101027	866	8066	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-10-27
+20101110	872	8000	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-11-10
+20101124	879	8081	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-11-24
+20101208	882	7489	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-12-08
+20101222	882	8238.44	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-12-22
+20110112	892	8917	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-01-12
+20110126	892	2016	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-01-26
+20110209	893	23253.32	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-02-09
+20110223	889		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-02-23
+20110309	895		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-03-09
+20110323	899	22816.86	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-03-23
+20110413		24427.93	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-04-13
+20110427	909	24344.70	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-04-27
+20110511	910		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-05-11

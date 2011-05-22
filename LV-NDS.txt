@@ -1,4 +1,5 @@
 # ISO-Datum	Mitgl	Schatz	Quelle
+20070708	13		http://wiki.piratenpartei.de/Landesverband_Niedersachsen/Protokoll_der_Gr%C3%BCndungsversammlung
 20080122	68
 20080405	70
 20080406	69
@@ -119,22 +120,25 @@
 20101114	1019
 20101205	1025
 20101215	1023
-20110105	1021
-20110112	1016
-20110119	1016
+20110105	1021	10959.63	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-05.01.2011.html
+20110112	1016	12072.21	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-12.01.2011.html
+20110119	1016	12686.21	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-19.01.2011.html
 20110123	1015
 20110124	1013
-20110126	1011
-20110209	1012
-20110216	1012
+20110126	1011	13257.21	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-26.01.2011.html
+20110202		14311.21	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-02.02.2011.html
+20110209	1012	14868.21	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-09.02.2011.html
+20110216	1012	15204	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-16.02.2011.html
 20110217	1008
 20110220	1009
-20110302	1012
-20110309	1005
-20110316	1008
-20110323	1008
-20110330	1008
-20110406	1007
-20110413	1007
-20110420	1014
-20110427	1013
+20110302	1012	57840.73	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-02.03.2011.html
+20110309	1005	58799.23	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-09.03.2011.html
+20110316	1008	60315.23	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-16.03.2011.html
+20110323	1008	60271.98	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-23.03.2011.html
+20110330	1008	60468.26	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-30.03.2011.html
+20110406	1007	60700.28	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-06.04.2011.html
+20110413	1007	59146.98	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-13.04.2011.html
+20110420	1014	59355.86	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-20.04.2011.html
+20110427	1013	60283.98	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-27.04.2011.html
+20110504	1008	61100.89	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-04.05.2011.html
+20110511	1002	17565.12	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-11.05.2011.html

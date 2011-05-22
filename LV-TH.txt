@@ -7,6 +7,7 @@
 20090601	21
 20090614	23
 20090623	36
+#20090628	27		http://wiki.piratenpartei.de/Datei:Protokoll_Gruendung_Thueringen.pdf
 20090715	73
 20090806	93
 20090813	100
@@ -21,5 +22,6 @@
 20101115	194
 20110123	197
 20110330	197
-20110413	159
-20110427	169
+20110413	159	26313.57	http://vorstand.piraten-thueringen.de/2011/04/13/vorstandssitzung-vom-13-april-2011/
+20110427	169	21172.51	http://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-04-27#TOP_6_-_aktuelle_Kennzahlen
+20110513	169	18959.29	http://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-05-11#TOP_6_-_aktuelle_Kennzahlen
