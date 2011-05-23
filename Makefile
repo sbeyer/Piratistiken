@@ -17,7 +17,7 @@ INPUT_SORTED = \
 	LV-SL.txt \
 	OUTSIDE.txt
 
-output.svg: mitglieder.csv plotscript
+output.png: mitglieder.csv plotscript
 	./plotscript
 
 mitglieder.csv: $(INPUT_SORTED)

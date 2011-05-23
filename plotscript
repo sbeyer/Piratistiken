@@ -1,8 +1,8 @@
 #!/usr/bin/gnuplot
 # Generate output.svg based on mitglieder.csv
 
-set terminal svg font "DejaVu Sans"
-set output "output.svg"
+set terminal png
+set output "output.png"
 
 set xdata time
 set timefmt "%Y%m%d"
