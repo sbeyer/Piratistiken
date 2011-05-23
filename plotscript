@@ -9,38 +9,75 @@ set timefmt "%Y%m%d"
 set xlabel "Datum"
 set format x "%m/%y"
 set key outside center right
+#set ytics ...
 
 ymax = 14000
+
+### define colors for LVs
+col_bb = "#e60000"
+col_be = "#000000"
+#col_be = "#e2382a"
+col_bw = "#f9dd16"
+#col_bw = "#000000"
+col_by = "#0098d4"
+col_hb = "#ff0000"
+#col_he = "#e10000"
+col_he = "#00529f"
+col_hh = "#fc1b1c"
+col_lsa = "#fcd116"
+#col_lsa = "#d8201f"
+#col_lsa = "#41b444"
+#col_mv = "#f9f400"
+#col_mv = "#de0029"
+col_mv = "#2b58a3"
+#col_nds = "#ffce00"
+col_nds = "#dd0000"
+col_nrw = "#006600"
+#col_nrw = "#dd0000"
+col_out = "#888888"
+col_rp = "#1b1c20"
+#col_rp = "#f6e101"
+#col_sh = "#d61810"
+col_sh = "#0039ad"
+col_sl = "#0063ff"
+col_sn = "#009900"
+#col_sn = "#008a49"
+#col_sn = "#fdd400"
+#col_th = "#ea320b"
+col_th = "#1b83b7"
+#col_th = "#e7d40e"
+
+### define markers for elections
 set arrow from "20090927",0 rto 0,ymax nohead lt 0 # Bundestagswahl 2009
 set arrow from "20090607",0 rto 0,ymax nohead lt 0 # Europawahl 2009
 
-#set arrow from "20090118",0 rto 0,ymax nohead lt 0 # Landtagswahl HE
-set arrow from "20090830",0 rto 0,ymax nohead lt 0 # Landtagswahl SL,SN,TH
-set arrow from "20090927",0 rto 0,ymax nohead lt 0 # Landtagswahl BB,SH
-set arrow from "20100509",0 rto 0,ymax nohead lt 0 # Landtagswahl NRW
-set arrow from "20110220",0 rto 0,ymax nohead lt 0 # Bürgerschaftswahl HH
-set arrow from "20110320",0 rto 0,ymax nohead lt 0 # Landtagswahl LSA
-set arrow from "20110327",0 rto 0,ymax nohead lt 0 # Landtagswahl RLP
-set arrow from "20110327",0 rto 0,ymax nohead lt 0 # Landtagswahl BW
-set arrow from "20110522",0 rto 0,ymax nohead lt 0 # Bürgerschaftswahl HB
-#set arrow from "20110904",0 rto 0,ymax nohead lt 0 # Landtagswahl MV
-#set arrow from "20110918",0 rto 0,ymax nohead lt 0 # Abgeordnetenhauswahl BE
+set arrow from "20090118",0 rto 0,ymax nohead lt rgb col_he # Landtagswahl HE
+set arrow from "20090830",0 rto 0,ymax nohead lt rgb col_th # Landtagswahl SL,SN,TH
+set arrow from "20090927",0 rto 0,ymax nohead lt rgb col_sh # Landtagswahl BB,SH
+set arrow from "20100509",0 rto 0,ymax nohead lt rgb col_nrw # Landtagswahl NRW
+set arrow from "20110220",0 rto 0,ymax nohead lt rgb col_hh # Bürgerschaftswahl HH
+set arrow from "20110320",0 rto 0,ymax nohead lt rgb col_lsa # Landtagswahl LSA
+set arrow from "20110327",0 rto 0,ymax nohead lt rgb col_rp # Landtagswahl RP
+set arrow from "20110327",0 rto 0,ymax nohead lt rgb col_bw # Landtagswahl BW
+set arrow from "20110522",0 rto 0,ymax nohead lt rgb col_hb # Bürgerschaftswahl HB
+#set arrow from "20110904",0 rto 0,ymax nohead lt rgb col_mv # Landtagswahl MV
+#set arrow from "20110918",0 rto 0,ymax nohead lt rgb col_be # Abgeordnetenhauswahl BE
 
 plot \
- 'mitglieder.csv' using 1:18 t "Ausland" w filledcurves x1, \
- 'mitglieder.csv' using 1:17 t "LV SL" w filledcurves x1, \
- 'mitglieder.csv' using 1:16 t "LV HB" w filledcurves x1, \
- 'mitglieder.csv' using 1:15 t "LV TH" w filledcurves x1, \
- 'mitglieder.csv' using 1:14 t "LV LSA" w filledcurves x1, \
- 'mitglieder.csv' using 1:13 t "LV MV" w filledcurves x1, \
- 'mitglieder.csv' using 1:12 t "LV BB" w filledcurves x1, \
- 'mitglieder.csv' using 1:11 t "LV SN" w filledcurves x1, \
- 'mitglieder.csv' using 1:10 t "LV SH" w filledcurves x1, \
- 'mitglieder.csv' using 1:9 t "LV RP" w filledcurves x1, \
- 'mitglieder.csv' using 1:8 t "LV HH" w filledcurves x1, \
- 'mitglieder.csv' using 1:7 t "LV BE" w filledcurves x1, \
- 'mitglieder.csv' using 1:6 t "LV HE" w filledcurves x1, \
- 'mitglieder.csv' using 1:5 t "LV NDS" w filledcurves x1, \
- 'mitglieder.csv' using 1:4 t "LV BW" w filledcurves x1, \
- 'mitglieder.csv' using 1:3 t "LV NRW" w filledcurves x1, \
- 'mitglieder.csv' using 1:2 t "LV BY" w filledcurves x1
+ 'mitglieder.csv' using 1:18 t "Ausland" w filledcurves x1 lt rgb col_out, \
+ 'mitglieder.csv' using 1:17 t "LV SL" w filledcurves x1 lt rgb col_sl, \
+ 'mitglieder.csv' using 1:16 t "LV HB" w filledcurves x1 lt rgb col_hb, \
+ 'mitglieder.csv' using 1:15 t "LV TH" w filledcurves x1 lt rgb col_th, \
+ 'mitglieder.csv' using 1:14 t "LV LSA" w filledcurves x1 lt rgb col_lsa, \
+ 'mitglieder.csv' using 1:13 t "LV MV" w filledcurves x1 lt rgb col_mv, \
+ 'mitglieder.csv' using 1:12 t "LV BB" w filledcurves x1 lt rgb col_bb, \
+ 'mitglieder.csv' using 1:11 t "LV SN" w filledcurves x1 lt rgb col_sn, \
+ 'mitglieder.csv' using 1:10 t "LV SH" w filledcurves x1 lt rgb col_sh, \
+ 'mitglieder.csv' using 1:9 t "LV RP" w filledcurves x1 lt rgb col_rp, \
+ 'mitglieder.csv' using 1:8 t "LV HH" w filledcurves x1 lt rgb col_hh, \
+ 'mitglieder.csv' using 1:7 t "LV BE" w filledcurves x1 lt rgb col_be, \
+ 'mitglieder.csv' using 1:6 t "LV HE" w filledcurves x1 lt rgb col_he, \
+ 'mitglieder.csv' using 1:5 t "LV NDS" w filledcurves x1 lt rgb col_nds, \
+ 'mitglieder.csv' using 1:4 t "LV BW" w filledcurves x1 lt rgb col_bw, \
+ 'mitglieder.csv' using 1:3 t "LV NRW" w filledcurves x1 lt rgb col_nrw, \
+ 'mitglieder.csv' using 1:2 t "LV BY" w filledcurves x1 lt rgb col_by
