@@ -42,11 +42,16 @@ def each_current_date(current_idx, input)
 			tmp = str.match(/^([0-9]+)\t([0-9]+)/)
 			while tmp.nil?
 				j = current_idx[i] += 1
-				tmp = input[i][j].match(/^([0-9]+)\t([0-9]+)/)
+				str = input[i][j]
+				unless str.nil?
+					tmp = str.match(/^([0-9]+)\t([0-9]+)/)
+				end
 			end
-			date = tmp[1].to_i
-			val = tmp[2].to_i
-			yield(date, val, i)
+			unless str.nil?
+				date = tmp[1].to_i
+				val = tmp[2].to_i
+				yield(date, val, i)
+			end
 		end
 	end
 end
