@@ -32,6 +32,7 @@
 # are those of the authors and should not be interpreted as representing
 # official policies, either expressed or implied, of Stephan Beyer.
 
+DEBUG = false
 
 # Do something for each date given by current_idx and input...
 # Note that current_idx is changed to the next suitable value.
@@ -54,6 +55,11 @@ def each_current_date(current_idx, input)
 			end
 		end
 	end
+end
+
+def dprintf(*args)
+	printf(*args)
+	STDERR.printf(*args) if DEBUG
 end
 
 # read input files
@@ -92,10 +98,10 @@ loop do
 
 	# output sums
 	tmp = 0
-	printf("%d", current_date)
+	dprintf("%d", current_date)
 	current.each do |val|
 		tmp += val
-		printf("\t%d", tmp)
+		dprintf("\t%d", tmp)
 	end
-	puts
+	dprintf("\n")
 end
