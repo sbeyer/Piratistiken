@@ -68,3 +68,6 @@
 20110413		24427.93	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-04-13
 20110427	909	24344.70	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-04-27
 20110511	910		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-05-11
+20110525	910	29076.37	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-05-25#Themenblock_I:_Berichte
+# http://wiki.piratenpartei.de/HE:Vorstand/Protokolle
+# http://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Hessen

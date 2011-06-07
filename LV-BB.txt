@@ -34,5 +34,9 @@
 20101222	342
 20110112	339
 20110201	340
-20110401	342
-20110402	342
+20110401	342	17354.61	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-04-01#Kennzahlen
+20110506	343	17293.65	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-05-06#Kennzahlen
+20110527	346	16875.65	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-05-27#Kennzahlen
+# nächste: http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-06-24
+# http://wiki.piratenbrandenburg.de/Kategorie:Landesvorstandssitzung
+#  - fehlt: alles vor 201104

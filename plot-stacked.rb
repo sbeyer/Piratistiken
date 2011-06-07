@@ -40,14 +40,14 @@ def each_current_date(current_idx, input)
 		str = input[i][j]
 		unless str.nil?
 			tmp = str.match(/^([0-9]+)\t([0-9]+)/)
-			while tmp.nil?
+			while tmp.nil? and j < input[i].length
 				j = current_idx[i] += 1
 				str = input[i][j]
 				unless str.nil?
 					tmp = str.match(/^([0-9]+)\t([0-9]+)/)
 				end
 			end
-			unless str.nil?
+			unless tmp.nil? or str.nil?
 				date = tmp[1].to_i
 				val = tmp[2].to_i
 				yield(date, val, i)
@@ -63,8 +63,9 @@ ARGV.each do |fn|
 end
 
 # init
-current_idx = [0]*ARGV.length
-current = [0]*ARGV.length
+MAX = ARGV.length
+current_idx = [0]*MAX
+current = [0]*MAX
 
 # combine input files and sum up from left to right
 current_date = nil

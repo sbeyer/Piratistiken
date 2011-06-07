@@ -80,3 +80,8 @@
 20110331		85581.55	http://wiki.piratenpartei.de/2011-03-31_-_Vorstandssitzung
 20110414		85461.42	http://wiki.piratenpartei.de/2011-04-14_-_Vorstandssitzung
 20110428		79688.33	http://wiki.piratenpartei.de/2011-04-28_-_Vorstandssitzung
+20110526		213116.51	http://vorstand.piratenpartei.de/2011/05/29/protokoll-zur-vorstandssitzung-2011-05-26/
+# nächste: http://wiki.piratenpartei.de/2011-06-09_-_Vorstandssitzung#Aktuelle_Kennzahlen
+# # http://vorstand.piratenpartei.de/category/sitzungsprotokolle/
+# Wiki Oberkategorie: http://wiki.piratenpartei.de/Kategorie:Bundesvorstandssitzung
+# Wiki 2011: http://wiki.piratenpartei.de/Kategorie:Vorstandssitzung_2011

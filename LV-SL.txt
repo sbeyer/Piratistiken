@@ -18,3 +18,7 @@
 20110403	87	10775.61	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-04-03
 20110417	87	10692.21	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-04-17
 20110501	87	9193.00	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-05-01
+20110529	88	9181.61	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-05-29#TOP_10:_Kennzahlen
+# http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen
+# http://wiki.piratenpartei.de/Kategorie:Vorstandssitzungen_Saarland
+#  - fehlt: alles vor 201104

@@ -43,3 +43,8 @@
 20110127	375
 20110322	367
 20110418	369
+20110503	369		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=134
+20110517	372		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=135
+# http://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
+# http://www.piratenpartei-sh.de/index.php?option=com_remository&Itemid=44&func=select&id=2&orderby=4
+#  - fehlt: alles vor 201105
