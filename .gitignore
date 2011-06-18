@@ -1,2 +1,4 @@
 output.png
 mitglieder.csv
+netstiff/*
+!netstiff/config

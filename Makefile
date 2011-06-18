@@ -22,3 +22,6 @@ output.png: mitglieder.csv plotscript
 
 mitglieder.csv: $(INPUT_SORTED) plot-stacked.rb
 	./plot-stacked.rb $(INPUT_SORTED) > $@
+
+check:
+	netstiff -W netstiff
