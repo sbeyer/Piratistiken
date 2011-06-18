@@ -43,6 +43,6 @@
 20110518	2600	78953.40	http://wiki.piratenpartei.de/2011-05-18_-_Protokoll_Vorstandssitzung_Bayern
 20110527	2662
 20110601	2654	82514.47	http://wiki.piratenpartei.de/2011-06-01_-_Protokoll_Vorstandssitzung_Bayern#Kurz-Bericht_Verwaltung
-# nächstes: http://wiki.piratenpartei.de/2011-06-15_-_Protokoll_Vorstandssitzung_Bayern#Kurz-Bericht_Schatzmeister
+20110615			http://wiki.piratenpartei.de/BY:2011-06-15_-_Protokoll_Vorstandssitzung_Bayern#Kurz-Bericht_Schatzmeister
 # http://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2011
 #  - fehlt: alles vor 201104
