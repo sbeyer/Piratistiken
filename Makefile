@@ -17,6 +17,9 @@ INPUT_SORTED = \
 	LV-SL.txt \
 	OUTSIDE.txt
 
+output_crush.png: output.png
+	pngcrush -brute -l 9 output.png output-crush.png
+
 output.png: mitglieder.csv plotscript
 	./plotscript
 

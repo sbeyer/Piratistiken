@@ -60,6 +60,6 @@
 20110411	362		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-04-11
 20110418	362		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-04-18
 20110606	364		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-06-06
-# 20110613			http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-06-13
+20110613	364		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-06-13
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Telefonkonferenz_Sachsen

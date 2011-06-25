@@ -53,5 +53,6 @@
 20110406	204
 20110425	203
 20110607	205
+20110621	207
 # Die Vorstandsprotokolle enthalten keine Mitgliederanzahl/Schatzkisten-Informationen.
 # Mitgliederinfos finden sich auf der Standardquelle: http://wiki.piratenpartei.de/MV:Vorlage:Piraten_in_MV
