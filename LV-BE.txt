@@ -50,7 +50,9 @@
 20110602	902		http://wiki.piratenpartei.de/wiki//index.php?title=BE:Mitglieder&oldid=1003625
 20110605		19689.83	http://wiki.piratenpartei.de/BE:2011-06-05_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Kontostand
 20110613	902	18957.12	http://wiki.piratenpartei.de/BE:2011-06-13_-_Protokoll_Vorstandssitzung_Landesverband_Berlin
-# 20110626			http://wiki.piratenpartei.de/BE:2011-06-26_-_Protokoll_Vorstandssitzung_Landesverband_Berlin
+20110626	905	33267.15	http://wiki.piratenpartei.de/BE:2011-06-26_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20110704	916
+# 20110710			http://wiki.piratenpartei.de/BE:2011-07-10_-_Protokoll_Vorstandssitzung_Landesverband_Berlin
 #
 # Schatzkisteninformationen aus Vorstandssitzungen:
 #   http://wiki.piratenpartei.de/Kategorie:Vorstandssitzung_Berlin

@@ -62,7 +62,8 @@
 20110609	1933	214859.72	http://wiki.piratenpartei.de/NRW:2011-06-09_-_NRW_Vorstand#Berichte_Statistik
 20110616	1931	199794.40	http://wiki.piratenpartei.de/NRW:2011-06-16_-_NRW_Vorstand
 20110617	1931
-# 20110630			http://wiki.piratenpartei.de/NRW:2011-06-30_-_NRW_Vorstand
+20110630	1926	197512.23	http://wiki.piratenpartei.de/NRW:2011-06-30_-_NRW_Vorstand#Berichte_Statistik
+# 20110714			http://wiki.piratenpartei.de/NRW:2011-07-14_-_NRW_Vorstand
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand
 #  - fehlt: alles vor 201105

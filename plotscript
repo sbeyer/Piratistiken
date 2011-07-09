@@ -60,8 +60,8 @@ set arrow from "20110320",0 rto 0,ymax nohead lt rgb col_lsa # Landtagswahl LSA
 set arrow from "20110327",0 rto 0,ymax nohead lt rgb col_rp # Landtagswahl RP
 set arrow from "20110327",0 rto 0,ymax nohead lt rgb col_bw # Landtagswahl BW
 set arrow from "20110522",0 rto 0,ymax nohead lt rgb col_hb # Bürgerschaftswahl HB
-#set arrow from "20110904",0 rto 0,ymax nohead lt rgb col_mv # Landtagswahl MV
-#set arrow from "20110918",0 rto 0,ymax nohead lt rgb col_be # Abgeordnetenhauswahl BE
+set arrow from "20110904",0 rto 0,ymax nohead lt rgb col_mv # Landtagswahl MV
+set arrow from "20110918",0 rto 0,ymax nohead lt rgb col_be # Abgeordnetenhauswahl BE
 
 plot \
  'mitglieder.csv' using 1:18 t "Ausland" w filledcurves x1 lt rgb col_out, \

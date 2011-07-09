@@ -128,7 +128,9 @@
 20110614	1581
 20110619	1580		http://wiki.piratenpartei.de/RP:2011-06-19_-_59._Vorstandssitzung
 20110622	1580	19646.81	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-06-22_-_Vorstandssitzung#aktuelle_Kennzahlen
-# next: http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-07-06_-_Vorstandssitzung
+20110704	1583
+20110706	1584	20015.51	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-07-06_-_Vorstandssitzung#aktuelle_Kennzahlen
+# 20110720			http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-07-20_-_Vorstandssitzung
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstandssitzung_Baden-W%C3%BCrttemberg
 # http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand
 # http://wiki.piratenpartei.de/wiki//index.php?title=BW:Vorlage:Piraten_in_BW&action=history
