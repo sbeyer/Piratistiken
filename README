@@ -9,7 +9,10 @@ Works with:
 	Ruby 1.8
 	Gnuplot 4.4
 
-Then just type "make" to generate the file output.svg.
+Then just type "make" to generate the file output.png.
+The result is uploaded to
+
+	http://wiki.piratenpartei.de/Datei:Mitgliederentwicklung-nach-LVs.png
 
 The *.txt files are public domain since their content
 is basically compiled from numbers below threshold of

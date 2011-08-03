@@ -147,5 +147,12 @@
 20110601	1009	50602.12	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-01.06.2011.html
 20110605	1010
 20110608	1010	49999.97	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-08.06.2011.html
+20110615	1012	15599.55	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-15.06.2011.html
+20110622	1011	52366.35	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-22.06.2011.html
+20110629	1011	53988.35	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-29.06.2011.html
+20110706		35600	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-06.07.2011.html
+20110713	1015	37532.82	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-13.07.2011.html
+20110720			http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-20.07.2011.html
+20110727	1015	35438.87	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-27.07.2011.html
 # http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen.html
 #  - fehlt: alles vor 201101

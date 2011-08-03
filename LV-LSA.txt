@@ -35,5 +35,8 @@
 20110502	190		http://wiki.piratenpartei.de/LSA:2011-05-02_-_Protokoll_Vorstand_Sachsen-Anhalt
 20110509	189	14530.09	http://wiki.piratenpartei.de/LSA:2011-05-09_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 20110527	188	15177.66	http://wiki.piratenpartei.de/LSA:2011-05-27_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20110627	188	15177.66	http://wiki.piratenpartei.de/LSA:2011-06-27_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20110711	188	14867.60	http://wiki.piratenpartei.de/LSA:2011-07-11_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20110725	190	15000.34	http://wiki.piratenpartei.de/LSA:2011-07-25_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 # http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen
 #  - es fehlt vor 201102 alles

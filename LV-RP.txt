@@ -83,5 +83,6 @@
 20110605	523	26668.66	http://wiki.piratenpartei.de/RP:2011-06-05_-_58._Vorstandssitzung
 20110619	525		http://wiki.piratenpartei.de/RP:2011-06-19_-_59._Vorstandssitzung
 20110706	526		http://wiki.piratenpartei.de/RP:2011-07-06_-_60._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20110717	526		http://wiki.piratenpartei.de/RP:2011-07-17_-_61._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand
 #  - fehlt: alles vor 201103
