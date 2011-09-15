@@ -1,8 +1,8 @@
-# ISO-Datum	Mitgl	Schatz	Quelle
+# ISO-Datum	Mitgl	Quelle
 20080122	25
 20080405	29
 20080406	30
-20080607			Gründung
+20080607		Gründung
 20081206	45
 20081209	44
 20090407	40
@@ -75,15 +75,15 @@
 20100823	505
 20100831	510
 20101107	515
-20110306	514	39340.27	http://wiki.piratenpartei.de/RP:2011-03-06_-_52._Vorstandssitzung#Top_3:_Bericht_GenSek
-20110324	516	34887.26	http://wiki.piratenpartei.de/RP:2011-03-24_-_53._Vorstandssitzung
-20110417	524	35113.97	http://wiki.piratenpartei.de/RP:2011-04-17_-_55._Vorstandssitzung
-20110501	524		http://wiki.piratenpartei.de/RP:2011-05-01_-_56._Vorstandssitzung
-20110516			http://wiki.piratenpartei.de/RP:2011-05-16_-_57._Vorstandssitzung
-20110605	523	26668.66	http://wiki.piratenpartei.de/RP:2011-06-05_-_58._Vorstandssitzung
-20110619	525		http://wiki.piratenpartei.de/RP:2011-06-19_-_59._Vorstandssitzung
-20110706	526		http://wiki.piratenpartei.de/RP:2011-07-06_-_60._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
-20110707	526		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
-20110717	526		http://wiki.piratenpartei.de/RP:2011-07-17_-_61._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20110306	514	http://wiki.piratenpartei.de/RP:2011-03-06_-_52._Vorstandssitzung#Top_3:_Bericht_GenSek
+20110324	516	http://wiki.piratenpartei.de/RP:2011-03-24_-_53._Vorstandssitzung
+20110417	524	http://wiki.piratenpartei.de/RP:2011-04-17_-_55._Vorstandssitzung
+20110501	524	http://wiki.piratenpartei.de/RP:2011-05-01_-_56._Vorstandssitzung
+20110516		http://wiki.piratenpartei.de/RP:2011-05-16_-_57._Vorstandssitzung
+20110605	523	http://wiki.piratenpartei.de/RP:2011-06-05_-_58._Vorstandssitzung
+20110619	525	http://wiki.piratenpartei.de/RP:2011-06-19_-_59._Vorstandssitzung
+20110706	526	http://wiki.piratenpartei.de/RP:2011-07-06_-_60._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20110707	526	http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
+20110717	526	http://wiki.piratenpartei.de/RP:2011-07-17_-_61._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand
 #  - fehlt: alles vor 201103

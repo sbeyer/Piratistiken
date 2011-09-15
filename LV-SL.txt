@@ -1,4 +1,4 @@
-# ISO-Datum	Mitgl	Schatz	Quelle
+# ISO-Datum	Mitgl	Quelle
 20080122	6
 20080405	7
 20090505	8
@@ -15,13 +15,13 @@
 20100611	90
 20100724	89
 20101114	89
-20110403	87	10775.61	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-04-03
-20110417	87	10692.21	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-04-17
-20110501	87	9193.00	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-05-01
-20110529	88	9181.61	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-05-29#TOP_10:_Kennzahlen
-20110612		9055.31	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-06-12#TOP_11:_Kennzahlen
-20110707	91		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
-20110710	90	8719.86	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-07-10#TOP_8:_Kennzahlen
+20110403	87	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-04-03
+20110417	87	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-04-17
+20110501	87	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-05-01
+20110529	88	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-05-29#TOP_10:_Kennzahlen
+20110612		http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-06-12#TOP_11:_Kennzahlen
+20110707	91	http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
+20110710	90	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-07-10#TOP_8:_Kennzahlen
 # http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen
 # http://wiki.piratenpartei.de/Kategorie:Vorstandssitzungen_Saarland
 #  - fehlt: alles vor 201104

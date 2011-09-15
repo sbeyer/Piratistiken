@@ -1,5 +1,5 @@
-# ISO-Datum	Mitgl	Schatz	Quelle
-20070708	13		http://wiki.piratenpartei.de/Landesverband_Niedersachsen/Protokoll_der_Gr%C3%BCndungsversammlung
+# ISO-Datum	Mitgl	Quelle
+20070708	13	http://wiki.piratenpartei.de/Landesverband_Niedersachsen/Protokoll_der_Gr%C3%BCndungsversammlung
 20080122	68
 20080405	70
 20080406	69
@@ -120,40 +120,40 @@
 20101114	1019
 20101205	1025
 20101215	1023
-20110105	1021	10959.63	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-05.01.2011.html
-20110112	1016	12072.21	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-12.01.2011.html
-20110119	1016	12686.21	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-19.01.2011.html
+20110105	1021	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-05.01.2011.html
+20110112	1016	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-12.01.2011.html
+20110119	1016	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-19.01.2011.html
 20110123	1015
 20110124	1013
-20110126	1011	13257.21	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-26.01.2011.html
-20110202		14311.21	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-02.02.2011.html
-20110209	1012	14868.21	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-09.02.2011.html
-20110216	1012	15204	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-16.02.2011.html
+20110126	1011	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-26.01.2011.html
+20110202		http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-02.02.2011.html
+20110209	1012	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-09.02.2011.html
+20110216	1012	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-16.02.2011.html
 20110217	1008
 20110220	1009
-20110302	1012	57840.73	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-02.03.2011.html
-20110309	1005	58799.23	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-09.03.2011.html
-20110316	1008	60315.23	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-16.03.2011.html
-20110323	1008	60271.98	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-23.03.2011.html
-20110330	1008	60468.26	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-30.03.2011.html
-20110406	1007	60700.28	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-06.04.2011.html
-20110413	1007	59146.98	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-13.04.2011.html
-20110420	1014	59355.86	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-20.04.2011.html
-20110427	1013	60283.98	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-27.04.2011.html
-20110504	1008	61100.89	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-04.05.2011.html
-20110511	1002	52565.12	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-11.05.2011.html
-20110518	1002	49935.12	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-18.05.2011.html
-20110525		49906.12	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-25.05.2011.html
-20110601	1009	50602.12	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-01.06.2011.html
+20110302	1012	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-02.03.2011.html
+20110309	1005	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-09.03.2011.html
+20110316	1008	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-16.03.2011.html
+20110323	1008	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-23.03.2011.html
+20110330	1008	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-30.03.2011.html
+20110406	1007	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-06.04.2011.html
+20110413	1007	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-13.04.2011.html
+20110420	1014	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-20.04.2011.html
+20110427	1013	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-27.04.2011.html
+20110504	1008	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-04.05.2011.html
+20110511	1002	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-11.05.2011.html
+20110518	1002	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-18.05.2011.html
+20110525		http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-25.05.2011.html
+20110601	1009	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-01.06.2011.html
 20110605	1010
-20110608	1010	49999.97	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-08.06.2011.html
-20110615	1012	15599.55	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-15.06.2011.html
-20110622	1011	52366.35	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-22.06.2011.html
-20110629	1011	53988.35	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-29.06.2011.html
-20110706		35600	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-06.07.2011.html
-20110707	1007		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
-20110713	1015	37532.82	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-13.07.2011.html
-20110720			http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-20.07.2011.html
-20110727	1015	35438.87	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-27.07.2011.html
+20110608	1010	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-08.06.2011.html
+20110615	1012	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-15.06.2011.html
+20110622	1011	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-22.06.2011.html
+20110629	1011	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-29.06.2011.html
+20110706		http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-06.07.2011.html
+20110707	1007	http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
+20110713	1015	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-13.07.2011.html
+20110720		http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-20.07.2011.html
+20110727	1015	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-27.07.2011.html
 # http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen.html
 #  - fehlt: alles vor 201101

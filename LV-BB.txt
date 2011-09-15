@@ -1,4 +1,4 @@
-# ISO-Datum	Mitgl	Schatz	Quelle
+# ISO-Datum	Mitgl	Quelle
 20080122	11
 20080405	13
 20090427	27
@@ -34,14 +34,14 @@
 20101222	342
 20110112	339
 20110201	340
-20110401	342	17354.61	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-04-01#Kennzahlen
-20110506	343	17293.65	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-05-06#Kennzahlen
-20110527	346	16875.65	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-05-27#Kennzahlen
+20110401	342	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-04-01#Kennzahlen
+20110506	343	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-05-06#Kennzahlen
+20110527	346	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-05-27#Kennzahlen
 20110607	346
-20110624	349	18477.09	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-06-24#Kennzahlen
+20110624	349	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-06-24#Kennzahlen
 20110625	348
-20110707	351		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
-20110712	346	18454.29	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-07-12#Kennzahlen
-20110726	347	18470.34	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-07-26#Kennzahlen
+20110707	351	http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
+20110712	346	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-07-12#Kennzahlen
+20110726	347	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-07-26#Kennzahlen
 # http://wiki.piratenbrandenburg.de/Kategorie:Landesvorstandssitzung
 #  - fehlt: alles vor 201104

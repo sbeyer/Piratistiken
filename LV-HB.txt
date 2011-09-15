@@ -1,4 +1,4 @@
-# ISO-Datum	Mitgl	Schatz	Quelle
+# ISO-Datum	Mitgl	Quelle
 20080122	7
 20080405	7
 20090202	8
@@ -19,35 +19,35 @@
 20100316	135
 20100324	136
 20100605	136
-20100607			http://wiki.piratenpartei.de/HB:Vorstand/2010-06-07_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
+20100607		http://wiki.piratenpartei.de/HB:Vorstand/2010-06-07_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
 20100804	148
 20100910	147
 20100915	145
 20100920	148
 20100923	150
 20101018	151
-20101022		1857.46	http://wiki.piratenpartei.de/HB:Vorstand/2010-10-25_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
-20101024	152		http://wiki.piratenpartei.de/HB:Vorstand/2010-10-25_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
+20101022		http://wiki.piratenpartei.de/HB:Vorstand/2010-10-25_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
+20101024	152	http://wiki.piratenpartei.de/HB:Vorstand/2010-10-25_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
 20101030	153
 20101103	154
 20101125	152
 20101227	153
-20110110	152	2378.00	http://wiki.piratenpartei.de/HB:Vorstand/2011-01-10_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
-20110122		2113.21	http://wiki.piratenpartei.de/HB:Vorstand/2011-01-24_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
-20110124	152		http://wiki.piratenpartei.de/HB:Vorstand/2011-01-24_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
-20110214			http://wiki.piratenpartei.de/HB:Vorstand/2011-02-14_Protokoll_Vorstandssitzung
-20110221			http://wiki.piratenpartei.de/HB:Vorstand/2011-02-21_Protokoll_Vorstandssitzung
-20110307			http://wiki.piratenpartei.de/HB:Vorstand/2011-03-07_Protokoll_Vorstandssitzung
+20110110	152	http://wiki.piratenpartei.de/HB:Vorstand/2011-01-10_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
+20110122		http://wiki.piratenpartei.de/HB:Vorstand/2011-01-24_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
+20110124	152	http://wiki.piratenpartei.de/HB:Vorstand/2011-01-24_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
+20110214		http://wiki.piratenpartei.de/HB:Vorstand/2011-02-14_Protokoll_Vorstandssitzung
+20110221		http://wiki.piratenpartei.de/HB:Vorstand/2011-02-21_Protokoll_Vorstandssitzung
+20110307		http://wiki.piratenpartei.de/HB:Vorstand/2011-03-07_Protokoll_Vorstandssitzung
 20110318	151
 20110429	155
-20110502	156		http://wiki.piratenpartei.de/HB:Vorstand/2011-05-02_Protokoll_Vorstandssitzung
+20110502	156	http://wiki.piratenpartei.de/HB:Vorstand/2011-05-02_Protokoll_Vorstandssitzung
 20110503	157
 20110517	159
 20110525	163
 20110531	167
-20110707	167	8344.77	http://wiki.piratenpartei.de/HB:Vorstand/2011-07-07_Protokoll_Vorstandssitzung#Bericht_vom_Schatzmeister
+20110707	167	http://wiki.piratenpartei.de/HB:Vorstand/2011-07-07_Protokoll_Vorstandssitzung#Bericht_vom_Schatzmeister
 20110824	166
-# 20110926			http://wiki.piratenpartei.de/HB:Vorstand/2011-09-26_Protokoll_Vorstandssitzung
+# 20110926		http://wiki.piratenpartei.de/HB:Vorstand/2011-09-26_Protokoll_Vorstandssitzung
 # http://wiki.piratenpartei.de/wiki//index.php?title=HB:Vorlage:Piraten_in_HB&action=history
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Bremen
 #  - fehlt: alles vor 201103
