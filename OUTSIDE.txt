@@ -19,3 +19,4 @@
 20091228	60
 20100110	62
 20110502	68
+20110707	71		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen

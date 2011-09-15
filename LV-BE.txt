@@ -52,9 +52,14 @@
 20110613	902	18957.12	http://wiki.piratenpartei.de/BE:2011-06-13_-_Protokoll_Vorstandssitzung_Landesverband_Berlin
 20110626	905	33267.15	http://wiki.piratenpartei.de/BE:2011-06-26_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20110704	916
+20110707	915		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
 20110710			http://wiki.piratenpartei.de/BE:2011-07-10_-_Protokoll_Vorstandssitzung_Landesverband_Berlin
 20110724	919	18285.83	http://wiki.piratenpartei.de/BE:2011-07-24_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 # 20110807			http://wiki.piratenpartei.de/BE:2011-08-07_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20110810	928
+20110817	949
+20110825	965
+20110908	1015
 #
 # Schatzkisteninformationen aus Vorstandssitzungen:
 #   http://wiki.piratenpartei.de/Kategorie:Vorstandssitzung_Berlin

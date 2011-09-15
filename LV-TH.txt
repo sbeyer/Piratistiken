@@ -48,8 +48,11 @@
 20110608	171	19010.67	http://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-06-08-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20110622	175	18906.52	http://vorstand.piraten-thueringen.de/2011/06/22/vorstandssitzung-vom-22-juni-2011/
 20110706	177	18990.94	http://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-07-06-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20110707	177		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
 20110720	178		http://vorstand.piraten-thueringen.de/2011/07/20/vorstandssitzung-vom-20-juli-2011/
 20110803	178	16742.60	http://vorstand.piraten-thueringen.de/2011/08/03/vorstandssitzung-vom-03-august-2011/
+20110817	181	16642.75	http://vorstand.piraten-thueringen.de/2011/08/17/vorstandssitzung-vom-17-august-2011/
+20110831	183	15286.66	http://vorstand.piraten-thueringen.de/2011/08/31/vorstandssitzung-vom-31-august-2011/
 # http://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 # http://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv (vollständiger)
 #  - Vorstand 2009 - 2010 hier noch nicht eingearbeitet

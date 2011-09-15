@@ -71,6 +71,7 @@
 20110525	910	29076.37	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-05-25#Themenblock_I:_Berichte
 20110608		28235.11	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-06-08
 20110622	912	29327.11	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-06-22#Themenblock_I:_Berichte
+20110707	914		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
 20110711	917
 20110713	917	29812.21	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-07-13#Themenblock_I:_Berichte
 # http://wiki.piratenpartei.de/HE:Vorstand/Protokolle

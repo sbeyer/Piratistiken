@@ -47,6 +47,7 @@
 20110517	372		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=135
 20110609	374		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=140
 20110626	372		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=146
+20110707	374		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
 20110711	374	56398.67	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=150
 20110724	374	56324.67	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=151
 # http://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand

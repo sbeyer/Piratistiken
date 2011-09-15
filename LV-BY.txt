@@ -45,6 +45,7 @@
 20110601	2654	82514.47	http://wiki.piratenpartei.de/2011-06-01_-_Protokoll_Vorstandssitzung_Bayern#Kurz-Bericht_Verwaltung
 20110615			http://wiki.piratenpartei.de/BY:2011-06-15_-_Protokoll_Vorstandssitzung_Bayern#Kurz-Bericht_Schatzmeister
 20110629	2654	87849.80	http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-06-29#Kurz-Bericht_Schatzmeister
+20110707	2659		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
 20110713	2652	88051.91	http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-07-13#Kurz-Bericht_Verwaltung
 20110727			http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-07-27#Kurz-Bericht_Schatzmeister
 # http://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2011
