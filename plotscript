@@ -13,25 +13,43 @@ set key outside center right
 
 ymax = 14000
 
-### define colors for election markers
+### define colors for special date markers
 col_europa = "#0000ff"
 col_bund = "#000000"
-col_land = "#888888"
+col_land = "#a5a5a5"
+col_bpt = "#ffa500"
 
-### define markers for elections
+### define markers for special dates
+
+set arrow from "20060910",0 rto 0,ymax nohead lt rgb col_bpt # Gründungsversammlung
+set arrow from "20080517",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2008.1
+set arrow from "20080518",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2008.1
+set arrow from "20081003",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2008.2
+set arrow from "20081004",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2008.2
+set arrow from "20081005",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2008.2
 set arrow from "20090118",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl HE
 set arrow from "20090607",0 rto 0,ymax nohead lt rgb col_europa # Europawahl 2009
+set arrow from "20090704",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2009.1
+set arrow from "20090705",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2009.1
 set arrow from "20090830",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl SL,SN,TH
-set arrow from "20090927",0 rto 0,ymax nohead lt rgb col_bund # Bundestagswahl 2009
 set arrow from "20090927",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl BB,SH
+set arrow from "20090927",0 rto 0,ymax nohead lt rgb col_bund # Bundestagswahl 2009
 set arrow from "20100509",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl NRW
+set arrow from "20100515",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2010.1
+set arrow from "20100516",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2010.1
+set arrow from "20101120",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2010.2
+set arrow from "20101121",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2010.2
 set arrow from "20110220",0 rto 0,ymax nohead lt rgb col_land # Bürgerschaftswahl HH
 set arrow from "20110320",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl LSA
 set arrow from "20110327",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl BW
 set arrow from "20110327",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl RP
+set arrow from "20110514",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2011.1
+set arrow from "20110515",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2011.1
 set arrow from "20110522",0 rto 0,ymax nohead lt rgb col_land # Bürgerschaftswahl HB
 set arrow from "20110904",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl MV
 set arrow from "20110918",0 rto 0,ymax nohead lt rgb col_land # Abgeordnetenhauswahl BE
+set arrow from "20111203",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2011.2
+set arrow from "20111204",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2011.2
 
 ### define colors for LVs
 col_out = "#5f9812"
