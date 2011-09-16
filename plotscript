@@ -14,14 +14,14 @@ set key outside center right
 ymax = 14000
 
 ### define colors for special date markers
-col_europa = "#0000ff"
-col_bund = "#000000"
-col_land = "#a5a5a5"
-col_bpt = "#ffa500"
+col_europa = "#3030ff"
+col_bund = "#303030"
+col_land = "#d5d5d5"
+col_bpt = "#ffd530"
 
 ### define markers for special dates
 
-set arrow from "20060910",0 rto 0,ymax nohead lt rgb col_bpt # Gründungsversammlung
+#set arrow from "20060910",0 rto 0,ymax nohead lt rgb col_bpt # Gründungsversammlung
 set arrow from "20080517",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2008.1
 set arrow from "20080518",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2008.1
 set arrow from "20081003",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2008.2
@@ -32,7 +32,7 @@ set arrow from "20090607",0 rto 0,ymax nohead lt rgb col_europa # Europawahl 200
 set arrow from "20090704",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2009.1
 set arrow from "20090705",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2009.1
 set arrow from "20090830",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl SL,SN,TH
-set arrow from "20090927",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl BB,SH
+#set arrow from "20090927",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl BB,SH
 set arrow from "20090927",0 rto 0,ymax nohead lt rgb col_bund # Bundestagswahl 2009
 set arrow from "20100509",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl NRW
 set arrow from "20100515",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2010.1
