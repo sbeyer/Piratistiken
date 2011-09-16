@@ -3,6 +3,7 @@
 20080122	68
 20080405	70
 20080406	69
+20080418	74	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2008-protokolle.zip
 20081207	91
 20081228	93
 20090101	94
@@ -35,10 +36,12 @@
 20090528	142
 20090607	150
 20090609	155
+20090610	155	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2009-protokolle.zip
 20090615	167
 20090617	186
 20090619	186
 20090621	189
+20090624	203	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2009-protokolle.zip
 20090625	217
 20090626	229
 20090627	230
@@ -54,10 +57,11 @@
 20090813	412
 20090817	465
 20090824	475
+20090826	485	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2009-protokolle.zip
 20090830	510
-20090909	534
+20090909	534	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2009-protokolle.zip
 20090917	602
-20090925	602
+20090923	603	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2009-protokolle.zip
 20090926	621
 20090927	637
 20090930	683
@@ -65,7 +69,7 @@
 20091003	771
 20091004	867
 20091005	868
-20091014	890
+20091014	890	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2009-protokolle.zip
 20091018	921
 20091024	944
 20091029	915
@@ -73,53 +77,92 @@
 20091112	932
 20091113	933
 20091117	943
+20091118	943	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2009-protokolle.zip
 20091119	944
 20091122	944
 20091123	946
+20091125	946	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2009-protokolle.zip
 20091128	948
+20091202	948	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2009-protokolle.zip
 20091206	956
-20091209	957
+20091209	957	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2009-protokolle.zip
+20091216	961	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2009-protokolle.zip
 20091217	962
+20091223	962	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2009-protokolle.zip
+20091230	962	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2009-protokolle.zip
 20100101	963
 20100112	969
+20100113	969	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20100117	970
 20100118	971
+20100120	971	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20100127	972	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20100128	975
+20100203	975	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20100207	975
+20100210	975	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20100211	977
 20100213	974
+20100217	974	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20100224	975	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20100225	975
 20100226	972
+20100303	972	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20100306	971
+20100310	971	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20100315	985
+20100324	985	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20100326	983
+20100331	983	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20100404	989
-20100407	990
+20100407	990	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20100414	990	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20100421	987	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20100428	988	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20100502	987
+20100505	987	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20100512	987	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20100523	989
 20100525	990
+20100526	990	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20100602	990	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20100607	991
-20100609	992
+20100609	992	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20100616	993
 20100624	997
-20100628	997
+20100630	997	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20100707	997	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20100713	998
-20100714	999
+20100714	999	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20100721	1001	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20100725	1002
 20100727	1003
+20100728	1003	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20100811	1004
 20100812	1004
 20100814	1003
 20100815	1004
 20100821	1008
 20100822	1010
-20100825	1012
+20100825	1012	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20100830	1013
+20100908	1013	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20100915	1013	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20100922	1011	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20101003	1014
+20101006	1013	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20101013	1014	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20101017	1016
+20101020	1016	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20101027	1016	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20101103	1019	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20101114	1019
-20101205	1025
-20101215	1023
+20101124	1020	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20101201	1018	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20101208	1023	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20101215	1023	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20101222	1023	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
+20101229	1021	http://www.piratenpartei-niedersachsen.de/fileadmin/user_upload/nds-redaktion/2010-protokolle.zip
 20110105	1021	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-05.01.2011.html
 20110112	1016	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-12.01.2011.html
 20110119	1016	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-19.01.2011.html
@@ -158,4 +201,3 @@
 20110803	1021	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-03.08.2011.html
 20110810	1020	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-10.08.2011.html
 # http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen.html
-#  - fehlt: alles vor 201101

@@ -36,32 +36,42 @@
 20100108	2089
 20100129	2114
 20100225	2117
+20100419	2350	http://wiki.piratenpartei.de/NRW:2010-04-19_-_NRW_Vorstand#Arndt
 20100425	2348
 20100503	2367
+20100515	2382	http://wiki.piratenpartei.de/NRW:2010-05-17_-_NRW_Vorstand#Berichte_Statistik
 20100626	2382
 20100705	2436
+20100706	2436	http://wiki.piratenpartei.de/NRW:2010-07-06_-_NRW_Vorstand#Berichte_Statistik
 20100724	2438
-20100803	2443
-20100831	2432
+20100803	2443	http://wiki.piratenpartei.de/NRW:2010-08-03_-_NRW_Vorstand#Berichte_Statistik
+20100831	2432	http://wiki.piratenpartei.de/NRW:2010-08-31_-_NRW_Vorstand#Berichte_Statistik
 20100904	2452
-20100916	2449
-20101027	2446
-20101124	2140
-20101221	2135
-20110104	2099
+20100914	2449	http://wiki.piratenpartei.de/NRW:2010-09-14_-_NRW_Vorstand#Berichte_Statistik
+20100925	2449	http://wiki.piratenpartei.de/NRW:2010-09-28_-_NRW_Vorstand#Berichte_Statistik
+20101012	2445	http://wiki.piratenpartei.de/NRW:2010-10-12_-_NRW_Vorstand#Berichte_Statistik
+20101026	2446	http://wiki.piratenpartei.de/NRW:2010-10-26_-_NRW_Vorstand#Berichte_Statistik
+20101123	2140	http://wiki.piratenpartei.de/NRW:2010-11-23_-_NRW_Vorstand#Berichte_Statistik
+20101207	2140	http://wiki.piratenpartei.de/NRW:2010-12-07_-_NRW_Vorstand#Berichte_Statistik
+20101221	2135	http://wiki.piratenpartei.de/NRW:2010-12-21_-_NRW_Vorstand#Berichte_Statistik
+20110104	2099	http://wiki.piratenpartei.de/NRW:2011-01-04_-_NRW_Vorstand#Berichte_Statistik
 20110105	2099
-20110119	2090
+20110118	2090	http://wiki.piratenpartei.de/NRW:2011-01-18_-_NRW_Vorstand#Berichte_Statistik
 20110123	2090
+20110201	2089	http://wiki.piratenpartei.de/NRW:2011-02-01_-_NRW_Vorstand#Berichte_Statistik
 20110210	2089
+20110224	1919	http://wiki.piratenpartei.de/NRW:2011-02-24_-_NRW_Vorstand#Berichte_Statistik
 20110225	1919
+20110310	1906	http://wiki.piratenpartei.de/NRW:2011-03-10_-_NRW_Vorstand#Berichte_Statistik
 20110315	1911
+20110324	1912	http://wiki.piratenpartei.de/NRW:2011-03-24_-_NRW_Vorstand#Berichte_Statistik
+20110407	1919	http://wiki.piratenpartei.de/NRW:2011-04-07_-_NRW_Vorstand#Berichte_Statistik
 20110411	1918
-20110424	1921
+20110421	1921	http://wiki.piratenpartei.de/NRW:2011-04-21_-_NRW_Vorstand#Berichte_Statistik
 20110505	1926	http://wiki.piratenpartei.de/NRW:2011-05-05_-_NRW_Vorstand#Berichte_Statistik
-20110519	1933	http://wiki.piratenpartei.de/NRW:2011-05-19_-_NRW_Vorstand
+20110519	1933	http://wiki.piratenpartei.de/NRW:2011-05-19_-_NRW_Vorstand#Berichte_Statistik
 20110609	1933	http://wiki.piratenpartei.de/NRW:2011-06-09_-_NRW_Vorstand#Berichte_Statistik
-20110616	1931	http://wiki.piratenpartei.de/NRW:2011-06-16_-_NRW_Vorstand
-20110617	1931
+20110616	1931	http://wiki.piratenpartei.de/NRW:2011-06-16_-_NRW_Vorstand#Berichte_Statistik
 20110630	1926	http://wiki.piratenpartei.de/NRW:2011-06-30_-_NRW_Vorstand#Berichte_Statistik
 20110707	1926	http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
 20110714	1926	http://wiki.piratenpartei.de/NRW:2011-07-14_-_NRW_Vorstand#Berichte_Statistik
@@ -72,4 +82,3 @@
 # 20110922		http://wiki.piratenpartei.de/NRW:2011-09-22_-_NRW_Vorstand#Berichte_Statistik
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand
-#  - fehlt: alles vor 201105

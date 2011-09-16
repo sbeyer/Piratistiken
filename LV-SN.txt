@@ -27,31 +27,18 @@
 20091217	323
 20100108	327
 20100120	332
-20100209		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-02-09
-20100216		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-02-16
-20100222		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-02-22
-20100302		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-03-02
 20100309	332	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-03-09
 20100316	336	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-03-16
 20100323	339	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-03-23
 20100330	339	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-03-30
 20100406	339	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-04-06
 20100414	339	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-04-13
-20100427		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-04-27
-20100511		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-05-11
 20100527	339
 20100622	342	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-06-22
 20100624	346
 20100706	346	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-07-06
-20100727		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-07-27
 20100803	347	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-08-03
 20100817	356	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-08-17
-20100824		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-08-24
-20100830		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-08-30
-20100907		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-09-07
-20100928		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-09-28
-20101006		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-10-06
-20101025		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-10-25
 20101108	354	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-11-08
 20101115	354
 20101129	358	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-11-29
