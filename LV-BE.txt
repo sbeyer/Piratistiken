@@ -39,30 +39,22 @@
 20101023	877
 20101207	873
 20110225	876
-20110301		http://wiki.piratenpartei.de/BE:2011-03-01_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Kontostand
-20110306		http://wiki.piratenpartei.de/BE:2011-03-06_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Kontostand
-20110313		http://wiki.piratenpartei.de/BE:2011-03-13_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Kontostand
-#20110403	881
+20110403	881
 20110403	889	http://wiki.piratenpartei.de/wiki//index.php?title=BE:Mitglieder&direction=prev&oldid=967863
-20110508		http://wiki.piratenpartei.de/BE:2011-05-08_-_Protokoll_Vorstandssitzung_Landesverband_Berlin
 20110510	889	http://wiki.piratenpartei.de/wiki//index.php?title=BE:Mitglieder&oldid=979853
-20110522		http://wiki.piratenpartei.de/BE:2011-05-22_-_Protokoll_Vorstandssitzung_Landesverband_Berlin
 20110602	902	http://wiki.piratenpartei.de/wiki//index.php?title=BE:Mitglieder&oldid=1003625
-20110605		http://wiki.piratenpartei.de/BE:2011-06-05_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Kontostand
 20110613	902	http://wiki.piratenpartei.de/BE:2011-06-13_-_Protokoll_Vorstandssitzung_Landesverband_Berlin
 20110626	905	http://wiki.piratenpartei.de/BE:2011-06-26_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20110704	916
 20110707	915	http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
-20110710		http://wiki.piratenpartei.de/BE:2011-07-10_-_Protokoll_Vorstandssitzung_Landesverband_Berlin
 20110724	919	http://wiki.piratenpartei.de/BE:2011-07-24_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
-# 20110807		http://wiki.piratenpartei.de/BE:2011-08-07_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20110810	928
 20110817	949
 20110825	965
 20110908	1015
+# Vorstandssitzungscheck:  20110301 - 20110904
 #
 # Mitgliederzahlen aus:
 #   http://wiki.piratenpartei.de/BE:Mitglieder
 #   http://wiki.piratenpartei.de/Kategorie:Vorstandssitzung_Berlin
 #   http://wiki.piratenpartei.de/BE:Vorstandssitzung
-#   - fehlt: alles vor 201103
