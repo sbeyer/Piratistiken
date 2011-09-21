@@ -61,5 +61,7 @@
 20110812	352	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-08-12#Mitglieder
 20110824	351
 20110902	352	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-09-02#TOP_3.1:_Mitgliederzahlen_des_Landesverbandes
+20110918	362	Aussage RicoCB
+20110921	402	Aussage RicoCB
 #
 # http://wiki.piratenbrandenburg.de/Kategorie:Landesvorstandssitzung

@@ -200,4 +200,5 @@
 20110727	1015	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-27.07.2011.html
 20110803	1021	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-03.08.2011.html
 20110810	1020	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-10.08.2011.html
+20110918	1042
 # http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen.html
