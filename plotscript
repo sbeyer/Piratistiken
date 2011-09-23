@@ -7,7 +7,14 @@ set output "output.png"
 set xdata time
 set timefmt "%Y%m%d"
 set xlabel "Datum"
-set format x "%m/%y"
+set xtics \
+	"20070701",7776000 \
+	axis \
+	rotate \
+	offset 0,character 0.8 \
+	font "sans,9" \
+	format "%y-%m"
+
 set key outside center right
 #set ytics ...
 
@@ -70,7 +77,7 @@ col_bw = "#5b9c1c"
 col_nrw = "#2d8b13"
 col_by = "#136707"
 
-plot \
+plot ["20070701":"20120101"] \
  'mitglieder.csv' using 1:18 t "LV BY" w filledcurves x1 lt rgb col_by, \
  'mitglieder.csv' using 1:17 t "LV NRW" w filledcurves x1 lt rgb col_nrw, \
  'mitglieder.csv' using 1:16 t "LV BW" w filledcurves x1 lt rgb col_bw, \
