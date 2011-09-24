@@ -2,7 +2,7 @@
 # Generate output.svg based on mitglieder.csv
 
 set terminal png
-set output "output.png"
+set output "output-tmp.png"
 
 set xdata time
 set timefmt "%Y%m%d"

@@ -17,10 +17,10 @@ INPUT_SORTED = \
 	LV-NRW.txt \
 	LV-BY.txt
 
-output_crush.png: output.png
-	pngcrush -brute -l 9 output.png output-crush.png
+output.png: output-tmp.png
+	pngcrush -brute -l 9 output-tmp.png output.png
 
-output.png: mitglieder.csv plotscript
+output-tmp.png: mitglieder.csv plotscript
 	./plotscript
 
 mitglieder.csv: $(INPUT_SORTED) plot-stacked.rb Makefile
