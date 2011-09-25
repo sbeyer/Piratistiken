@@ -47,6 +47,7 @@
 20110531	167
 20110707	167	http://wiki.piratenpartei.de/HB:Vorstand/2011-07-07_Protokoll_Vorstandssitzung#Bericht_vom_Schatzmeister
 20110824	166
+20110923	170
 # 20110926		http://wiki.piratenpartei.de/HB:Vorstand/2011-09-26_Protokoll_Vorstandssitzung
 #
 # http://wiki.piratenpartei.de/wiki//index.php?title=HB:Vorlage:Piraten_in_HB&action=history

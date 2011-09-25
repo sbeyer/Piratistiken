@@ -52,6 +52,7 @@
 20110817	949
 20110825	965
 20110908	1015
+20110917	1109
 # Vorstandssitzungscheck:  20110301 - 20110904
 #
 # Mitgliederzahlen aus:
