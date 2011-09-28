@@ -1,6 +1,7 @@
 # ISO-Datum	Mitgl	Quelle
 20080122	11
 20080405	13
+#20081003	7	http://wiki.piratenbrandenburg.de/images/0/04/Gr%C3%BCndungsprotokoll_Landesverband.pdf
 20090427	27
 20090514	31
 20090609	42

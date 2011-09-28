@@ -52,6 +52,7 @@
 20110707	364	http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
 20110915	368	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
 20110926	384	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-09-26
+20110928	384
 # last: 20110926
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Telefonkonferenz_Sachsen

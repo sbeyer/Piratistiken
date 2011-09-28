@@ -5,27 +5,45 @@
 20090526	9
 20090602	10
 20090614	14
-20090624	33
+20090624	37	http://wiki.piratenpartei.de/SL:2009-06-24_Gr%C3%BCndungssitzung
 20090901	58
 20090927	68
 20091020	108
 20091108	110
 20091122	110
 20100131	111
-20100611	90
+20100314	104	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2010-03-14#TOP_6:_Sonstiges
+20100322	106	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2010-03-22#TOP_5:_Infos_aus_unserem_LV
+20100426	97	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2010-04-26#TOP_1b:_Kennzahlen
+20100510	97	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2010-05-10#TOP_7:_Kennzahlen
+20100607	90	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2010-06-07#TOP_6:_Kennzahlen
+20100619	90	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2010-06-19#TOP_4:_Kennzahlen
+20100705	90	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2010-07-05#TOP_5:_Kennzahlen
 20100724	89
-20101114	89
+20100731	89	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2010-07-31#TOP_10:_Kennzahlen
+20100816	89	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2010-08-16#TOP_6:_Kennzahlen
+20100918	89	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2010-09-18#TOP_8:_Kennzahlen
+20101012	90	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2010-10-12#TOP_12:_Kennzahlen
+20101017	90	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2010-10-17#TOP_9:_Kennzahlen
+20101025	89	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2010-10-25#TOP_6_:_Kennzahlen
+20101108	89	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2010-11-08#TOP_7:_Kennzahlen
+20101114	89	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2010-11-14#TOP_4:_Kennzahlen
+20101122	89	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2010-11-22#TOP_3:_Kennzahlen
+20101213	89	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2010-12-13#TOP_5_:_Kennzahlen
+20110206	86	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-02-06#TOP_4_:_Kennzahlen
+20110220	86	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-02-20#TOP_6:_Kennzahlen
+#20110306	90	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-03-06#TOP_5:_Kennzahlen
+20110320	87	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-03-20#TOP_6:_Kennzahlen
 20110403	87	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-04-03
 20110417	87	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-04-17
 20110501	87	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-05-01
 20110529	88	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-05-29#TOP_10:_Kennzahlen
-20110612		http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-06-12#TOP_11:_Kennzahlen
 20110707	91	http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
 20110710	90	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-07-10#TOP_8:_Kennzahlen
 20110809	72	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-08-09#TOP_5:_Kennzahlen
 20110821	72	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-08-21#TOP_8:_Kennzahlen
 20110904	72	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-09-04#TOP_5:_Kennzahlen
 #20110915	94	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
+#
 # http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen
 # http://wiki.piratenpartei.de/Kategorie:Vorstandssitzungen_Saarland
-#  - fehlt: alles vor 201104

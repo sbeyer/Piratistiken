@@ -17,6 +17,7 @@
 20091018	215
 20091122	215
 20100121	227
+20100408	227	http://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-04-08
 20100611	187
 20100616	187	http://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-06-16#TOP_6_-_aktuelle_Kennzahlen
 20100623	187	http://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-06-23#TOP_6_-_aktuelle_Kennzahlen
@@ -62,4 +63,3 @@
 #
 # http://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 # http://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv (vollständiger)
-#  - Vorstand 2009 - 2010 hier noch nicht eingearbeitet

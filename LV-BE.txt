@@ -1,4 +1,5 @@
 # ISO-Datum	Mitgl	Quelle
+20061230	9	http://wiki.piratenpartei.de/Gr%C3%BCndungsprotokoll_des_Landesverbandes_Berlin
 20080122	55
 20080405	57
 20080406	56

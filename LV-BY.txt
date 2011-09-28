@@ -1,4 +1,5 @@
 # ISO-Datum	Mitgl	Quelle
+20070106	24	http://wiki.piratenpartei.de/BY:Protokoll_der_Gr%C3%BCndung_des_LV_Bayern
 20080122	148
 20080405	160
 20081206	186
@@ -36,8 +37,9 @@
 20100415	2650
 20100923	2727
 20101028	2637
-20110112	2661
-20110208	2640
+20101231	2661	http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-01-12#Kurz-Bericht_Generalsekret.C3.A4r
+20110126	2649	http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-01-26#Kurz-Bericht_Generalsekret.C3.A4r
+20110208	2640	http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-02-08#Kurz-Bericht_Generalsekret.C3.A4r
 20110406	2684	http://wiki.piratenpartei.de/2011-04-06_-_Protokoll_Vorstandssitzung_Bayern
 20110420	2681
 20110518	2600	http://wiki.piratenpartei.de/2011-05-18_-_Protokoll_Vorstandssitzung_Bayern
@@ -54,7 +56,6 @@
 #20110915	2665	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
 20110922	2947
 20110925	3009
-# 20110928		http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-09-28#Kurz-Bericht_Generalsekret.C3.A4r
+20110928	3090	http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-09-28#Kurz-Bericht_Generalsekret.C3.A4r
 #
 # http://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2011
-#  - fehlt: alles vor 201104

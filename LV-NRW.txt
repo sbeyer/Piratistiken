@@ -1,4 +1,5 @@
 # ISO-Datum	Mitgl	Quelle
+20070609	14	http://wiki.piratenpartei.de/Protokoll_Gr%C3%BCndungsversammlung_Lv-NRW
 20080122	108
 20080405	125
 20081207	140

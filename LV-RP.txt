@@ -2,7 +2,7 @@
 20080122	25
 20080405	29
 20080406	30
-20080607		Gründung
+#20080607	15	http://wiki.piratenpartei.de/2008-06-07_-_Gr%C3%BCndungsversammlung_Landesverband_Rheinland-Pfalz
 20080615	30	http://wiki.piratenpartei.de/RP:2008-06-15_-_1._Vorstandssitzung
 20080629	38	http://wiki.piratenpartei.de/RP:2008-06-29_-_2._Vorstandssitzung#Top_5:_Mitgliederverwaltung
 20080824	44	http://wiki.piratenpartei.de/RP:2008-08-24_-_5._Vorstandssitzung#Top_2:_Mitgliederverwaltung
