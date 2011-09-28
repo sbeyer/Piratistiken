@@ -51,6 +51,7 @@
 20110810	2845	http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-08-10#Kurz-Bericht_Generalsekret.C3.A4r
 20110824		http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-08-24#Kurz-Bericht_Generalsekret.C3.A4r
 20110907		http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-09-07#Kurz-Bericht_Generalsekret.C3.A4r
+#20110915	2665	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
 20110922	2947
 20110925	3009
 # 20110928		http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-09-28#Kurz-Bericht_Generalsekret.C3.A4r

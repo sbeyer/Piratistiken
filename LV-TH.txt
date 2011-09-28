@@ -54,9 +54,12 @@
 20110817	181	http://vorstand.piraten-thueringen.de/2011/08/17/vorstandssitzung-vom-17-august-2011/
 20110831	183	http://vorstand.piraten-thueringen.de/2011/08/31/vorstandssitzung-vom-31-august-2011/
 20110914	183	http://vorstand.piraten-thueringen.de/2011/09/14/vorstandssitzung-vom-14-9-2011/
+20110915	186	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
 20110921	209	http://twitter.com/irm_tw/status/116498630847889410
 20110923	218
 20110924	223
+20110925	225
+#
 # http://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 # http://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv (vollständiger)
 #  - Vorstand 2009 - 2010 hier noch nicht eingearbeitet

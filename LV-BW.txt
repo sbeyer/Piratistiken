@@ -136,8 +136,10 @@
 20110803	1575	http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-08-03_-_Vorstandssitzung#aktuelle_Kennzahlen
 20110817	1575	http://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2011-08-17_-_Vorstandssitzung#aktuelle_Kennzahlen
 20110831	1573	http://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2011-08-31_-_Vorstandssitzung#aktuelle_Kennzahlen
+20110915	1574	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
 20110916	1574
 20110924	1600
+20110927	1611
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstandssitzung_Baden-W%C3%BCrttemberg
 # http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand
