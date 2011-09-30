@@ -103,5 +103,6 @@
 20110926	407
 20110927	415
 20110928	417
+20110930	426
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg
