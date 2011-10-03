@@ -57,5 +57,6 @@
 20110922	2947
 20110925	3009
 20110928	3090	http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-09-28#Kurz-Bericht_Generalsekret.C3.A4r
+20110929	3095	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 #
 # http://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2011

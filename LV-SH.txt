@@ -66,6 +66,9 @@
 20110905	372	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=154
 20110915	376	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
 20110917	372	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=155
+20110929	376	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
+20111001	420
+20111002	422
 #
 # http://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
 # http://www.piratenpartei-sh.de/index.php?option=com_remository&Itemid=44&func=select&id=2&orderby=4

@@ -61,7 +61,10 @@
 20110924	223
 20110925	225
 20110928	230	http://vorstand.piraten-thueringen.de/2011/09/28/vorstandssitzung-vom-28-9-2011/
+20110929	230	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 20110930	236
+20111001	241
+20111003	245
 #
 # http://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 # http://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv (vollständiger)

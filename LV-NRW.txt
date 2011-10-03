@@ -83,6 +83,6 @@
 20110915	1924	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
 20110922	2054	http://wiki.piratenpartei.de/NRW:2011-09-22_-_NRW_Vorstand#Berichte_Statistik
 20110926	2151
-20110929	2215
+20110929	2215	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand
