@@ -53,6 +53,8 @@
 20110926	170	http://wiki.piratenpartei.de/HB:Vorstand/2011-09-26_Protokoll_Vorstandssitzung#Kennzahlenbericht_vom_Schatzmeister
 20110929	171	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 20111001	174
+20111004	175
+20111005	176
 #
 # http://wiki.piratenpartei.de/wiki//index.php?title=HB:Vorlage:Piraten_in_HB&action=history
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Bremen
