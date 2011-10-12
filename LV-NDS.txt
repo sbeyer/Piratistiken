@@ -208,5 +208,7 @@
 20111003	1156
 20111004	1168
 20111005	1172
+20111010	1228
+20111012	1282
 #
 # http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen.html

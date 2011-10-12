@@ -70,6 +70,7 @@
 20111001	420
 20111002	422
 20111005	450
+20111008	477
 #
 # http://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
 # http://www.piratenpartei-sh.de/index.php?option=com_remository&Itemid=44&func=select&id=2&orderby=4

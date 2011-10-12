@@ -66,6 +66,12 @@
 20111001	241
 20111003	245
 20111005	252
+20111006	259
+20111007	265
+20111009	271
+20111010	275
+20111011	281
+20111012	283
 #
 # http://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 # http://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv (vollständiger)

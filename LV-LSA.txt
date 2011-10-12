@@ -79,5 +79,6 @@
 20111001	245
 20111003	254
 20111004	256
+20111010	285
 #
 # http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen

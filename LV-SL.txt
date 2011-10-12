@@ -46,6 +46,7 @@
 20110915	94	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
 20110929	102	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 20111002	114
+20111011	162
 #
 # http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen
 # http://wiki.piratenpartei.de/Kategorie:Vorstandssitzungen_Saarland

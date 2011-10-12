@@ -123,7 +123,8 @@
 20110904	525	http://wiki.piratenpartei.de/RP:2011-09-04_-_64_Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 20110915	526	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
 20110929	574	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
-20111002	585	http://twitter.com/#!/PiratenMainz/status/120422027793408000
+20111002	585	http://twitter.com/PiratenMainz/status/120422027793408000
 #20111002	585	http://wiki.piratenpartei.de/RP:Landesparteitag_2011.3/Protokoll#5._T.C3.A4tigkeitsbericht_der_Vorstandsmitglieder_und_Bericht_Landesfinanzausschuss
+20111009	609	https://twitter.com/Donnerbeutel/status/123049825762689025
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand

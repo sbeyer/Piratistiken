@@ -78,6 +78,7 @@
 20110915	916	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
 20110928	928	#http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-09-28#Themenblock_I:_Berichte
 20110929	929	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
+20111005	963	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-10-05#Themenblock_I:_Berichte
 #
 # http://wiki.piratenpartei.de/HE:Vorstand/Protokolle
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Hessen
