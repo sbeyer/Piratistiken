@@ -1,5 +1,6 @@
 output-tmp.png
 output.png
 mitglieder.csv
+plotscript
 netstiff/*
 !netstiff/config

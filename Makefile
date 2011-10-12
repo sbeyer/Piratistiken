@@ -1,30 +1,33 @@
-INPUT_SORTED = \
-	OUTSIDE.txt \
-	LV-SL.txt \
+INPUT = \
+	LV-BB.txt \
+	LV-BE.txt \
+	LV-BW.txt \
+	LV-BY.txt \
 	LV-HB.txt \
-	LV-TH.txt \
+	LV-HE.txt \
+	LV-HH.txt \
 	LV-LSA.txt \
 	LV-MV.txt \
-	LV-BB.txt \
-	LV-SN.txt \
-	LV-SH.txt \
-	LV-RP.txt \
-	LV-HH.txt \
-	LV-BE.txt \
-	LV-HE.txt \
 	LV-NDS.txt \
-	LV-BW.txt \
 	LV-NRW.txt \
-	LV-BY.txt
+	LV-RP.txt \
+	LV-SH.txt \
+	LV-SL.txt \
+	LV-SN.txt \
+	LV-TH.txt \
+	OUTSIDE.txt
 
 output.png: output-tmp.png
 	pngcrush -brute -l 9 output-tmp.png output.png
 
 output-tmp.png: mitglieder.csv plotscript
-	./plotscript
+	gnuplot plotscript
 
-mitglieder.csv: $(INPUT_SORTED) plot-stacked.rb Makefile
-	./plot-stacked.rb $(INPUT_SORTED) > $@
+mitglieder.csv: $(INPUT) plot-stacked.rb sort.rb Makefile
+	./plot-stacked.rb `./sort.rb $(INPUT)` > $@
+
+plotscript: $(INPUT) plot-script.rb sort.rb Makefile
+	./plot-script.rb `./sort.rb $(INPUT)` > $@
 
 check:
 	netstiff -W netstiff
