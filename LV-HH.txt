@@ -109,5 +109,8 @@
 20111005	442
 20111006	444
 20111007	456
+20111017	474
+20111018	494
+20111019	505
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg

@@ -62,7 +62,7 @@ print <<EOF
 set terminal png
 set output "output-tmp.png"
 
-ymax = 15500
+ymax = 16500
 
 set xdata time
 set timefmt "%Y%m%d"

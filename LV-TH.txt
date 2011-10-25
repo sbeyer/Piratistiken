@@ -71,7 +71,15 @@
 20111009	271
 20111010	275
 20111011	281
-20111012	283
+20111012	283	http://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-10-12-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20111013	288
+20111014	294
+20111017	298
+20111018	300
+20111020	305
+20111021	312
+20111023	316
+20111024	321
 #
 # http://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 # http://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv (vollständiger)
