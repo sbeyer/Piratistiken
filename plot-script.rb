@@ -52,8 +52,8 @@ Translate = {
 	'OUTSIDE.txt' => ['Ausland', 'out']
 }
 
-if ARGV.length != 17
-	STDERR.puts "Error: need 17 arguments"
+if ARGV.length != 18
+	STDERR.puts "Error: need 18 arguments"
 	exit 1
 end
 
@@ -62,7 +62,7 @@ print <<EOF
 set terminal png
 set output "output-tmp.png"
 
-ymax = 16500
+ymax = #{(ARGV[0].to_i/1000.0).ceil*1000}
 
 set xdata time
 set timefmt "%Y%m%d"
@@ -117,40 +117,40 @@ set arrow from "20111203",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2011.2
 set arrow from "20111204",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2011.2
 
 ### define colors for LVs
-col_#{Translate[ARGV[0]][1]} = "#5f9812"
-col_#{Translate[ARGV[1]][1]} = "#65cb39"
-col_#{Translate[ARGV[2]][1]} = "#9ff8e8"
-col_#{Translate[ARGV[3]][1]} = "#8ea5f9"
-col_#{Translate[ARGV[4]][1]} = "#8171fc"
-col_#{Translate[ARGV[5]][1]} = "#7a4ce6"
-col_#{Translate[ARGV[6]][1]} = "#824f7f"
-col_#{Translate[ARGV[7]][1]} = "#9f4c36"
-col_#{Translate[ARGV[8]][1]} = "#be472e"
-col_#{Translate[ARGV[9]][1]} = "#f14122"
-col_#{Translate[ARGV[10]][1]} = "#ef8129"
-col_#{Translate[ARGV[11]][1]} = "#eda32d"
-col_#{Translate[ARGV[12]][1]} = "#dcba2e"
-col_#{Translate[ARGV[13]][1]} = "#9eac25"
-col_#{Translate[ARGV[14]][1]} = "#5b9c1c"
-col_#{Translate[ARGV[15]][1]} = "#2d8b13"
-col_#{Translate[ARGV[16]][1]} = "#136707"
+col_#{Translate[ARGV[1]][1]} = "#5f9812"
+col_#{Translate[ARGV[2]][1]} = "#65cb39"
+col_#{Translate[ARGV[3]][1]} = "#9ff8e8"
+col_#{Translate[ARGV[4]][1]} = "#8ea5f9"
+col_#{Translate[ARGV[5]][1]} = "#8171fc"
+col_#{Translate[ARGV[6]][1]} = "#7a4ce6"
+col_#{Translate[ARGV[7]][1]} = "#824f7f"
+col_#{Translate[ARGV[8]][1]} = "#9f4c36"
+col_#{Translate[ARGV[9]][1]} = "#be472e"
+col_#{Translate[ARGV[10]][1]} = "#f14122"
+col_#{Translate[ARGV[11]][1]} = "#ef8129"
+col_#{Translate[ARGV[12]][1]} = "#eda32d"
+col_#{Translate[ARGV[13]][1]} = "#dcba2e"
+col_#{Translate[ARGV[14]][1]} = "#9eac25"
+col_#{Translate[ARGV[15]][1]} = "#5b9c1c"
+col_#{Translate[ARGV[16]][1]} = "#2d8b13"
+col_#{Translate[ARGV[17]][1]} = "#136707"
 
 plot ["20070701":"20120101"] [0:ymax] \\
- 'mitglieder.csv' using 1:18 t "#{Translate[ARGV[16]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[16]][1]}, \\
- 'mitglieder.csv' using 1:17 t "#{Translate[ARGV[15]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[15]][1]}, \\
- 'mitglieder.csv' using 1:16 t "#{Translate[ARGV[14]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[14]][1]}, \\
- 'mitglieder.csv' using 1:15 t "#{Translate[ARGV[13]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[13]][1]}, \\
- 'mitglieder.csv' using 1:14 t "#{Translate[ARGV[12]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[12]][1]}, \\
- 'mitglieder.csv' using 1:13 t "#{Translate[ARGV[11]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[11]][1]}, \\
- 'mitglieder.csv' using 1:12 t "#{Translate[ARGV[10]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[10]][1]}, \\
- 'mitglieder.csv' using 1:11 t "#{Translate[ARGV[9]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[9]][1]}, \\
- 'mitglieder.csv' using 1:10 t "#{Translate[ARGV[8]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[8]][1]}, \\
- 'mitglieder.csv' using 1:9 t "#{Translate[ARGV[7]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[7]][1]}, \\
- 'mitglieder.csv' using 1:8 t "#{Translate[ARGV[6]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[6]][1]}, \\
- 'mitglieder.csv' using 1:7 t "#{Translate[ARGV[5]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[5]][1]}, \\
- 'mitglieder.csv' using 1:6 t "#{Translate[ARGV[4]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[4]][1]}, \\
- 'mitglieder.csv' using 1:5 t "#{Translate[ARGV[3]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[3]][1]}, \\
- 'mitglieder.csv' using 1:4 t "#{Translate[ARGV[2]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[2]][1]}, \\
- 'mitglieder.csv' using 1:3 t "#{Translate[ARGV[1]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[1]][1]}, \\
- 'mitglieder.csv' using 1:2 t "#{Translate[ARGV[0]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[0]][1]}
+ 'mitglieder.csv' using 1:18 t "#{Translate[ARGV[17]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[17]][1]}, \\
+ 'mitglieder.csv' using 1:17 t "#{Translate[ARGV[16]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[16]][1]}, \\
+ 'mitglieder.csv' using 1:16 t "#{Translate[ARGV[15]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[15]][1]}, \\
+ 'mitglieder.csv' using 1:15 t "#{Translate[ARGV[14]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[14]][1]}, \\
+ 'mitglieder.csv' using 1:14 t "#{Translate[ARGV[13]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[13]][1]}, \\
+ 'mitglieder.csv' using 1:13 t "#{Translate[ARGV[12]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[12]][1]}, \\
+ 'mitglieder.csv' using 1:12 t "#{Translate[ARGV[11]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[11]][1]}, \\
+ 'mitglieder.csv' using 1:11 t "#{Translate[ARGV[10]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[10]][1]}, \\
+ 'mitglieder.csv' using 1:10 t "#{Translate[ARGV[9]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[9]][1]}, \\
+ 'mitglieder.csv' using 1:9 t "#{Translate[ARGV[8]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[8]][1]}, \\
+ 'mitglieder.csv' using 1:8 t "#{Translate[ARGV[7]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[7]][1]}, \\
+ 'mitglieder.csv' using 1:7 t "#{Translate[ARGV[6]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[6]][1]}, \\
+ 'mitglieder.csv' using 1:6 t "#{Translate[ARGV[5]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[5]][1]}, \\
+ 'mitglieder.csv' using 1:5 t "#{Translate[ARGV[4]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[4]][1]}, \\
+ 'mitglieder.csv' using 1:4 t "#{Translate[ARGV[3]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[3]][1]}, \\
+ 'mitglieder.csv' using 1:3 t "#{Translate[ARGV[2]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[2]][1]}, \\
+ 'mitglieder.csv' using 1:2 t "#{Translate[ARGV[1]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[1]][1]}
 EOF
