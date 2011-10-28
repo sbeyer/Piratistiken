@@ -72,6 +72,7 @@
 20111004	428	http://piratenpartei-sh.de/index.php/mitmachen/downloads-a-logos/category/2-protokolle-vorstandssitzungen?download=26
 20111005	450
 20111008	477
+#20111013	376	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111017	517	http://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-10-17
 # 20111030		http://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-10-30
 #

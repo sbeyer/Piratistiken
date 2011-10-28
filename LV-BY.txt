@@ -60,8 +60,8 @@
 20110929	3095	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 20111005	3308	http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-10-05#Mitgliederzahlen
 20111007	3365
+#20111013	3366	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111013	3537
-#20111019		http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-10-19#Kurz-Bericht_Generalsekret.C3.A4r
 20111023	3801
 #20111028
 #

@@ -126,5 +126,6 @@
 20111002	585	http://twitter.com/PiratenMainz/status/120422027793408000
 #20111002	585	http://wiki.piratenpartei.de/RP:Landesparteitag_2011.3/Protokoll#5._T.C3.A4tigkeitsbericht_der_Vorstandsmitglieder_und_Bericht_Landesfinanzausschuss
 20111009	609	https://twitter.com/Donnerbeutel/status/123049825762689025
+#20111013	591	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand

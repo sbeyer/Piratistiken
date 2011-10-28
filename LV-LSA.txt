@@ -80,5 +80,6 @@
 20111003	254
 20111004	256
 20111010	285
+20111013	287	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 #
 # http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen

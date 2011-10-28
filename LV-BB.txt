@@ -70,6 +70,7 @@
 #20110929	389	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 20110930	448
 20111009	516
+#20111013	435	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111012	529
 20111023	581
 #

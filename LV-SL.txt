@@ -47,6 +47,7 @@
 20110929	102	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 20111002	131	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-10-02#TOP_18:_Kennzahlen
 20111011	162
+#20111013	154	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111016	161	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-10-16#TOP_7:_Kennzahlen
 #
 # http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen
