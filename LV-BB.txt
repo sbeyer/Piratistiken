@@ -73,5 +73,6 @@
 #20111013	435	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111012	529
 20111023	581
+20111029	592
 #
 # http://wiki.piratenbrandenburg.de/Kategorie:Landesvorstandssitzung

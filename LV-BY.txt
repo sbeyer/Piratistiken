@@ -63,6 +63,8 @@
 #20111013	3366	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111013	3537
 20111023	3801
-#20111028
+20111028	3801	http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-10-28#Kurz-Bericht_Generalsekret.C3.A4r
+20111101	3875
+20111102	3875	http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-11-02#Kurz-Bericht_Generalsekret.C3.A4r
 #
 # http://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2011

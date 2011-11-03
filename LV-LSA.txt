@@ -80,6 +80,10 @@
 20111003	254
 20111004	256
 20111010	285
+#20111013	285	http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2011/10-Oktober/2011-10-13_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 20111013	287	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
+20111031	296
+20111101	298
+20111102	299
 #
 # http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen
