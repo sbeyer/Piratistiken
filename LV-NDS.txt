@@ -218,6 +218,6 @@
 20111019	1347	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-19.10.2011.html
 20111026	1375	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-26.10.2011.html
 #20111027	1368
-# next: 20111102
+# 20111102		http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-02.11.2011.html
 #
 # http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen.html

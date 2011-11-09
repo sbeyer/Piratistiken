@@ -90,5 +90,6 @@
 20111013	2557
 20111027	2550
 20111028	2764
+20111108	2878
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand

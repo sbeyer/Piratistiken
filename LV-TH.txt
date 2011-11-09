@@ -84,6 +84,9 @@
 20111026	323	http://vorstand.piraten-thueringen.de/2011/10/26/vorstandssitzung-vom-26-oktober-2011/
 20111101	334
 20111102	336
+20111104	338
+20111107	342
+20111109	345	http://vorstand.piraten-thueringen.de/2011/11/09/vorstandssitzung-vom-09-november-2011/
 #
 # http://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 # http://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv (vollständiger)

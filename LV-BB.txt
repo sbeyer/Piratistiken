@@ -74,5 +74,6 @@
 20111012	529
 20111023	581
 20111029	592
+20111103	605
 #
 # http://wiki.piratenbrandenburg.de/Kategorie:Landesvorstandssitzung

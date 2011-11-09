@@ -57,5 +57,7 @@
 #20111013	408	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111021	480
 # 20111026		http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-10-26
+20111102	442	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-11-02#Mitgliederzahlen
+20111109	426	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-11-09
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Telefonkonferenz_Sachsen
