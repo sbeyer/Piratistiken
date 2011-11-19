@@ -75,6 +75,7 @@
 #20111013	376	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111017	517	http://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-10-17
 20111030	544	http://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-10-30
+20111114	549	http://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-11-14
 #
 # http://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
 # http://www.piratenpartei-sh.de/index.php?option=com_remository&Itemid=44&func=select&id=2&orderby=4

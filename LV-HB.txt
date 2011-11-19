@@ -65,6 +65,7 @@
 20111031	189
 20111103	190
 20111108	191
+20111118	193
 #20111121		http://wiki.piratenpartei.de/HB:Vorstand/2011-11-21_Protokoll_Vorstandssitzung#Kennzahlenbericht_vom_Schatzmeister
 #
 # http://wiki.piratenpartei.de/wiki//index.php?title=HB:Vorlage:Piraten_in_HB&action=history

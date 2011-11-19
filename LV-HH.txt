@@ -116,5 +116,7 @@
 # Anzahl der stimmberechtigten Piraten wird vom GenSek nun zugleich als Gesamtanzahl angegeben
 20111102	525
 20111103	527
+20111115	539
+20111116	540
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg

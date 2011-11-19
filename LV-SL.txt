@@ -49,6 +49,9 @@
 20111011	162
 #20111013	154	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111016	161	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-10-16#TOP_7:_Kennzahlen
+20111111	174	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-11-11#TOP_8:_Kennzahlen
+20111114	200
+#20111118	200	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-11-18#TOP_11:_Kennzahlen
 #
 # http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen
 # http://wiki.piratenpartei.de/Kategorie:Vorstandssitzungen_Saarland
