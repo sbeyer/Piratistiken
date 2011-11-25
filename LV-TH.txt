@@ -89,6 +89,8 @@
 20111109	345	http://vorstand.piraten-thueringen.de/2011/11/09/vorstandssitzung-vom-09-november-2011/
 20111113	349
 20111115	350
+20111120	356
+20111123	359	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-11-23-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 #
 # http://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 # http://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv (vollständiger)

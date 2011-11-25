@@ -130,5 +130,6 @@
 #20111013	591	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111023	645	http://wiki.piratenpartei.de/RP:2011-10-23_-_67._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 20111106	678	http://wiki.piratenpartei.de/RP:2011-11-06_-_68._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20111120	704	http://wiki.piratenpartei.de/RP:2011-11-20_-_69._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand
