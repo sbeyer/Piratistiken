@@ -90,6 +90,7 @@
 20111013	2557
 20111027	2550
 20111028	2764
+20111103	2765	http://wiki.piratenpartei.de/NRW:2011-11-03_-_NRW_Vorstand#Berichte_Statistik
 20111108	2878
 20111114	2974
 20111117	3002	http://wiki.piratenpartei.de/NRW:2011-11-17_-_NRW_Vorstand#Berichte_Statistik

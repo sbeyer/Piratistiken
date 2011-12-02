@@ -162,6 +162,7 @@
 20111119	2119
 20111120	2122
 20111123	2136	http://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2011-11-23_-_Vorstandssitzung#aktuelle_Kennzahlen
+20111202	2170
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstandssitzung_Baden-W%C3%BCrttemberg
 # http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand

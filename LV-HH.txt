@@ -118,6 +118,7 @@
 20111103	527
 20111115	539
 20111116	540
-20111120	544
+20111120	544	http://wiki.piratenpartei.de/2011-11-20_-_Protokoll_Vorstand_Hamburg
+20111128	548
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg

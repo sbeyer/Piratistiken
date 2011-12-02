@@ -64,6 +64,9 @@
 20111030	2011
 20111106	2011	http://wiki.piratenpartei.de/BE:2011-11-06_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20111120	2011	http://wiki.piratenpartei.de/BE:2011-11-20_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20111125	2267
+20111128	2262
+20111129	2291
 #
 # Vorstandssitzungscheck:  20110301 - 20110904
 #
