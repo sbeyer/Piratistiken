@@ -62,7 +62,7 @@ print <<EOF
 set terminal png
 set output "output-tmp.png"
 
-ymax = #{(ARGV[0].to_i/1000.0).ceil*1000}
+ymax = #{((ARGV[0].to_i + 200)/1000.0).ceil*1000}
 
 set xdata time
 set timefmt "%Y%m%d"
