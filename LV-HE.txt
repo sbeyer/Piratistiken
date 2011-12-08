@@ -84,6 +84,8 @@
 20111019	1010	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-10-19#Vorstand
 20111031	1111
 20111102	1139
+20111202	1224
+#20111204	1222	http://piratenpartei.wortgewalt.de/docs/bpt112/
 #
 # http://wiki.piratenpartei.de/HE:Vorstand/Protokolle
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Hessen

@@ -221,5 +221,6 @@
 #20111102		http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-02.11.2011.html
 20111120	1478
 20111125	1488
+20111204	1498	http://piratenpartei.wortgewalt.de/docs/bpt112/
 #
 # http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen.html

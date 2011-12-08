@@ -61,5 +61,6 @@
 20111109	426	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-11-09
 20111116	429	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-11-16
 20111123	470	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-11-23
+20111204	499	http://piratenpartei.wortgewalt.de/docs/bpt112/
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Telefonkonferenz_Sachsen

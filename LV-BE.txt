@@ -67,6 +67,7 @@
 20111125	2267
 20111128	2262
 20111129	2291
+#20111204	2288	http://piratenpartei.wortgewalt.de/docs/bpt112/
 #
 # Vorstandssitzungscheck:  20110301 - 20110904
 #
