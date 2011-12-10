@@ -17,8 +17,8 @@ INPUT = \
 	LV-TH.txt \
 	OUTSIDE.txt
 
-output.png: output-tmp.png
-	pngcrush -brute -l 9 output-tmp.png output.png
+Mitgliederentwicklung-nach-LVs.png: output-tmp.png
+	pngcrush -brute -l 9 "$<" "$@"
 
 output-tmp.png: mitglieder.csv plotscript
 	gnuplot plotscript
