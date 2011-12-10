@@ -218,9 +218,13 @@
 20111019	1347	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-19.10.2011.html
 20111026	1375	http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-26.10.2011.html
 #20111027	1368
-#20111102		http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen/protokoll-02.11.2011.html
+20111102	1378	http://wiki.piratenpartei.de/NDS:Vorstand/2011-11-02#TOP_5_Berichte
+20111109	1389	http://wiki.piratenpartei.de/NDS:Vorstand/2011-11-09#TOP_4_In_Bearbeitung_-_keine_.C3.84nderung
+20111116	1424	http://wiki.piratenpartei.de/NDS:Vorstand/2011-11-16#TOP_5_Berichte
 20111120	1478
+20111123	1484	http://wiki.piratenpartei.de/NDS:Vorstand/2011-11-23#TOP_4_Berichte
 20111125	1488
 20111204	1498	http://piratenpartei.wortgewalt.de/docs/bpt112/
+20111207	1498	http://wiki.piratenpartei.de/NDS:Vorstand/2011-12-07#TOP_4_Berichte
 #
 # http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen.html

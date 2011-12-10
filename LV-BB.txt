@@ -78,5 +78,7 @@
 #20111118	588	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-11-18
 20111119	623
 #20111204	595	http://piratenpartei.wortgewalt.de/docs/bpt112/
+#20111209	595	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-12-09
+20111210	651
 #
 # http://wiki.piratenbrandenburg.de/Kategorie:Landesvorstandssitzung
