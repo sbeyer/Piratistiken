@@ -59,7 +59,7 @@ end
 
 print <<EOF
 # Generate output based on mitglieder.csv
-set terminal png
+set terminal png size 800,480
 set output "output-tmp.png"
 
 ymax = #{((ARGV[0].to_i + 200)/1000.0).ceil*1000}
@@ -85,37 +85,51 @@ col_land = "#d5d5d5"
 col_bpt = "#ffd530"
 
 ### define markers for special dates
+EOF
 
-#set arrow from "20060910",0 rto 0,ymax nohead lt rgb col_bpt # Gründungsversammlung
-set arrow from "20080517",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2008.1
-set arrow from "20080518",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2008.1
-set arrow from "20081003",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2008.2
-set arrow from "20081004",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2008.2
-set arrow from "20081005",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2008.2
-set arrow from "20090118",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl HE
-set arrow from "20090607",0 rto 0,ymax nohead lt rgb col_europa # Europawahl 2009
-set arrow from "20090704",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2009.1
-set arrow from "20090705",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2009.1
-set arrow from "20090830",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl SL,SN,TH
-#set arrow from "20090927",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl BB,SH
-set arrow from "20090927",0 rto 0,ymax nohead lt rgb col_bund # Bundestagswahl 2009
-set arrow from "20100509",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl NRW
-set arrow from "20100515",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2010.1
-set arrow from "20100516",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2010.1
-set arrow from "20101120",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2010.2
-set arrow from "20101121",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2010.2
-set arrow from "20110220",0 rto 0,ymax nohead lt rgb col_land # Bürgerschaftswahl HH
-set arrow from "20110320",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl LSA
-set arrow from "20110327",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl BW
-set arrow from "20110327",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl RP
-set arrow from "20110514",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2011.1
-set arrow from "20110515",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2011.1
-set arrow from "20110522",0 rto 0,ymax nohead lt rgb col_land # Bürgerschaftswahl HB
-set arrow from "20110904",0 rto 0,ymax nohead lt rgb col_land # Landtagswahl MV
-set arrow from "20110918",0 rto 0,ymax nohead lt rgb col_land # Abgeordnetenhauswahl BE
-set arrow from "20111203",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2011.2
-set arrow from "20111204",0 rto 0,ymax nohead lt rgb col_bpt # BPT 2011.2
+startdate = 20070701
+enddate = 20120201
 
+[20090118, # Landtagswahl HE
+ 20090830, # Landtagswahl SL,SN,TH
+ 20090927, # Landtagswahl BB,SH
+ 20100509, # Landtagswahl NRW
+ 20110220, # Bürgerschaftswahl HH
+ 20110320, # Landtagswahl LSA
+ 20110327, # Landtagswahl BW
+ 20110327, # Landtagswahl RP
+ 20110522, # Bürgerschaftswahl HB
+ 20110904, # Landtagswahl MV
+ 20110918, # Abgeordnetenhauswahl BE
+ 20120506, # Landtagswahl SH
+].each do |date|
+	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_land' if date >= startdate and date <= enddate
+end
+
+[20090927 # Bundestagswahl 2009
+].each do |date|
+	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_bund' if date >= startdate and date <= enddate
+end
+
+[20090607, # EUW 2009
+].each do |date|
+	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_europa' if date >= startdate and date <= enddate
+end
+
+[20060910, # Gründungsversammlung
+ 20080517, 20080518, # BPT 2008.1
+ 20081003, 20081004, 20081005, # BPT 2008.2
+ 20090704, 20090705, # BPT 2009.1
+ 20100515, 20100516, # BPT 2010.1
+ 20101120, 20101121, # BPT 2010.2
+ 20110514, 20110515, # BPT 2011.1
+ 20111203, 20111204, # BPT 2011.2
+ 20120428, 20120429, # BPT 2012.1
+].each do |date|
+	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_bpt' if date >= startdate and date <= enddate
+end
+
+print <<EOF
 ### define colors for LVs
 col_#{Translate[ARGV[1]][1]} = "#5f9812"
 col_#{Translate[ARGV[2]][1]} = "#65cb39"
@@ -135,7 +149,7 @@ col_#{Translate[ARGV[15]][1]} = "#5b9c1c"
 col_#{Translate[ARGV[16]][1]} = "#2d8b13"
 col_#{Translate[ARGV[17]][1]} = "#136707"
 
-plot ["20070701":"20120101"] [0:ymax] \\
+plot ["#{startdate}":"#{enddate}"] [0:ymax] \\
  'mitglieder.csv' using 1:18 t "#{Translate[ARGV[17]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[17]][1]}, \\
  'mitglieder.csv' using 1:17 t "#{Translate[ARGV[16]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[16]][1]}, \\
  'mitglieder.csv' using 1:16 t "#{Translate[ARGV[15]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[15]][1]}, \\
