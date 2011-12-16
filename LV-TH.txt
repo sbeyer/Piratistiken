@@ -94,6 +94,7 @@
 20111130	363
 20111204	363	http://piratenpartei.wortgewalt.de/docs/bpt112/
 20111207	377	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-12-07-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20111213	384
 #
 # http://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 # http://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv (vollständiger)

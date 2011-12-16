@@ -93,5 +93,6 @@
 20111127	338
 #20111204	338	http://piratenpartei.wortgewalt.de/docs/bpt112/
 20111207	348
+20111213	353
 #
 # http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen

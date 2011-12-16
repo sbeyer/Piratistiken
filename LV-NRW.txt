@@ -96,5 +96,6 @@
 20111117	3002	http://wiki.piratenpartei.de/NRW:2011-11-17_-_NRW_Vorstand#Berichte_Statistik
 20111201	3093	http://wiki.piratenpartei.de/NRW:2011-12-01_-_NRW_Vorstand#Berichte_Statistik
 20111204	3093	http://piratenpartei.wortgewalt.de/docs/bpt112/
+20111215	3178	http://wiki.piratenpartei.de/NRW:2011-12-15_-_NRW_Vorstand#Berichte_Statistik
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand

@@ -226,5 +226,6 @@
 20111125	1488
 20111204	1498	http://piratenpartei.wortgewalt.de/docs/bpt112/
 20111207	1498	http://wiki.piratenpartei.de/NDS:Vorstand/2011-12-07#TOP_4_Berichte
+20111214	1532	http://wiki.piratenpartei.de/NDS:Vorstand/2011-12-14#TOP_4_Berichte
 #
 # http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen.html
