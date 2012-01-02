@@ -98,32 +98,31 @@
 20110905	368
 20110906	369
 20110913	370
-20110915	379	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
+#20110915	379	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
 20110924	402
 20110926	407
-20110927	415
-20110928	417
-20110929	428	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
-20110930	426
-20111004	436
-20111005	442
-20111006	444
-20111007	456
-20111013	464	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
-20111017	474
-20111018	494
-20111019	505
-# Anzahl der stimmberechtigten Piraten wird vom GenSek nun zugleich als Gesamtanzahl angegeben
-20111102	525
-20111103	527
-20111115	539
-20111116	540
-20111120	544	http://wiki.piratenpartei.de/2011-11-20_-_Protokoll_Vorstand_Hamburg
-20111128	548
-#20111204	726	http://piratenpartei.wortgewalt.de/docs/bpt112/
-20111223	573
-20111228	576	# 740
-# Da ab sofort die stimmberechtigten Piraten auf 46 gefallen sind, gehe ich mal auf die Gesamtanzahl über
+# ab hier wieder Gesamtanzahl...
+20110927	603
+20110928	605
+#20110929	428	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
+20110930	610
+20111004	621
+20111005	626
+20111006	628
+20111007	636
+#20111013	464	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
+20111017	655
+20111018	673
+20111019	688
+20111102	701
+20111103	711
+20111115	726
+20111116	705
+20111120	709	http://wiki.piratenpartei.de/2011-11-20_-_Protokoll_Vorstand_Hamburg
+20111128	713
+20111204	726	http://piratenpartei.wortgewalt.de/docs/bpt112/
+20111223	737
+20111228	740
 20111231	741
 20120102	744
 #
