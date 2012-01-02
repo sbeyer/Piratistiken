@@ -121,5 +121,10 @@
 20111120	544	http://wiki.piratenpartei.de/2011-11-20_-_Protokoll_Vorstand_Hamburg
 20111128	548
 #20111204	726	http://piratenpartei.wortgewalt.de/docs/bpt112/
+20111223	573
+20111228	576	# 740
+# Da ab sofort die stimmberechtigten Piraten auf 46 gefallen sind, gehe ich mal auf die Gesamtanzahl über
+20111231	741
+20120102	744
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg

@@ -72,6 +72,8 @@
 20111206	200
 20111208	201
 20111209	202
+20111217	203
+#20120116		http://wiki.piratenpartei.de/HB:Vorstand/2012-01-16_Protokoll_Vorstandssitzung#Kennzahlenberichte_vom_Schatzmeister
 #
 # http://wiki.piratenpartei.de/wiki//index.php?title=HB:Vorlage:Piraten_in_HB&action=history
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Bremen
