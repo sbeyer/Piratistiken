@@ -71,7 +71,6 @@
 20110808	194	http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2011/08-August/2011-08-08_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 20110822	194	http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2011/08-August/2011-08-22_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 20110829	194	http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2011/08-August/2011-08-29_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
-#20110914		http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2011/09-September/2011-09-14_-_Protokoll_Vorstand_Sachsen-Anhalt
 20110915	192	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
 20110922	214
 20110929	235	http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2011/09-September/2011-09-29_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
@@ -85,14 +84,18 @@
 20111031	296
 20111101	298
 20111102	299
+20111104	299	http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2011/11-November/2011-11-04_-_Protokoll_Vorstand_Sachsen-Anhalt
 20111105	295
 20111107	301
 20111113	331
 20111116	333
+20111118	333	http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2011/11-November/2011-11-018_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 20111120	334
 20111127	338
+20111201	339	http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2011/12-Dezember/2011-12-01_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 #20111204	338	http://piratenpartei.wortgewalt.de/docs/bpt112/
 20111207	348
+20111212	348	http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2011/12-Dezember/2011-12-12_-_Protokoll_Vorstand_Sachsen-Anhalt
 20111213	353
 20111218	357
 #

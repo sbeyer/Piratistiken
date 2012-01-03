@@ -166,7 +166,7 @@
 #20111204	2202	http://piratenpartei.wortgewalt.de/docs/bpt112/
 20111207	2213	http://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2011-12-07_-_Vorstandssitzung#aktuelle_Kennzahlen
 20111210	2231
-20111222	2250
+20111221	2250	http://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2011-12-21_-_Vorstandssitzung#aktuelle_Kennzahlen
 20111230	2284
 20111231	2288
 #
