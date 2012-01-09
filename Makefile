@@ -29,5 +29,5 @@ mitglieder.csv: $(INPUT) plot-stacked.rb sort.rb Makefile
 plotscript: $(INPUT) mitglieder.csv plot-script.rb sort.rb Makefile
 	./plot-script.rb `tail -n 1 mitglieder.csv | sed -e 's/^.*\t\([0-9]\+\)$$/\1/'` `./sort.rb $(INPUT)` > $@
 
-check:
-	netstiff -W netstiff
+diff:
+	netstiff -W netstiff > $@
