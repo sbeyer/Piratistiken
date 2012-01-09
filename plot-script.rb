@@ -88,7 +88,7 @@ col_bpt = "#ffd530"
 EOF
 
 startdate = 20070701
-enddate = ARGV[0].to_i + 20
+enddate = ARGV.shift.to_i + 20
 
 [20090118, # Landtagswahl HE
  20090830, # Landtagswahl SL,SN,TH
@@ -129,42 +129,32 @@ end
 	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_bpt' if date >= startdate and date <= enddate
 end
 
-print <<EOF
-### define colors for LVs
-col_#{Translate[ARGV[1]][1]} = "#5f9812"
-col_#{Translate[ARGV[2]][1]} = "#65cb39"
-col_#{Translate[ARGV[3]][1]} = "#9ff8e8"
-col_#{Translate[ARGV[4]][1]} = "#8ea5f9"
-col_#{Translate[ARGV[5]][1]} = "#8171fc"
-col_#{Translate[ARGV[6]][1]} = "#7a4ce6"
-col_#{Translate[ARGV[7]][1]} = "#824f7f"
-col_#{Translate[ARGV[8]][1]} = "#9f4c36"
-col_#{Translate[ARGV[9]][1]} = "#be472e"
-col_#{Translate[ARGV[10]][1]} = "#f14122"
-col_#{Translate[ARGV[11]][1]} = "#ef8129"
-col_#{Translate[ARGV[12]][1]} = "#eda32d"
-col_#{Translate[ARGV[13]][1]} = "#dcba2e"
-col_#{Translate[ARGV[14]][1]} = "#9eac25"
-col_#{Translate[ARGV[15]][1]} = "#5b9c1c"
-col_#{Translate[ARGV[16]][1]} = "#2d8b13"
-col_#{Translate[ARGV[17]][1]} = "#136707"
+puts "### define colors for LVs"
 
-plot ["#{startdate}":"#{enddate}"] [0:ymax] \\
- 'mitglieder.csv' using 1:18 t "#{Translate[ARGV[17]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[17]][1]}, \\
- 'mitglieder.csv' using 1:17 t "#{Translate[ARGV[16]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[16]][1]}, \\
- 'mitglieder.csv' using 1:16 t "#{Translate[ARGV[15]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[15]][1]}, \\
- 'mitglieder.csv' using 1:15 t "#{Translate[ARGV[14]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[14]][1]}, \\
- 'mitglieder.csv' using 1:14 t "#{Translate[ARGV[13]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[13]][1]}, \\
- 'mitglieder.csv' using 1:13 t "#{Translate[ARGV[12]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[12]][1]}, \\
- 'mitglieder.csv' using 1:12 t "#{Translate[ARGV[11]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[11]][1]}, \\
- 'mitglieder.csv' using 1:11 t "#{Translate[ARGV[10]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[10]][1]}, \\
- 'mitglieder.csv' using 1:10 t "#{Translate[ARGV[9]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[9]][1]}, \\
- 'mitglieder.csv' using 1:9 t "#{Translate[ARGV[8]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[8]][1]}, \\
- 'mitglieder.csv' using 1:8 t "#{Translate[ARGV[7]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[7]][1]}, \\
- 'mitglieder.csv' using 1:7 t "#{Translate[ARGV[6]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[6]][1]}, \\
- 'mitglieder.csv' using 1:6 t "#{Translate[ARGV[5]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[5]][1]}, \\
- 'mitglieder.csv' using 1:5 t "#{Translate[ARGV[4]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[4]][1]}, \\
- 'mitglieder.csv' using 1:4 t "#{Translate[ARGV[3]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[3]][1]}, \\
- 'mitglieder.csv' using 1:3 t "#{Translate[ARGV[2]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[2]][1]}, \\
- 'mitglieder.csv' using 1:2 t "#{Translate[ARGV[1]][0]}" w filledcurves x1 lt rgb col_#{Translate[ARGV[1]][1]}
-EOF
+index = 0
+["#5f9812",
+ "#65cb39",
+ "#9ff8e8",
+ "#8ea5f9",
+ "#8171fc",
+ "#7a4ce6",
+ "#824f7f",
+ "#9f4c36",
+ "#be472e",
+ "#f14122",
+ "#ef8129",
+ "#eda32d",
+ "#dcba2e",
+ "#9eac25",
+ "#5b9c1c",
+ "#2d8b13",
+ "#136707",
+].each_with_index do |color, i|
+	puts "col_#{Translate[ARGV[i]][1]} = \"#{color}\""
+end
+
+puts
+puts "plot [\"#{startdate}\":\"#{enddate}\"] [0:ymax] \\"
+print((0..16).to_a.reverse.map do |i|
+  " 'mitglieder.csv' using 1:#{i+2} t \"#{Translate[ARGV[i]][0]}\" w filledcurves x1 lt rgb col_#{Translate[ARGV[i]][1]}"
+ end.join(", \\\n"))
