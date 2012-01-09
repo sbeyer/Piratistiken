@@ -52,8 +52,8 @@ Translate = {
 	'OUTSIDE.txt' => ['Ausland', 'out']
 }
 
-if ARGV.length != 18
-	STDERR.puts "Error: need 18 arguments"
+if ARGV.length != 19
+	STDERR.puts "Error: need 19 arguments"
 	exit 1
 end
 
@@ -62,7 +62,7 @@ print <<EOF
 set terminal png size 800,480
 set output "output-tmp.png"
 
-ymax = #{((ARGV[0].to_i + 200)/1000.0).ceil*1000}
+ymax = #{((ARGV.shift.to_i + 200)/1000.0).ceil*1000}
 
 set xdata time
 set timefmt "%Y%m%d"
@@ -88,7 +88,7 @@ col_bpt = "#ffd530"
 EOF
 
 startdate = 20070701
-enddate = 20120201
+enddate = ARGV[0].to_i + 20
 
 [20090118, # Landtagswahl HE
  20090830, # Landtagswahl SL,SN,TH
