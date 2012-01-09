@@ -59,7 +59,7 @@ end
 
 print <<EOF
 # Generate output based on mitglieder.csv
-set terminal png size 800,480
+set terminal pngcairo size 800,480
 set output "output-tmp.png"
 
 ymax = #{((ARGV.shift.to_i + 200)/1000.0).ceil*1000}
@@ -71,7 +71,7 @@ set xtics \\
 	"20070701",7776000 \\
 	axis \\
 	rotate \\
-	offset 0,character 0.8 \\
+	offset 0,character 0.5 \\
 	font "sans,9" \\
 	format "%y-%m"
 set key outside center right
@@ -88,7 +88,7 @@ col_bpt = "#ffd530"
 EOF
 
 startdate = 20070701
-enddate = ARGV.shift.to_i + 20
+enddate = ARGV.shift.to_i + 30
 
 [20090118, # Landtagswahl HE
  20090830, # Landtagswahl SL,SN,TH
