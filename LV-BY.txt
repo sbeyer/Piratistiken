@@ -72,5 +72,7 @@
 20111130	4024
 20111204	4029	http://piratenpartei.wortgewalt.de/docs/bpt112/
 20111214	4283	http://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-12-14#Kurz-Bericht_Generalsekret.C3.A4r
+20120111	4350	http://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-01-11#Kurz-Bericht_Generalsekret.C3.A4r
+20120113	4514
 #
 # http://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2011

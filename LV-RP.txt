@@ -134,5 +134,6 @@
 20111204	726	http://piratenpartei.wortgewalt.de/docs/bpt112/
 20111211	741	http://wiki.piratenpartei.de/RP:2011-12-11_-_70._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 20120108	774	http://wiki.piratenpartei.de/RP:2012-01-08_-_73._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20120115	777	#http://wiki.piratenpartei.de/RP:2012-01-15_-_74._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 #
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand

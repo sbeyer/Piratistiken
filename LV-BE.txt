@@ -70,6 +70,7 @@
 #20111204	2288	http://piratenpartei.wortgewalt.de/docs/bpt112/
 20111211	2291	http://wiki.piratenpartei.de/BE:2011-12-11_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20111218	2415
+20120112	2500
 #
 # Vorstandssitzungscheck:  20110301 - 20110904
 #

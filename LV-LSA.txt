@@ -98,5 +98,8 @@
 20111212	348	http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2011/12-Dezember/2011-12-12_-_Protokoll_Vorstand_Sachsen-Anhalt
 20111213	353
 20111218	357
+20120109	360	http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2012/01-Januar/2012-01-09_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20120114	365
+20120123	369	http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2012/01-Januar/2012-01-23_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 #
 # http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen

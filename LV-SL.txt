@@ -54,6 +54,7 @@
 #20111118	200	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-11-18#TOP_11:_Kennzahlen
 20111202	221	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2011-12-02#TOP_15:_Kennzahlen
 #20111204	210	http://piratenpartei.wortgewalt.de/docs/bpt112/
+20120113	229	http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2012-01-13#TOP_13:_Kennzahlen
 #
 # http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen
 # http://wiki.piratenpartei.de/Kategorie:Vorstandssitzungen_Saarland

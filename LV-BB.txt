@@ -73,12 +73,13 @@
 #20111013	435	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111012	529
 20111023	581
-20111029	592
-20111103	605
-#20111118	588	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-11-18
-20111119	623
-#20111204	595	http://piratenpartei.wortgewalt.de/docs/bpt112/
-#20111209	595	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-12-09
-20111210	651
+#20111029	592
+#20111103	605
+20111118	588	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-11-18#TOP_3.1:_Mitgliederzahlen_des_Landesverbandes
+#20111119	623
+20111204	595	http://piratenpartei.wortgewalt.de/docs/bpt112/
+20111209	595	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-12-09#TOP_3.1:_Mitgliederzahlen_des_Landesverbandes
+#20111210	651
+20120106	599	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-01-06#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 #
 # http://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle
