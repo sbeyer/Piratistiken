@@ -88,6 +88,7 @@
 #20111204	1222	http://piratenpartei.wortgewalt.de/docs/bpt112/
 20111228	1270	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-12-28#Generalsekret.C3.A4r
 20120111	1283	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-01-11#Generalsekret.C3.A4r
+20120125	1283	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-01-25#Generalsekret.C3.A4r
 #
 # http://wiki.piratenpartei.de/HE:Vorstand/Protokolle
 # http://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Hessen
