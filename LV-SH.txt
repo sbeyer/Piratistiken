@@ -80,7 +80,7 @@
 20111204	580	http://piratenpartei.wortgewalt.de/docs/bpt112/
 20111212	604	http://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-12-12
 20120107	617
-20120123	626
+20120123	626	http://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-01-23
 #
 # http://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
 # http://www.piratenpartei-sh.de/index.php?option=com_remository&Itemid=44&func=select&id=2&orderby=4
