@@ -87,20 +87,27 @@ col_bpt = "#ffd530"
 ### define markers for special dates
 EOF
 
-startdate = 20070701
+startdate = 20071001
 enddate = ARGV.shift.to_i + 30
 
-[20090118, # Landtagswahl HE
+[20060326, # Landtagswahl BW,RP,LSA
+ 20060917, # Abgeordnetenhauswahl BE, Landtagswahl MV
+ 20070503, # Bürgerschaft HB
+ 20080127, # Landtagswahl HE,NDS
+ 20080224, # Bürgerschaftswahl HH
+ 20080706, # Nachwahlen Bürgerschaft HB
+ 20080928, # Landtagswahl BY
+ 20090118, # Landtagswahl HE
  20090830, # Landtagswahl SL,SN,TH
  20090927, # Landtagswahl BB,SH
  20100509, # Landtagswahl NRW
  20110220, # Bürgerschaftswahl HH
  20110320, # Landtagswahl LSA
- 20110327, # Landtagswahl BW
- 20110327, # Landtagswahl RP
+ 20110327, # Landtagswahl BW, RP
  20110522, # Bürgerschaftswahl HB
  20110904, # Landtagswahl MV
  20110918, # Abgeordnetenhauswahl BE
+ 20120325, # Landtagswahl SL
  20120506, # Landtagswahl SH
 ].each do |date|
 	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_land' if date >= startdate and date <= enddate
