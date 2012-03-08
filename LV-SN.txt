@@ -27,44 +27,44 @@
 20091217	323
 20100108	327
 20100120	332
-20100309	332	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-03-09
-20100316	336	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-03-16
-20100323	339	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-03-23
-20100330	339	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-03-30
-20100406	339	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-04-06
-20100414	339	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-04-13
+20100309	332	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-03-09
+20100316	336	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-03-16
+20100323	339	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-03-23
+20100330	339	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-03-30
+20100406	339	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-04-06
+20100414	339	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-04-13
 20100527	339
-20100622	342	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-06-22
+20100622	342	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-06-22
 20100624	346
-20100706	346	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-07-06
-20100803	347	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-08-03
-20100817	356	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-08-17
-20101108	354	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-11-08
+20100706	346	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-07-06
+20100803	347	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-08-03
+20100817	356	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-08-17
+20101108	354	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-11-08
 20101115	354
-20101129	358	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-11-29
-20110117	357	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-01-17
-20110214	360	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-02-14
-20110411	362	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-04-11
-20110418	362	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-04-18
-20110606	364	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-06-06
-20110613	364	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-06-13
-20110620	364	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-06-20
+20101129	358	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2010-11-29
+20110117	357	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-01-17
+20110214	360	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-02-14
+20110411	362	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-04-11
+20110418	362	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-04-18
+20110606	364	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-06-06
+20110613	364	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-06-13
+20110620	364	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-06-20
 20110707	364	http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
 20110915	368	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
-20110926	384	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-09-26
+20110926	384	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-09-26
 20110929	384	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
-20111005	409	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-10-05
+20111005	409	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-10-05
 #20111013	408	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111021	480
-20111102	442	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-11-02#Mitgliederzahlen
-20111109	426	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-11-09
-20111116	429	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-11-16
-20111123	470	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-11-23
+20111102	442	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-11-02#Mitgliederzahlen
+20111109	426	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-11-09
+20111116	429	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-11-16
+20111123	470	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-11-23
 20111204	499	http://piratenpartei.wortgewalt.de/docs/bpt112/
-20111214	499	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-12-14
-20111221	499	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-12-21
-20111228	499	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-12-28
-20120104	521	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-01-04
-20120111	524	http://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-01-11
+20111214	499	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-12-14
+20111221	499	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-12-21
+20111228	499	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2011-12-28
+20120104	521	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-01-04
+20120111	524	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-01-11
 #
-# http://wiki.piratenpartei.de/Kategorie:Protokoll_Telefonkonferenz_Sachsen
+# https://wiki.piratenpartei.de/Kategorie:Protokoll_Telefonkonferenz_Sachsen

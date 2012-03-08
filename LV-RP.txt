@@ -2,21 +2,21 @@
 20080122	25
 20080405	29
 20080406	30
-#20080607	15	http://wiki.piratenpartei.de/2008-06-07_-_Gr%C3%BCndungsversammlung_Landesverband_Rheinland-Pfalz
-20080615	30	http://wiki.piratenpartei.de/RP:2008-06-15_-_1._Vorstandssitzung
-20080629	38	http://wiki.piratenpartei.de/RP:2008-06-29_-_2._Vorstandssitzung#Top_5:_Mitgliederverwaltung
-20080824	44	http://wiki.piratenpartei.de/RP:2008-08-24_-_5._Vorstandssitzung#Top_2:_Mitgliederverwaltung
-20080921	44	http://wiki.piratenpartei.de/RP:2008-09-21_-_7._Vorstandssitzung#Top_2:_Mitgliederverwaltung
-20081102	45	http://wiki.piratenpartei.de/RP:2008-11-02_-_9._Vorstandssitzung#Top_1:_Linksjugend_.28solid.27.29
+#20080607	15	https://wiki.piratenpartei.de/2008-06-07_-_Gr%C3%BCndungsversammlung_Landesverband_Rheinland-Pfalz
+20080615	30	https://wiki.piratenpartei.de/RP:2008-06-15_-_1._Vorstandssitzung
+20080629	38	https://wiki.piratenpartei.de/RP:2008-06-29_-_2._Vorstandssitzung#Top_5:_Mitgliederverwaltung
+20080824	44	https://wiki.piratenpartei.de/RP:2008-08-24_-_5._Vorstandssitzung#Top_2:_Mitgliederverwaltung
+20080921	44	https://wiki.piratenpartei.de/RP:2008-09-21_-_7._Vorstandssitzung#Top_2:_Mitgliederverwaltung
+20081102	45	https://wiki.piratenpartei.de/RP:2008-11-02_-_9._Vorstandssitzung#Top_1:_Linksjugend_.28solid.27.29
 20081206	45
 20081209	44
-20090111	41	http://wiki.piratenpartei.de/RP:2009-01-11_-_11._Vorstandssitzung#Top_2:_Mitgliederverwaltung
-20090125	40	http://wiki.piratenpartei.de/RP:2009-01-25_-_12._Vorstandssitzung#Top_2:_Mitgliederverwaltung
-20090322	38	http://wiki.piratenpartei.de/RP:2009-03-22_-_Vorstandstelko#Top_2:_Mitgliederverwaltung
+20090111	41	https://wiki.piratenpartei.de/RP:2009-01-11_-_11._Vorstandssitzung#Top_2:_Mitgliederverwaltung
+20090125	40	https://wiki.piratenpartei.de/RP:2009-01-25_-_12._Vorstandssitzung#Top_2:_Mitgliederverwaltung
+20090322	38	https://wiki.piratenpartei.de/RP:2009-03-22_-_Vorstandstelko#Top_2:_Mitgliederverwaltung
 20090407	40
 20090517	58
 20090530	60
-20090531	60	http://wiki.piratenpartei.de/RP:2009-05-31_-_15._Vorstandssitzung#Top_1:_Bericht_GenSek
+20090531	60	https://wiki.piratenpartei.de/RP:2009-05-31_-_15._Vorstandssitzung#Top_1:_Bericht_GenSek
 20090610	66
 20090612	77
 20090615	80
@@ -28,12 +28,12 @@
 20090629	161
 20090702	173
 20090707	184
-20090712	201	http://wiki.piratenpartei.de/RP:2009-07-12_-_16._Vorstandssitzung#Top_1:_Mitgliederstand
+20090712	201	https://wiki.piratenpartei.de/RP:2009-07-12_-_16._Vorstandssitzung#Top_1:_Mitgliederstand
 20090717	213
 20090725	233
 20090730	241
 20090804	250
-20090809	257	http://wiki.piratenpartei.de/RP:2009-08-09_-_17._Vorstandssitzung#Top_3:_Mitgliederstand.2F_Bericht_GenSek
+20090809	257	https://wiki.piratenpartei.de/RP:2009-08-09_-_17._Vorstandssitzung#Top_3:_Mitgliederstand.2F_Bericht_GenSek
 20090810	267
 20090814	276
 20090816	279
@@ -48,7 +48,7 @@
 20090901	325
 20090902	331
 20090904	337
-20090906	341	http://wiki.piratenpartei.de/RP:2009-09-06_-_19._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20090906	341	https://wiki.piratenpartei.de/RP:2009-09-06_-_19._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 20090909	349
 20090910	355
 20090914	362
@@ -60,83 +60,83 @@
 20090927	430
 20090928	441
 20090930	462
-20091002	473	http://wiki.piratenpartei.de/RP:2009-10-04_-_21._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
+20091002	473	https://wiki.piratenpartei.de/RP:2009-10-04_-_21._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
 20091006	479
 20091007	481
 20091010	487
 20091017	490
 20091023	495
 20091030	501
-20091101	501	http://wiki.piratenpartei.de/RP:2009-11-01_-_22._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
+20091101	501	https://wiki.piratenpartei.de/RP:2009-11-01_-_22._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
 20091109	502
 20091122	502
-20091206	507	http://wiki.piratenpartei.de/RP:2009-12-06_-_23._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
+20091206	507	https://wiki.piratenpartei.de/RP:2009-12-06_-_23._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
 20091209	503
 20091213	506
-20100103	507	http://wiki.piratenpartei.de/RP:2010-01-03_-_24._Vorstandssitzung#Mitgliederstand_.2F_Bericht_GenSek
+20100103	507	https://wiki.piratenpartei.de/RP:2010-01-03_-_24._Vorstandssitzung#Mitgliederstand_.2F_Bericht_GenSek
 20100116	507
 20100120	508
 20100129	511
 20100205	515
-20100207	515	http://wiki.piratenpartei.de/RP:2010-02-07_-_27._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
+20100207	515	https://wiki.piratenpartei.de/RP:2010-02-07_-_27._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
 20100210	511
 20100220	512
-20100228	516	http://wiki.piratenpartei.de/RP:2010-02-28_-_28._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
-20100307	516	http://wiki.piratenpartei.de/RP:2010-03-07_-_29._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
-20100321	514	http://wiki.piratenpartei.de/RP:2010-03-21_-_30._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
-20100411	517	http://wiki.piratenpartei.de/RP:2010-04-11_-_31._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
-20100418	517	http://wiki.piratenpartei.de/RP:2010-04-18_-_32._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
-20100502	515	http://wiki.piratenpartei.de/RP:2010-05-02_-_33._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
-20100530	520	http://wiki.piratenpartei.de/RP:2010-05-30_-_34._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
-20100606	521	http://wiki.piratenpartei.de/RP:2010-06-06_-_35._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
+20100228	516	https://wiki.piratenpartei.de/RP:2010-02-28_-_28._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
+20100307	516	https://wiki.piratenpartei.de/RP:2010-03-07_-_29._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
+20100321	514	https://wiki.piratenpartei.de/RP:2010-03-21_-_30._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
+20100411	517	https://wiki.piratenpartei.de/RP:2010-04-11_-_31._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
+20100418	517	https://wiki.piratenpartei.de/RP:2010-04-18_-_32._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
+20100502	515	https://wiki.piratenpartei.de/RP:2010-05-02_-_33._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
+20100530	520	https://wiki.piratenpartei.de/RP:2010-05-30_-_34._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
+20100606	521	https://wiki.piratenpartei.de/RP:2010-06-06_-_35._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
 20100608	499
 20100623	501
-20100704	498	http://wiki.piratenpartei.de/RP:2010-07-04_-_37._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
-20100801	498	http://wiki.piratenpartei.de/RP:2010-08-01_-_38._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
+20100704	498	https://wiki.piratenpartei.de/RP:2010-07-04_-_37._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
+20100801	498	https://wiki.piratenpartei.de/RP:2010-08-01_-_38._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
 20100804	498
 20100806	500
-20100815	499	http://wiki.piratenpartei.de/RP:2010-08-15_-_39._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
+20100815	499	https://wiki.piratenpartei.de/RP:2010-08-15_-_39._Vorstandssitzung#Top_1:_Mitgliederstand_.2F_Bericht_GenSek
 20100823	505
 20100831	510
-20100919	511	http://wiki.piratenpartei.de/RP:2010-09-19_-_41._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
-20101003	512	http://wiki.piratenpartei.de/RP:2010-10-03_-_42._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
-20101017	518	http://wiki.piratenpartei.de/RP:2010-10-17_-_43._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
-20101107	515	http://wiki.piratenpartei.de/RP:2010-11-07_-_44._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
-20101128	513	http://wiki.piratenpartei.de/RP:2010-11-28_-_45._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
-20101212	512	http://wiki.piratenpartei.de/RP:2010-12-12_-_46._Vorstandssitzung#TOP_1:_Genehmigung_des_vorhergehenden_Protokolls
-20101219	514	http://wiki.piratenpartei.de/RP:2010-12-19_-_47._Vorstandssitzung#Top_3:_Bericht_GenSek
-20110116	509	http://wiki.piratenpartei.de/RP:2011-01-16_-_49._Vorstandssitzung#Top_2:_Bericht_GenSek
-20110206	507	http://wiki.piratenpartei.de/RP:2011-02-06_-_50._Vorstandssitzung#Top_2:_Bericht_GenSek
-20110221	509	http://wiki.piratenpartei.de/RP:2011-02-21_-_51._Vorstandssitzung#Top_2:_Bericht_GenSek
-20110306	514	http://wiki.piratenpartei.de/RP:2011-03-06_-_52._Vorstandssitzung#Top_3:_Bericht_GenSek
-20110324	516	http://wiki.piratenpartei.de/RP:2011-03-24_-_53._Vorstandssitzung
-20110417	524	http://wiki.piratenpartei.de/RP:2011-04-17_-_55._Vorstandssitzung
-20110501	524	http://wiki.piratenpartei.de/RP:2011-05-01_-_56._Vorstandssitzung
-20110516		http://wiki.piratenpartei.de/RP:2011-05-16_-_57._Vorstandssitzung
-20110605	523	http://wiki.piratenpartei.de/RP:2011-06-05_-_58._Vorstandssitzung
-20110619	525	http://wiki.piratenpartei.de/RP:2011-06-19_-_59._Vorstandssitzung
-20110706	526	http://wiki.piratenpartei.de/RP:2011-07-06_-_60._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20100919	511	https://wiki.piratenpartei.de/RP:2010-09-19_-_41._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20101003	512	https://wiki.piratenpartei.de/RP:2010-10-03_-_42._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20101017	518	https://wiki.piratenpartei.de/RP:2010-10-17_-_43._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20101107	515	https://wiki.piratenpartei.de/RP:2010-11-07_-_44._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20101128	513	https://wiki.piratenpartei.de/RP:2010-11-28_-_45._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20101212	512	https://wiki.piratenpartei.de/RP:2010-12-12_-_46._Vorstandssitzung#TOP_1:_Genehmigung_des_vorhergehenden_Protokolls
+20101219	514	https://wiki.piratenpartei.de/RP:2010-12-19_-_47._Vorstandssitzung#Top_3:_Bericht_GenSek
+20110116	509	https://wiki.piratenpartei.de/RP:2011-01-16_-_49._Vorstandssitzung#Top_2:_Bericht_GenSek
+20110206	507	https://wiki.piratenpartei.de/RP:2011-02-06_-_50._Vorstandssitzung#Top_2:_Bericht_GenSek
+20110221	509	https://wiki.piratenpartei.de/RP:2011-02-21_-_51._Vorstandssitzung#Top_2:_Bericht_GenSek
+20110306	514	https://wiki.piratenpartei.de/RP:2011-03-06_-_52._Vorstandssitzung#Top_3:_Bericht_GenSek
+20110324	516	https://wiki.piratenpartei.de/RP:2011-03-24_-_53._Vorstandssitzung
+20110417	524	https://wiki.piratenpartei.de/RP:2011-04-17_-_55._Vorstandssitzung
+20110501	524	https://wiki.piratenpartei.de/RP:2011-05-01_-_56._Vorstandssitzung
+20110516		https://wiki.piratenpartei.de/RP:2011-05-16_-_57._Vorstandssitzung
+20110605	523	https://wiki.piratenpartei.de/RP:2011-06-05_-_58._Vorstandssitzung
+20110619	525	https://wiki.piratenpartei.de/RP:2011-06-19_-_59._Vorstandssitzung
+20110706	526	https://wiki.piratenpartei.de/RP:2011-07-06_-_60._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 20110707	526	http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
-20110717	526	http://wiki.piratenpartei.de/RP:2011-07-17_-_61._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
-20110807	525	http://wiki.piratenpartei.de/RP:2011-08-07_-_62_Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
-20110821	525	http://wiki.piratenpartei.de/RP:2011-08-21_-_63_Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
-20110904	525	http://wiki.piratenpartei.de/RP:2011-09-04_-_64_Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20110717	526	https://wiki.piratenpartei.de/RP:2011-07-17_-_61._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20110807	525	https://wiki.piratenpartei.de/RP:2011-08-07_-_62_Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20110821	525	https://wiki.piratenpartei.de/RP:2011-08-21_-_63_Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20110904	525	https://wiki.piratenpartei.de/RP:2011-09-04_-_64_Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 20110915	526	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
-20110919	526	http://wiki.piratenpartei.de/RP:2011-09-19_-_65._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20110919	526	https://wiki.piratenpartei.de/RP:2011-09-19_-_65._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 20110929	574	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 20111002	585	http://twitter.com/PiratenMainz/status/120422027793408000
-#20111002	585	http://wiki.piratenpartei.de/RP:Landesparteitag_2011.3/Protokoll#5._T.C3.A4tigkeitsbericht_der_Vorstandsmitglieder_und_Bericht_Landesfinanzausschuss
-20111009	609	http://wiki.piratenpartei.de/RP:2011-10-09_-_66._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+#20111002	585	https://wiki.piratenpartei.de/RP:Landesparteitag_2011.3/Protokoll#5._T.C3.A4tigkeitsbericht_der_Vorstandsmitglieder_und_Bericht_Landesfinanzausschuss
+20111009	609	https://wiki.piratenpartei.de/RP:2011-10-09_-_66._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 #20111013	591	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
-20111023	645	http://wiki.piratenpartei.de/RP:2011-10-23_-_67._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
-20111106	678	http://wiki.piratenpartei.de/RP:2011-11-06_-_68._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
-20111120	704	http://wiki.piratenpartei.de/RP:2011-11-20_-_69._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20111023	645	https://wiki.piratenpartei.de/RP:2011-10-23_-_67._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20111106	678	https://wiki.piratenpartei.de/RP:2011-11-06_-_68._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20111120	704	https://wiki.piratenpartei.de/RP:2011-11-20_-_69._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 20111204	726	http://piratenpartei.wortgewalt.de/docs/bpt112/
-20111211	741	http://wiki.piratenpartei.de/RP:2011-12-11_-_70._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
-20120108	774	http://wiki.piratenpartei.de/RP:2012-01-08_-_73._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
-20120115	777	http://wiki.piratenpartei.de/RP:2012-01-15_-_74._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
-20120205	791	http://wiki.piratenpartei.de/RP:2012-02-05_-_75._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
-20120219	795	http://wiki.piratenpartei.de/RP:2012-02-19_-_76._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
-20120304	809	http://wiki.piratenpartei.de/RP:2012-03-04_-_77._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20111211	741	https://wiki.piratenpartei.de/RP:2011-12-11_-_70._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20120108	774	https://wiki.piratenpartei.de/RP:2012-01-08_-_73._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20120115	777	https://wiki.piratenpartei.de/RP:2012-01-15_-_74._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20120205	791	https://wiki.piratenpartei.de/RP:2012-02-05_-_75._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20120219	795	https://wiki.piratenpartei.de/RP:2012-02-19_-_76._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20120304	809	https://wiki.piratenpartei.de/RP:2012-03-04_-_77._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 #
-# http://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand
+# https://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand

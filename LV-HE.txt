@@ -1,6 +1,6 @@
 # ISO-Datum	Mitgl	Quelle
-20080109		http://wiki.piratenpartei.de/wiki/images/9/9c/Protokoll_2008_01_09.pdf
-20081008		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2008-10-08
+20080109		https://wiki.piratenpartei.de/wiki/images/9/9c/Protokoll_2008_01_09.pdf
+20081008		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2008-10-08
 20080122	72
 20080125	75
 20080405	99
@@ -23,74 +23,74 @@
 20090827	486
 20090902	531
 20090916	595
-20090923		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-09-23
+20090923		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-09-23
 20091006	701
-20091014		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-10-14
+20091014		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-10-14
 20091028	732
-20091028		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-10-28
-20091104	732	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-11-04
-20091111	740	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-11-11
-20091125	744	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-11-25
-20091209	751	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-12-09
-20091223	754	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-12-23
-20100113		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-01-13
+20091028		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-10-28
+20091104	732	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-11-04
+20091111	740	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-11-11
+20091125	744	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-11-25
+20091209	751	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-12-09
+20091223	754	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2009-12-23
+20100113		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-01-13
 20100122	765
-20100127	781	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-01-27
-20100210		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-02-10
+20100127	781	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-01-27
+20100210		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-02-10
 20100223	778
-20100224	781	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-02-24
-20100310	781	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-03-10
+20100224	781	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-02-24
+20100310	781	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-03-10
 20100325	800
-20100414	814	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-04-14
-20100512		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-05-12
-20100609		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-06-09
+20100414	814	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-04-14
+20100512		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-05-12
+20100609		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-06-09
 20100630	833
-20100630		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-06-30
+20100630		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-06-30
 20100707	845
-20100714	845	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-07-14
-20100728	845	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-07-28
-20100811		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-08-11
-20100825		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-08-25
-20100908		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-09-08
-20100922	847	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-09-22
-20101013	850	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-10-13
-20101027	866	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-10-27
-20101110	872	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-11-10
-20101124	879	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-11-24
-20101208	882	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-12-08
-20101222	882	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-12-22
-20110112	892	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-01-12
-20110126	892	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-01-26
-20110209	893	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-02-09
-20110223	889	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-02-23
-20110309	895	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-03-09
-20110323	899	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-03-23
-20110413		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-04-13
-20110427	909	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-04-27
-20110511	910	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-05-11
-20110525	910	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-05-25#Themenblock_I:_Berichte
-20110608		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-06-08
-20110622	912	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-06-22#Themenblock_I:_Berichte
+20100714	845	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-07-14
+20100728	845	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-07-28
+20100811		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-08-11
+20100825		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-08-25
+20100908		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-09-08
+20100922	847	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-09-22
+20101013	850	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-10-13
+20101027	866	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-10-27
+20101110	872	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-11-10
+20101124	879	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-11-24
+20101208	882	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-12-08
+20101222	882	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2010-12-22
+20110112	892	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-01-12
+20110126	892	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-01-26
+20110209	893	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-02-09
+20110223	889	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-02-23
+20110309	895	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-03-09
+20110323	899	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-03-23
+20110413		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-04-13
+20110427	909	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-04-27
+20110511	910	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-05-11
+20110525	910	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-05-25#Themenblock_I:_Berichte
+20110608		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-06-08
+20110622	912	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-06-22#Themenblock_I:_Berichte
 20110707	914	http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
 20110711	917
-20110713	917	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-07-13#Themenblock_I:_Berichte
-20110824		http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-08-24#Vorstand
+20110713	917	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-07-13#Themenblock_I:_Berichte
+20110824		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-08-24#Vorstand
 20110915	916	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
-20110928	928	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-09-28#Themenblock_I:_Berichte
+20110928	928	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-09-28#Themenblock_I:_Berichte
 20110929	929	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
-20111005	963	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-10-05#Themenblock_I:_Berichte
-20111012	985	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-10-12#Vorstand
+20111005	963	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-10-05#Themenblock_I:_Berichte
+20111012	985	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-10-12#Vorstand
 #20111013	984	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
-20111019	1010	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-10-19#Vorstand
+20111019	1010	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-10-19#Vorstand
 20111031	1111
 20111102	1139
 20111202	1224
 #20111204	1222	http://piratenpartei.wortgewalt.de/docs/bpt112/
-20111228	1270	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-12-28#Generalsekret.C3.A4r
-20120111	1283	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-01-11#Generalsekret.C3.A4r
-20120125	1283	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-01-25#Generalsekret.C3.A4r
-20120208	1348	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-02-08#Generalsekret.C3.A4r
-20120222	1368	http://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-02-22#Generalsekret.C3.A4r
+20111228	1270	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2011-12-28#Generalsekret.C3.A4r
+20120111	1283	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-01-11#Generalsekret.C3.A4r
+20120125	1283	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-01-25#Generalsekret.C3.A4r
+20120208	1348	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-02-08#Generalsekret.C3.A4r
+20120222	1368	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-02-22#Generalsekret.C3.A4r
 #
-# http://wiki.piratenpartei.de/HE:Vorstand/Protokolle
-# http://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Hessen
+# https://wiki.piratenpartei.de/HE:Vorstand/Protokolle
+# https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Hessen

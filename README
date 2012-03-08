@@ -13,7 +13,7 @@ Works with:
 Then just type "make" to generate the file output.png.
 The result is uploaded to
 
-	http://wiki.piratenpartei.de/Datei:Mitgliederentwicklung-nach-LVs.png
+	https://wiki.piratenpartei.de/Datei:Mitgliederentwicklung-nach-LVs.png
 
 The *.txt files are public domain since their content
 is basically compiled from numbers below threshold of
@@ -23,7 +23,7 @@ logs of the Piratenpartei Deutschland).
 
 Note that the project is hosted on GitHub, see:
 
-	http://github.com/sbeyer/Piratistiken
+	https://github.com/sbeyer/Piratistiken
 
 I appreciate forks that, e.g., beautify the output,
 insert missing information or that just add nice

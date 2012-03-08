@@ -1,7 +1,7 @@
 # ISO-Datum	Mitgl	Quelle
 20080122	11
 20080405	13
-#20081003	7	http://wiki.piratenbrandenburg.de/images/0/04/Gr%C3%BCndungsprotokoll_Landesverband.pdf
+#20081003	7	https://wiki.piratenbrandenburg.de/images/0/04/Gr%C3%BCndungsprotokoll_Landesverband.pdf
 20090427	27
 20090514	31
 20090609	42
@@ -26,47 +26,47 @@
 20090929	301
 20091004	321
 20091005	323
-20091017	327	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2009-10-17#8._Forum
+20091017	327	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2009-10-17#8._Forum
 20091105	333
-20091110		http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2009-11-10
+20091110		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2009-11-10
 20091122	333
-20091205	334	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2009-12-05#Bericht_S.C3.B6ren
-20100105	336	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-01-05#TOP_9_-_Verwaltung
+20091205	334	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2009-12-05#Bericht_S.C3.B6ren
+20100105	336	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-01-05#TOP_9_-_Verwaltung
 20100119	338
-20100201		http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-02-01
-20100401	350	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-04-01#Aktuelle_Zahlen
+20100201		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-02-01
+20100401	350	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-04-01#Aktuelle_Zahlen
 20100719	339
-20100808	238	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-08-19#3.1._Alte_Verpflichtungen
-20100910	256	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-09-10#Mitgliederzahlen
-20100921	352	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-09-21#3.1_Mitgliederzahlen
-20101008	351	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-10-08#3.1_Mitgliederzahlen
+20100808	238	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-08-19#3.1._Alte_Verpflichtungen
+20100910	256	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-09-10#Mitgliederzahlen
+20100921	352	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-09-21#3.1_Mitgliederzahlen
+20101008	351	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-10-08#3.1_Mitgliederzahlen
 20101028	343
-20101029	346	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-10-29#Bericht_des_Schatzmeisters_zum_aktuellen_Stand_der_Mitgliederverwaltung
-20101126	342	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-11-26#Bericht_des_Schatzmeisters
-20101221	342	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-12-21#Mitglieder
-20110107	339	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-01-07#Mitglieder
+20101029	346	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-10-29#Bericht_des_Schatzmeisters_zum_aktuellen_Stand_der_Mitgliederverwaltung
+20101126	342	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-11-26#Bericht_des_Schatzmeisters
+20101221	342	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2010-12-21#Mitglieder
+20110107	339	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-01-07#Mitglieder
 20110112	339
-20110128	340	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-01-28#Mitglieder
+20110128	340	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-01-28#Mitglieder
 20110201	340
-20110225	339	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-02-25#Mitglieder
-20110318	340	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-03-18#Mitglieder
-20110401	342	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-04-01#Kennzahlen
-20110506	343	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-05-06#Kennzahlen
-20110527	346	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-05-27#Kennzahlen
+20110225	339	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-02-25#Mitglieder
+20110318	340	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-03-18#Mitglieder
+20110401	342	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-04-01#Kennzahlen
+20110506	343	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-05-06#Kennzahlen
+20110527	346	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-05-27#Kennzahlen
 20110607	346
-20110624	349	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-06-24#Kennzahlen
+20110624	349	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-06-24#Kennzahlen
 20110625	348
 20110707	351	http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
-20110712	346	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-07-12#Kennzahlen
-20110726	347	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-07-26#Kennzahlen
-20110812	352	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-08-12#Mitglieder
+20110712	346	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-07-12#Kennzahlen
+20110726	347	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-07-26#Kennzahlen
+20110812	352	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-08-12#Mitglieder
 20110824	351
-20110902	352	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-09-02#TOP_3.1:_Mitgliederzahlen_des_Landesverbandes
+20110902	352	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-09-02#TOP_3.1:_Mitgliederzahlen_des_Landesverbandes
 20110915	354	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
 20110918	362	Aussage RicoCB
 20110921	402	Aussage RicoCB
 20110922	405
-#20110929	389	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-09-29#TOP_3.1:_Mitgliederzahlen_des_Landesverbandes
+#20110929	389	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-09-29#TOP_3.1:_Mitgliederzahlen_des_Landesverbandes
 #20110929	389	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 20110930	448
 20111009	516
@@ -75,12 +75,12 @@
 20111023	581
 #20111029	592
 #20111103	605
-20111118	588	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-11-18#TOP_3.1:_Mitgliederzahlen_des_Landesverbandes
+20111118	588	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-11-18#TOP_3.1:_Mitgliederzahlen_des_Landesverbandes
 #20111119	623
 20111204	595	http://piratenpartei.wortgewalt.de/docs/bpt112/
-20111209	595	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-12-09#TOP_3.1:_Mitgliederzahlen_des_Landesverbandes
+20111209	595	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-12-09#TOP_3.1:_Mitgliederzahlen_des_Landesverbandes
 #20111210	651
-20120106	599	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-01-06#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
-20120306	618	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-03-06#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20120106	599	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-01-06#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20120306	618	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-03-06#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 #
-# http://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle
+# https://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle

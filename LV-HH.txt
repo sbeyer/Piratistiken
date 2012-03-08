@@ -1,5 +1,5 @@
 # ISO-Datum	Mitgl	Quelle
-20071021	10	http://wiki.piratenpartei.de/Protokoll_der_1._Landesmitgliederversammlung_der_Piratenpartei_Deutschland_Landesverband_Hamburg_vom_21.10.2007
+20071021	10	https://wiki.piratenpartei.de/Protokoll_der_1._Landesmitgliederversammlung_der_Piratenpartei_Deutschland_Landesverband_Hamburg_vom_21.10.2007
 20080122	31
 20080405	31
 20080406	40
@@ -69,12 +69,12 @@
 20100731	577
 20100920	577
 20101010	580
-20101201	452	http://wiki.piratenpartei.de/2010-12-01_-_Protokoll_Vorstand_Hamburg#Begr.C3.BC.C3.9Fung
+20101201	452	https://wiki.piratenpartei.de/2010-12-01_-_Protokoll_Vorstand_Hamburg#Begr.C3.BC.C3.9Fung
 20110107	453
-20110307	451	http://wiki.piratenpartei.de/Prototoll_der_Sitzung_des_Hamburger_Vorstands_vom_07.03.2011
-20110325	453	http://wiki.piratenpartei.de/Protokoll_der_Sitzung_des_Hamburger_Vorstands_vom_25.03.2011
-20110504	447	325 http://wiki.piratenpartei.de/Protokoll_der_Sitzung_des_Hamburger_Vorstands_vom_04.05.2011
-20110531		http://wiki.piratenpartei.de/Protokoll_der_Sitzung_des_Hamburger_Vorstands_vom_31.05.2011
+20110307	451	https://wiki.piratenpartei.de/Prototoll_der_Sitzung_des_Hamburger_Vorstands_vom_07.03.2011
+20110325	453	https://wiki.piratenpartei.de/Protokoll_der_Sitzung_des_Hamburger_Vorstands_vom_25.03.2011
+20110504	447	325 https://wiki.piratenpartei.de/Protokoll_der_Sitzung_des_Hamburger_Vorstands_vom_04.05.2011
+20110531		https://wiki.piratenpartei.de/Protokoll_der_Sitzung_des_Hamburger_Vorstands_vom_31.05.2011
 # angegeben werden nur noch die stimmberechtigten Mitglieder, direkt vom GenSek HH
 20110707	341
 20110712	345
@@ -118,7 +118,7 @@
 20111103	711
 20111115	726
 20111116	705
-20111120	709	http://wiki.piratenpartei.de/2011-11-20_-_Protokoll_Vorstand_Hamburg
+20111120	709	https://wiki.piratenpartei.de/2011-11-20_-_Protokoll_Vorstand_Hamburg
 20111128	713
 20111204	726	http://piratenpartei.wortgewalt.de/docs/bpt112/
 20111223	737
@@ -126,9 +126,9 @@
 20111231	741
 20120102	744
 20120110	748
-20120111	747	http://wiki.piratenpartei.de/2012-01-11_-_Protokoll_Vorstand_Hamburg#Er.C3.B6ffnung
+20120111	747	https://wiki.piratenpartei.de/2012-01-11_-_Protokoll_Vorstand_Hamburg#Er.C3.B6ffnung
 20120114	759
 20120226	794
 20120228	826
 #
-# http://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg
+# https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg

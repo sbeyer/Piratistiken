@@ -20,37 +20,37 @@
 20100316	135
 20100324	136
 20100605	136
-20100607		http://wiki.piratenpartei.de/HB:Vorstand/2010-06-07_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
+20100607		https://wiki.piratenpartei.de/HB:Vorstand/2010-06-07_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
 20100804	148
 20100910	147
 20100915	145
 20100920	148
 20100923	150
 20101018	151
-20101022		http://wiki.piratenpartei.de/HB:Vorstand/2010-10-25_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
-20101024	152	http://wiki.piratenpartei.de/HB:Vorstand/2010-10-25_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
+20101022		https://wiki.piratenpartei.de/HB:Vorstand/2010-10-25_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
+20101024	152	https://wiki.piratenpartei.de/HB:Vorstand/2010-10-25_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
 20101030	153
 20101103	154
 20101125	152
 20101227	153
-20110110	152	http://wiki.piratenpartei.de/HB:Vorstand/2011-01-10_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
-20110122		http://wiki.piratenpartei.de/HB:Vorstand/2011-01-24_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
-20110124	152	http://wiki.piratenpartei.de/HB:Vorstand/2011-01-24_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
-20110214		http://wiki.piratenpartei.de/HB:Vorstand/2011-02-14_Protokoll_Vorstandssitzung
-20110221		http://wiki.piratenpartei.de/HB:Vorstand/2011-02-21_Protokoll_Vorstandssitzung
-20110307		http://wiki.piratenpartei.de/HB:Vorstand/2011-03-07_Protokoll_Vorstandssitzung
+20110110	152	https://wiki.piratenpartei.de/HB:Vorstand/2011-01-10_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
+20110122		https://wiki.piratenpartei.de/HB:Vorstand/2011-01-24_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
+20110124	152	https://wiki.piratenpartei.de/HB:Vorstand/2011-01-24_Protokoll_Vorstandssitzung#aktuelle_Kennzahlen
+20110214		https://wiki.piratenpartei.de/HB:Vorstand/2011-02-14_Protokoll_Vorstandssitzung
+20110221		https://wiki.piratenpartei.de/HB:Vorstand/2011-02-21_Protokoll_Vorstandssitzung
+20110307		https://wiki.piratenpartei.de/HB:Vorstand/2011-03-07_Protokoll_Vorstandssitzung
 20110318	151
 20110429	155
-20110502	156	http://wiki.piratenpartei.de/HB:Vorstand/2011-05-02_Protokoll_Vorstandssitzung
+20110502	156	https://wiki.piratenpartei.de/HB:Vorstand/2011-05-02_Protokoll_Vorstandssitzung
 20110503	157
 20110517	159
 20110525	163
 20110531	167
-20110707	167	http://wiki.piratenpartei.de/HB:Vorstand/2011-07-07_Protokoll_Vorstandssitzung#Bericht_vom_Schatzmeister
+20110707	167	https://wiki.piratenpartei.de/HB:Vorstand/2011-07-07_Protokoll_Vorstandssitzung#Bericht_vom_Schatzmeister
 20110824	166
 20110915	167	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
 20110923	170
-20110926	170	http://wiki.piratenpartei.de/HB:Vorstand/2011-09-26_Protokoll_Vorstandssitzung#Kennzahlenbericht_vom_Schatzmeister
+20110926	170	https://wiki.piratenpartei.de/HB:Vorstand/2011-09-26_Protokoll_Vorstandssitzung#Kennzahlenbericht_vom_Schatzmeister
 20110929	171	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 20111001	174
 20111004	175
@@ -66,7 +66,7 @@
 20111103	190
 20111108	191
 20111118	193
-20111121	193	http://wiki.piratenpartei.de/HB:Vorstand/2011-11-21_Protokoll_Vorstandssitzung#Kennzahlenberichte_vom_Schatzmeister
+20111121	193	https://wiki.piratenpartei.de/HB:Vorstand/2011-11-21_Protokoll_Vorstandssitzung#Kennzahlenberichte_vom_Schatzmeister
 20111128	195
 #20111204	194	http://piratenpartei.wortgewalt.de/docs/bpt112/
 20111206	200
@@ -80,10 +80,10 @@
 20120110	216
 20120112	217
 20120113	219
-20120116	219	http://wiki.piratenpartei.de/HB:Vorstand/2012-01-16_Protokoll_Vorstandssitzung#Kennzahlenberichte_vom_Schatzmeister
+20120116	219	https://wiki.piratenpartei.de/HB:Vorstand/2012-01-16_Protokoll_Vorstandssitzung#Kennzahlenberichte_vom_Schatzmeister
 20120129	224
 20120207	226
 20120226	231
 #
-# http://wiki.piratenpartei.de/wiki//index.php?title=HB:Vorlage:Piraten_in_HB&action=history
-# http://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Bremen
+# https://wiki.piratenpartei.de/wiki//index.php?title=HB:Vorlage:Piraten_in_HB&action=history
+# https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Bremen

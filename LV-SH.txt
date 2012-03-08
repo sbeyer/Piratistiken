@@ -73,17 +73,17 @@
 20111005	450
 20111008	477
 #20111013	376	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
-20111017	517	http://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-10-17
-20111030	544	http://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-10-30
-20111114	549	http://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-11-14
-20111128	550	http://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-11-28
+20111017	517	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-10-17
+20111030	544	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-10-30
+20111114	549	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-11-14
+20111128	550	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-11-28
 20111204	580	http://piratenpartei.wortgewalt.de/docs/bpt112/
-20111212	604	http://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-12-12
+20111212	604	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-12-12
 20120107	617
-20120123	626	http://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-01-23
-20120206	635	http://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-02-06
-20120220	638	http://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-02-20
+20120123	626	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-01-23
+20120206	635	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-02-06
+20120220	638	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-02-20
 20120301	638
 #
-# http://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
+# https://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
 # http://www.piratenpartei-sh.de/index.php?option=com_remository&Itemid=44&func=select&id=2&orderby=4
