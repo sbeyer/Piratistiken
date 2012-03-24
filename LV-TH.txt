@@ -105,6 +105,7 @@
 20120208	412	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-02-08-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20120222	425	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-02-22-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20120307	437	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-03-07-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+# 20120326
 #
 # https://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 # https://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv (vollständiger)

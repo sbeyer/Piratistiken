@@ -84,6 +84,9 @@
 20120129	224
 20120207	226
 20120226	231
+20120304	243
+20120305	247	https://wiki.piratenpartei.de/HB:Vorstand/2012-03-05_Protokoll_Vorstandssitzung#Kennzahlenberichte_vom_Schatzmeister
+20120312	247	https://wiki.piratenpartei.de/HB:Vorstand/2012-03-12_Protokoll_Vorstandssitzung#Mitglieder
 #
 # https://wiki.piratenpartei.de/wiki//index.php?title=HB:Vorlage:Piraten_in_HB&action=history
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Bremen

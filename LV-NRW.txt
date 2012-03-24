@@ -100,5 +100,9 @@
 20120112	3175	https://wiki.piratenpartei.de/NRW:2012-01-12_-_NRW_Vorstand#Berichte_Statistik
 20120126	3323	https://wiki.piratenpartei.de/NRW:2012-01-26_-_NRW_Vorstand#Berichte_Statistik
 20120223	3488	https://wiki.piratenpartei.de/NRW:2012-02-23_-_NRW_Vorstand#Berichte_Statistik
+20120308	3574	https://wiki.piratenpartei.de/NRW:2012-03-08_-_NRW_Vorstand#Berichte_Statistik
+20120321	3700
+20120322	3701
+# 20120322		https://wiki.piratenpartei.de/NRW:2012-03-22_-_NRW_Vorstand#Berichte_Statistik
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand

@@ -91,6 +91,7 @@
 20120125	1283	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-01-25#Generalsekret.C3.A4r
 20120208	1348	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-02-08#Generalsekret.C3.A4r
 20120222	1368	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-02-22#Generalsekret.C3.A4r
+#20120314		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-03-14#Generalsekret.C3.A4r
 #
 # https://wiki.piratenpartei.de/HE:Vorstand/Protokolle
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Hessen

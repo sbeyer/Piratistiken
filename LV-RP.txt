@@ -138,5 +138,6 @@
 20120205	791	https://wiki.piratenpartei.de/RP:2012-02-05_-_75._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 20120219	795	https://wiki.piratenpartei.de/RP:2012-02-19_-_76._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 20120304	809	https://wiki.piratenpartei.de/RP:2012-03-04_-_77._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20120318	847	https://wiki.piratenpartei.de/RP:2012-03-18_-_78._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand
