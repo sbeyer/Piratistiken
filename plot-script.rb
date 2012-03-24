@@ -109,6 +109,8 @@ enddate = ARGV.shift.to_i + 30
  20110918, # Abgeordnetenhauswahl BE
  20120325, # Landtagswahl SL
  20120506, # Landtagswahl SH
+ 20120513, # Landtagswahl NRW
+ 20130120, # Landtagswahl NDS
 ].each do |date|
 	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_land' if date >= startdate and date <= enddate
 end
