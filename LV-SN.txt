@@ -68,6 +68,6 @@
 20120111	524	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-01-11
 20120321	625	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-03-21
 #20120322	625	https://twitter.com/c_h_p_e/statuses/182454392623083521
-# 20120328		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-03-28
+# 20120404		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-04-04
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Telefonkonferenz_Sachsen
