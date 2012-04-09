@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # Sort input files based on last number of members
 #
-# (C) 2011, Stephan Beyer
+# (C) 2011 - 2012, Stephan Beyer
 #
 # Redistribution and use in source and binary forms, with or
 # without modification, are permitted provided that the following
