@@ -83,5 +83,6 @@
 20120106	599	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-01-06#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20120306	618	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-03-06#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20120322	720	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-03-22#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20120404	804
 #
 # https://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle

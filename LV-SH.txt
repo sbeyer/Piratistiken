@@ -85,6 +85,7 @@
 20120220	638	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-02-20
 20120305	649	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-03-05
 20120319	676	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-03-19
+20120402	719
 #
 # https://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
 # http://www.piratenpartei-sh.de/index.php?option=com_remository&Itemid=44&func=select&id=2&orderby=4

@@ -73,6 +73,7 @@
 20120112	2500
 20120205	2359	https://wiki.piratenpartei.de/BE:2012-02-05_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20120225	2700	https://wiki.piratenpartei.de/Datei:T%C3%A4tigkeitsbericht_Landesvorstand_Berlin_2011_Helge_Eichelberg.pdf
+20120329	2934
 #
 # Vorstandssitzungscheck:  20110301 - 20110904
 #
