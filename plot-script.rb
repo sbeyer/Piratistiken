@@ -57,6 +57,8 @@ if ARGV.length != 19
 	exit 1
 end
 
+startdate = 20071201
+
 print <<EOF
 # Generate output based on mitglieder.csv
 set terminal pngcairo size 800,480
@@ -68,15 +70,16 @@ set xdata time
 set timefmt "%Y%m%d"
 set xlabel "Datum"
 set xtics \\
-	"20070701",7776000 \\
+	"#{startdate}",7776000 \\
 	axis \\
 	rotate \\
 	offset 0,character 0.5 \\
-	font "sans,9" \\
-	format "%y-%m"
+	font "sans,7.7" \\
+	format "%Y-%m"
 set key outside center right
-set ytics 1000
-set mytics 4
+set ytics 1000 \\
+	font "sans,9"
+set mytics 2
 
 ### define colors for special date markers
 col_europa = "#3030ff"
@@ -87,7 +90,6 @@ col_bpt = "#ffd530"
 ### define markers for special dates
 EOF
 
-startdate = 20071001
 enddate = ARGV.shift.to_i + 30
 
 [20060326, # Landtagswahl BW,RP,LSA
