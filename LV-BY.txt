@@ -79,5 +79,6 @@
 20120307	4755	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-03-07#Kurz-Bericht_Generalsekret.C3.A4r.2FMitgliederverwaltung
 20120401	5248
 20120404	5299	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-04-04#Kurz-Bericht_Generalsekret.C3.A4r
+20120412	5658
 #
 # https://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2011

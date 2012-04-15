@@ -142,5 +142,6 @@
 20120401	881
 20120407	916
 # 20120409	881	https://wiki.piratenpartei.de/RP:2012-04-01_-_79._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
+20120415	935
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand

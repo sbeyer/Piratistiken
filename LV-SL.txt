@@ -74,6 +74,7 @@
 20120330	430	https://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2012-03-30#TOP_4:_Kennzahlen
 20120403	437
 20120404	440
+20120412	457
 #
 # https://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen
 # https://wiki.piratenpartei.de/Kategorie:Vorstandssitzungen_Saarland
