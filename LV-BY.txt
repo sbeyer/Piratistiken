@@ -80,5 +80,7 @@
 20120401	5248
 20120404	5299	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-04-04#Kurz-Bericht_Generalsekret.C3.A4r
 20120412	5658
+20120418	5655	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-04-18#Kurz-Bericht_Generalsekret.C3.A4r
+20120420	5883
 #
 # https://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2011
