@@ -72,5 +72,6 @@
 #20120410	696
 20120411	665	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-04-11
 20120418	665	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-04-18
+20120425	765	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-04-25
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Telefonkonferenz_Sachsen

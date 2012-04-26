@@ -133,5 +133,6 @@
 20120409	982
 20120410	947
 20120423	1029
+20120426	1063
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg
