@@ -112,5 +112,6 @@
 20120412	453
 20120421	500
 20120422	553
+20120429	567	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 #
 # https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen

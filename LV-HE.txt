@@ -94,6 +94,7 @@
 20120328	1394	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-03-28#Generalsekret.C3.A4r
 20120425	1506	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-04-25#Generalsekret.C3.A4r
 20120426	1653
+20120429	1656	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 #
 # https://wiki.piratenpartei.de/HE:Vorstand/Protokolle
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Hessen

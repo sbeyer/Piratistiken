@@ -24,3 +24,4 @@
 20110929	72	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 20111013	70	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111204	102	http://piratenpartei.wortgewalt.de/docs/bpt112/
+20120429	125	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akreditierungsstatistik

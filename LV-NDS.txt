@@ -245,5 +245,6 @@
 20120408	2178
 20120411	2300	https://wiki.piratenpartei.de/NDS:Vorstand/2012-04-11#TOP_5_Berichte
 20120416	2345
+20120429	2461	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 #
 # http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen.html

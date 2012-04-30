@@ -82,5 +82,7 @@
 20120412	5658
 20120418	5655	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-04-18#Kurz-Bericht_Generalsekret.C3.A4r
 20120420	5883
+20120426	5999	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
+20120427	6124
 #
 # https://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2011
