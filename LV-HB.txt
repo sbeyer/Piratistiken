@@ -90,7 +90,7 @@
 20120401	261
 20120406	270
 20120416	282
-#20120429	264	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
+20120429	264	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 #
 # https://wiki.piratenpartei.de/wiki//index.php?title=HB:Vorlage:Piraten_in_HB&action=history
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Bremen

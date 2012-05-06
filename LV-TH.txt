@@ -117,6 +117,8 @@
 20120418	561	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-04-18-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20120425	590
 #20120429	590	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
+20120502	589	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-05-02-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120504	615	https://twitter.com/#!/irm_tw/status/198530542252212225
 #
 # https://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 # https://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv (vollständiger)
