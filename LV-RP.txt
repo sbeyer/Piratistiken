@@ -144,5 +144,6 @@
 # 20120409	881	https://wiki.piratenpartei.de/RP:2012-04-01_-_79._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 20120415	935	https://wiki.piratenpartei.de/RP:2012-04-15_-_80._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 20120429	1031	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
+20120508	1061	https://wiki.piratenpartei.de/RP:2012-05-08_-_81._Vorstandssitzung#Top_2:_Mitgliederstand_.2F_Bericht_GenSek
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand

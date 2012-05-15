@@ -89,7 +89,7 @@
 20120416	730	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-04-16
 20120425	856	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 20120426	892
-20120430	901
+20120430	901	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-04-30
 #
 # https://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
 # http://www.piratenpartei-sh.de/index.php?option=com_remository&Itemid=44&func=select&id=2&orderby=4
