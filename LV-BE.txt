@@ -77,6 +77,7 @@
 20120422	3243
 20120426	3352
 #20120429	3352	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
+20120519	3567
 #
 # Vorstandssitzungscheck:  20110301 - 20110904
 #

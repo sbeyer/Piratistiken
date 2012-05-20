@@ -112,5 +112,6 @@
 20120426	5006
 20120429	5006	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 20120503	5006	https://wiki.piratenpartei.de/NRW:2012-05-03_-_NRW_Vorstand#Berichte_Statistik
+20120517	5006	https://wiki.piratenpartei.de/NRW:2012-05-17_-_NRW_Vorstand#Berichte_Statistik
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand
