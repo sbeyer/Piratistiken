@@ -136,6 +136,7 @@ end
  20110514, 20110515, # BPT 2011.1
  20111203, 20111204, # BPT 2011.2
  20120428, 20120429, # BPT 2012.1
+ 20121124, 20121125, # BPT 2012.2
 ].each do |date|
 	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_bpt' if date >= startdate and date <= enddate
 end
