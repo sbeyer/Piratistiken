@@ -25,3 +25,4 @@
 20111013	70	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111204	102	http://piratenpartei.wortgewalt.de/docs/bpt112/
 20120429	125	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akreditierungsstatistik
+20120523	38

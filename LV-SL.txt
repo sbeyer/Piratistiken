@@ -79,6 +79,7 @@
 20120426	466	https://twitter.com/#!/onk3l/status/195518083979427840
 20120429	467	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 20120511	474	https://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2012-05-11#TOP_23:_Kennzahlen
+20120527	488
 #
 # https://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen
 # https://wiki.piratenpartei.de/Kategorie:Vorstandssitzungen_Saarland

@@ -77,7 +77,9 @@
 20120422	3243
 20120426	3352
 #20120429	3352	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
-20120519	3567
+#20120506		https://wiki.piratenpartei.de/BE:2012-05-06_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+#20120515		https://wiki.piratenpartei.de/BE:2012-05-06_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20120519	3567	https://wiki.piratenpartei.de/BE:2012-05-20_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 #
 # Vorstandssitzungscheck:  20110301 - 20110904
 #

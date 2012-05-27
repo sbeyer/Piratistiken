@@ -76,5 +76,6 @@
 #20120429	795	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akreditierungsstatistik
 20120502	760	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-05-02
 20120516	826	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-05-16
+20120523	856	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-05-23
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Telefonkonferenz_Sachsen
