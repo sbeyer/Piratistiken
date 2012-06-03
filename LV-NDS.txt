@@ -249,5 +249,6 @@
 20120503	2550
 20120504	2628
 20120510	2695
+20120528	2776
 #
 # http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen.html

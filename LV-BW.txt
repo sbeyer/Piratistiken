@@ -181,6 +181,8 @@
 20120426	3331
 #20120427	3277	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-05-03_-_Vorstandssitzung#aktuelle_Kennzahlen
 20120429	3273	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
+20120531	3350	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-05-31_-_Vorstandssitzung#aktuelle_Kennzahlen
+20120602	3599
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstandssitzung_Baden-W%C3%BCrttemberg
 # https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand

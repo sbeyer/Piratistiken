@@ -117,7 +117,8 @@
 20120423	553	https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2012/04-April/2012-04-23_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 20120429	567	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 20120506	593
-20120514	640	https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2012/05-Mai/2012-05-14_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
-#20120519	614
+#20120514	640	https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2012/05-Mai/2012-05-14_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20120519	614
+20120531	632
 #
 # https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen

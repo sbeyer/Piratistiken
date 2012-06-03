@@ -90,6 +90,6 @@
 #20120429	873	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 20120506	988	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-05-04#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20120514	1033	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-05-14#TOP_4:_Sonstiges_.2F_Verschiedenes
-20120522	1023	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-05-22
+20120522	1023	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-05-22#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 #
 # https://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle
