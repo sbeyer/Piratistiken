@@ -26,3 +26,4 @@
 20111204	102	http://piratenpartei.wortgewalt.de/docs/bpt112/
 20120429	125	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akreditierungsstatistik
 20120523	38
+20120606	7

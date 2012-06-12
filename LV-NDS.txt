@@ -249,6 +249,7 @@
 20120503	2550
 20120504	2628
 20120510	2695
+20120523	2700	https://wiki.piratenpartei.de/NDS:Vorstand/2012-05-23#TOP_6_Berichte
 20120528	2776
 #
 # http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen.html

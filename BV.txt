@@ -95,6 +95,7 @@
 # 20120429	28806	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akreditierungsstatistik
 20120429	29638
 20120509	30762	http://vorstand.piratenpartei.de/2012/05/09/protokoll-zur-vorstandssitzung-2012-05-09/#Kennzahlen
+20120606	31073	http://vorstand.piratenpartei.de/2012/06/07/mitschrift-vorstandssitzung-06-06-2012/#Kennzahlen
 #
 # # http://vorstand.piratenpartei.de/category/sitzungsprotokolle/
 # Wiki Oberkategorie: https://wiki.piratenpartei.de/Kategorie:Bundesvorstandssitzung
