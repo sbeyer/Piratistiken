@@ -137,5 +137,7 @@
 20120426	1063
 20120429	1063	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 20120610	1137
+20120618	1168
+20120624	1168	https://wiki.piratenpartei.de/2012-06-24_-_Protokoll_Vorstand_Hamburg#Protokoll
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg

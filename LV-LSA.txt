@@ -121,5 +121,12 @@
 20120519	614
 20120531	632
 20120611	638
+#20120614	660	https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2012/06-Juni/2012-06-14_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20120616	647
+20120617	652
+20120621	656
+20120625	673	https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2012/06-Juni/2012-06-25_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20120626	672
+
 #
 # https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen

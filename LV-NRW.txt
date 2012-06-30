@@ -115,6 +115,9 @@
 20120517	5006	https://wiki.piratenpartei.de/NRW:2012-05-17_-_NRW_Vorstand#Berichte_Statistik
 20120524	5526
 20120609	5780
-
+20120614	5780	https://wiki.piratenpartei.de/NRW:2012-06-14_-_NRW_Vorstand#Berichte_Statistik
+20120618	5778
+20120628	6205	https://wiki.piratenpartei.de/NRW:2012-06-28_-_NRW_Vorstand#Berichte_Statistik
+20120629	6210
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand
