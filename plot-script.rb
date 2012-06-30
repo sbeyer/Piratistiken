@@ -77,7 +77,7 @@ set xtics \\
 	font "sans,7.7" \\
 	format "%Y-%m"
 set key outside center right
-set ytics 1000 \\
+set ytics 2000 \\
 	font "sans,9"
 set mytics 2
 
