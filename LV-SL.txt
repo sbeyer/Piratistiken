@@ -81,6 +81,7 @@
 20120511	474	https://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen/2012-05-11#TOP_23:_Kennzahlen
 20120527	488
 20120622	494	https://wiki.piratenpartei.de/SL:Landesvorstand/Vorstandssitzungen/2012-06-22#TOP_14:_Kennzahlen
+20120706	500	https://wiki.piratenpartei.de/SL:Landesvorstand/Vorstandssitzungen/2012-07-06#TOP_8:_Kennzahlen
 #
 # https://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen
 # https://wiki.piratenpartei.de/Kategorie:Vorstandssitzungen_Saarland
