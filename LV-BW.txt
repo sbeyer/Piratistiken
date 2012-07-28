@@ -192,6 +192,9 @@
 20120704	3727
 20120712	3727	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-07-12_-_Vorstandssitzung#aktuelle_Kennzahlen
 20120714	3741
+20120718	3740
+20120722	3748
+20120726	3760	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-07-26_-_Vorstandssitzung#aktuelle_Kennzahlen
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstandssitzung_Baden-W%C3%BCrttemberg
 # https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand

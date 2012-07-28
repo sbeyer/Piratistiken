@@ -86,6 +86,7 @@
 20120507	459
 20120529	460
 20120610	467
+20120722	479
 #
 # Die Vorstandsprotokolle enthalten keine Mitgliederanzahlen.
 # Mitgliederinfos finden sich auf der Standardquelle: https://wiki.piratenpartei.de/MV:Vorlage:Piraten_in_MV

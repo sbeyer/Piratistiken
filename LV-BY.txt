@@ -91,5 +91,7 @@
 20120530	6813	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-05-30#Kurz-Bericht_Generalsekret.C3.A4r
 20120612	6893	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-06-12#Kurz-Bericht_Generalsekret.C3.A4r
 20120711	6951	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-07-11#Kurz-Bericht_Generalsekret.C3.A4r
+20120725	7018
+20120726	7018	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-07-26#Kurz-Bericht_Generalsekret.C3.A4r
 #
 # https://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2011
