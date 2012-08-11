@@ -93,6 +93,9 @@
 20120514	1018	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-05-14
 20120529	1027	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-05-29
 20120611	1058	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-06-11
+20120710	1066
+20120718	1067
+20120719	1078	https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-07-19_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r
 #
 # https://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
 # http://www.piratenpartei-sh.de/index.php?option=com_remository&Itemid=44&func=select&id=2&orderby=4
