@@ -134,6 +134,8 @@
 20120722	679
 20120724	680	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-07-24-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20120807	678	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-08-07-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120821	679	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-08-21-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120823	676
 #
 # https://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 # https://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv (vollständiger)
