@@ -144,5 +144,6 @@
 20120821	1186
 20120822	1185
 20120825	1192
+20120902	1198
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg
