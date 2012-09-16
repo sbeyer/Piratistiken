@@ -90,6 +90,8 @@
 20120729	3727	https://wiki.piratenpartei.de/BE:2012-07-29_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20120812	3749	https://wiki.piratenpartei.de/BE:2012-08-12_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20120826	3766	https://wiki.piratenpartei.de/BE:2012-08-26_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20120909	3808	http://wiki.piratenpartei.de/BE:2012-09-09_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20120914	3799
 #
 # Vorstandssitzungscheck:  20110301 - 20110904
 #

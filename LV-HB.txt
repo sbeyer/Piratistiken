@@ -93,6 +93,7 @@
 20120429	264	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 20120515	312
 20120904	313
+20120905	313	https://wiki.piratenpartei.de/HB:Vorstand/2012-09-05_Protokoll_Vorstandssitzung#TOP_2:_T.C3.A4tigkeitsberichte
 #
 # https://wiki.piratenpartei.de/wiki//index.php?title=HB:Vorlage:Piraten_in_HB&action=history
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Bremen

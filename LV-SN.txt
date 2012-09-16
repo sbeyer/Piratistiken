@@ -87,5 +87,7 @@
 20120810	878	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-08-10
 20120815	874	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-08-15
 20120829	880	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-08-29
+20120905	881	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-09-05
+20120912	890	https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-09-12
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Telefonkonferenz_Sachsen
