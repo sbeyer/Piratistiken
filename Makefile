@@ -1,3 +1,4 @@
+BVINPUT = BV.txt
 INPUT = \
 	LV-BB.txt \
 	LV-BE.txt \
@@ -26,8 +27,8 @@ output-tmp.png: mitglieder.csv plotscript
 mitglieder.csv: $(INPUT) plot-stacked.rb sort.rb Makefile
 	./plot-stacked.rb `./sort.rb $(INPUT)` > $@
 
-plotscript: $(INPUT) mitglieder.csv plot-script.rb sort.rb Makefile
-	./plot-script.rb `tail -n 1 mitglieder.csv | sed -e 's/^\([0-9]\+\).*\t\([0-9]\+\)$$/\2 \1/'` `./sort.rb $(INPUT)` > $@
+plotscript: $(BVINPUT) $(INPUT) mitglieder.csv plot-script.rb sort.rb Makefile
+	./plot-script.rb `tail -n 1 mitglieder.csv | sed -e 's/^\([0-9]\+\).*\t\([0-9]\+\)$$/\2 \1/'` $(BVINPUT) `./sort.rb $(INPUT)` > $@
 
 .PHONY: diff
 diff:

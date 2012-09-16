@@ -33,6 +33,7 @@
 # official policies, either expressed or implied, of Stephan Beyer.
 
 Translate = {
+	'BV.txt' => ['Bund', 'bv'],
 	'LV-BB.txt' => ['LV BB', 'bb'],
 	'LV-BE.txt' => ['LV BE', 'be'],
 	'LV-BW.txt' => ['LV BW', 'bw'],
@@ -52,8 +53,8 @@ Translate = {
 	'OUTSIDE.txt' => ['Ausland', 'out']
 }
 
-if ARGV.length != 19
-	STDERR.puts "Error: need 19 arguments"
+if ARGV.length != 20
+	STDERR.puts "Error: need 20 arguments"
 	exit 1
 end
 
@@ -144,7 +145,8 @@ end
 puts "### define colors for LVs"
 
 index = 0
-["#5f9812",
+["#888888",
+ "#5f9812",
  "#65cb39",
  "#9ff8e8",
  "#8ea5f9",
@@ -167,6 +169,7 @@ end
 
 puts
 puts "plot [\"#{startdate}\":\"#{enddate}\"] [0:ymax] \\"
-print((0..16).to_a.reverse.map do |i|
-  " 'mitglieder.csv' using 1:#{i+2} t \"#{Translate[ARGV[i]][0]}\" w filledcurves x1 lt rgb col_#{Translate[ARGV[i]][1]}"
+print((1..17).to_a.reverse.map do |i|
+  " 'mitglieder.csv' using 1:#{i+1} t \"#{Translate[ARGV[i]][0]}\" w filledcurves x1 lt rgb col_#{Translate[ARGV[i]][1]}"
  end.join(", \\\n"))
+puts ", \\\n '#{ARGV[0]}' using 1:2 t \"#{Translate[ARGV[0]][0]}\" w lines lt rgb col_#{Translate[ARGV[0]][1]}\n"
