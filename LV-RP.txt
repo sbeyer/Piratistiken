@@ -153,5 +153,9 @@
 20120819	1154	https://wiki.piratenpartei.de/RP:2012-08-19_-_89._Vorstandssitzung#TOP_2:_Berichte
 20120825	1155
 20120902	1162	https://wiki.piratenpartei.de/RP:2012-09-02_-_90._Vorstandssitzung#Top_2:_Berichte
+20120920	1167	https://wiki.piratenpartei.de/RP:2012-09-20_-_91._Vorstandssitzung#Top_2:_Berichte
+20120921	1179
+20121007	1191	https://wiki.piratenpartei.de/RP:2012-10-07_-_92._Vorstandssitzung#Top_2:_Berichte
+20121013	1192
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand

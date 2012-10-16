@@ -109,6 +109,9 @@
 20120802	2044
 20120808	2047	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-08-08#Generalsekret.C3.A4r
 20120822	2051	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-08-22#Generalsekret.C3.A4r
+20120912	2056	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-09-12#Generalsekret.C3.A4r
+20120926	2056	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-09-26#Generalsekret.C3.A4r
+20121010	2055	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-10-10#Generalsekret.C3.A4r
 #
 # https://wiki.piratenpartei.de/HE:Vorstand/Protokolle
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Hessen
