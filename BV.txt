@@ -102,6 +102,10 @@
 20120829	34322	http://vorstand.piratenpartei.de/2012/09/11/mitschrift-vorstandssitzung-29-8-12/#Kennzahlen
 20120912	34194	http://vorstand.piratenpartei.de/2012/09/13/mitschrift-vorstandssitzung-12-9-12/#Kennzahlen
 20120929	34117	http://vorstand.piratenpartei.de/2012/10/12/mitschrift-vorstandssitzung-29-9-12/#Kennzahlen
+20121010	34212	http://vorstand.piratenpartei.de/2012/10/13/mitschrift-vorstandssitzung-10-10-12/#Kennzahlen
+20121024	34269	http://vorstand.piratenpartei.de/2012/10/25/mitschrift-vorstandssitzung-24-10-12/#Kennzahlen
+#20121107	34133	http://vorstand.piratenpartei.de/2012/11/08/mitschrift-vorstandssitzung-7-11-12/#Kennzahlen
+20121117	34277	http://vorstand.piratenpartei.de/2012/11/19/mitschrift-vorstandssitzung-17-11-12/#Kennzahlen
 #
 # http://vorstand.piratenpartei.de/category/sitzungsprotokolle/
 # Wiki Oberkategorie: https://wiki.piratenpartei.de/Kategorie:Bundesvorstandssitzung

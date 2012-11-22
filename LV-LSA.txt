@@ -135,5 +135,9 @@
 20120920	677	https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2012/09-September/2012-09-20_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 20120922	681
 20121004	685	https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2012/10-Oktober/2012-10-04_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20121010	685	https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2012/10-Oktober/2012-10-10_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20121022	685	https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2012/10-Oktober/2012-10-22_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20121105	686	https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2012/05-November/2012-11-05_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20121119	688	https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2012/19-November/2012-11-19_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 #
 # https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen

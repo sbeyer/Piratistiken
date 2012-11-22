@@ -100,6 +100,9 @@
 20120829	1083	https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-08-29_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_-_Heiko
 20120912	1092	https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-09-12_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_-_Heiko
 20120926	1090	https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-09-26_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r
+20121017	1062	https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-10-17_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_-_Heiko
+20121023	1054
+20121114	1050	https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-11-14_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Heiko.29
 #
 # https://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
 # http://www.piratenpartei-sh.de/index.php?option=com_remository&Itemid=44&func=select&id=2&orderby=4

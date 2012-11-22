@@ -264,5 +264,6 @@
 20120915	2866	https://wiki.piratenpartei.de/NDS:Vorstand/2012-10-10#TOP_5_Berichte
 20120926	2863	https://wiki.piratenpartei.de/NDS:Vorstand/2012-09-26#TOP_6_Berichte
 20121003	2860
+20121114	2886	https://wiki.piratenpartei.de/NDS:Vorstand/2012-11-14#TOP_4_Berichte
 #
 # http://www.piratenpartei-niedersachsen.de/ueber-uns/landesvorstand/vorstand-treffen.html

@@ -157,5 +157,11 @@
 20120921	1179
 20121007	1191	https://wiki.piratenpartei.de/RP:2012-10-07_-_92._Vorstandssitzung#Top_2:_Berichte
 20121013	1192
+20121021	1196	https://wiki.piratenpartei.de/RP:2012-10-21_-_93._Vorstandssitzung#Top_2:_Berichte
+20121023	1194
+20121028	1194	https://wiki.piratenpartei.de/RP:2012-10-28_-_94._Vorstandssitzung#Top_2:_Berichte
+20121111	1194	https://wiki.piratenpartei.de/RP:2012-11-11_-_96._Vorstandssitzung#Top_2:_Berichte
+20121118	1194	https://wiki.piratenpartei.de/RP:2012-11-18_-_97._Vorstandssitzung#Top_2:_Berichte
+20121120	1190
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand
