@@ -1,5 +1,5 @@
-# ISO-Datum	Mitgl	Quelle
-20071216	11	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=59
+# ISO-Datum	Mitgl	stimmb	Quelle
+20071216	11		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=59
 20080122	26
 20080405	29
 20080406	31
@@ -37,72 +37,74 @@
 20091006	352
 20091011	358
 20091122	358
-20100302	361	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=85
+20100302	361		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=85
 20100326	373
 20100520	380
-20100823	379	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=112
-20101019	377	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=117
-20101102	377	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=118
-20101114	374	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=123
-20101130	371	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=124
-20101213	370	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=125
-20110103	372	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=126
-20110124	375	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=127
-20110205	375	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=128
-20110221	373	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=129
-20110307	371	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=130
-20110322	367	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=131
-20110404	368	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=132
-20110418	369	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=133
-20110503	369	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=134
-20110517	372	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=135
-20110609	374	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=140
-20110626	372	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=146
-20110707	374	http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
-20110711	374	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=150
-20110725	374	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=151
-20110808	376	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=152
-20110822	376	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=153
-20110905	372	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=154
-20110915	376	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
-20110917	372	http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=155
-20110929	376	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
+20100823	379		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=112
+20101019	377		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=117
+20101102	377		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=118
+20101114	374		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=123
+20101130	371		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=124
+20101213	370		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=125
+20110103	372		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=126
+20110124	375		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=127
+20110205	375		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=128
+20110221	373		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=129
+20110307	371		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=130
+20110322	367		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=131
+20110404	368		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=132
+20110418	369		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=133
+20110503	369		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=134
+20110517	372		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=135
+20110609	374		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=140
+20110626	372		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=146
+20110707	374		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
+20110711	374		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=150
+20110725	374		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=151
+20110808	376		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=152
+20110822	376		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=153
+20110905	372		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=154
+20110915	376		http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
+20110917	372		http://www.piratenpartei-sh.de/downloads.html?func=startdown&id=155
+20110929	376		http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 20111001	420
 20111002	422
-20111004	428	http://piratenpartei-sh.de/index.php/mitmachen/downloads-a-logos/category/2-protokolle-vorstandssitzungen?download=26
+20111004	428		http://piratenpartei-sh.de/index.php/mitmachen/downloads-a-logos/category/2-protokolle-vorstandssitzungen?download=26
 20111005	450
 20111008	477
-#20111013	376	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
-20111017	517	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-10-17
-20111030	544	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-10-30
-20111114	549	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-11-14
-20111128	550	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-11-28
-20111204	580	http://piratenpartei.wortgewalt.de/docs/bpt112/
-20111212	604	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-12-12
+#20111013	376		http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
+20111017	517		https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-10-17
+20111030	544		https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-10-30
+20111114	549		https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-11-14
+20111128	550		https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-11-28
+20111204	580		http://piratenpartei.wortgewalt.de/docs/bpt112/
+20111212	604		https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2011-12-12
 20120107	617
-20120123	626	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-01-23
-20120206	635	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-02-06
-20120220	638	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-02-20
-20120305	649	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-03-05
-20120319	676	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-03-19
-20120402	719	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-04-02
-20120416	730	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-04-16
-20120425	856	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
+20120123	626		https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-01-23
+20120206	635		https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-02-06
+20120220	638		https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-02-20
+20120305	649		https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-03-05
+20120319	676		https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-03-19
+20120402	719		https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-04-02
+20120416	730		https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-04-16
+20120425	856		https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 20120426	892
-20120430	901	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-04-30
-20120514	1018	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-05-14
-20120529	1027	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-05-29
-20120611	1058	https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-06-11
+20120430	901		https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-04-30
+20120514	1018		https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-05-14
+20120529	1027		https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-05-29
+20120611	1058		https://wiki.piratenpartei.de/SH:Vorstand/Sitzungen/2012-06-11
 20120710	1066
 20120718	1067
-20120719	1078	https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-07-19_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r
-20120816	1071	https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-08-16_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_-_Heiko
-20120829	1083	https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-08-29_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_-_Heiko
-20120912	1092	https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-09-12_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_-_Heiko
-20120926	1090	https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-09-26_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r
-20121017	1062	https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-10-17_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_-_Heiko
-20121023	1054
-20121114	1050	https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-11-14_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Heiko.29
+20120719	1078		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-07-19_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r
+20120816	1071		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-08-16_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_-_Heiko
+20120829	1083		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-08-29_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_-_Heiko
+20120912	1092		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-09-12_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_-_Heiko
+20120926	1090		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-09-26_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r
+20121017	1062		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-10-17_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_-_Heiko
+20121023	1054	578
+20121114	1050		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-11-14_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Heiko.29
+20121125	1054	583	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
+20121128	1057		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-11-28_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Heiko.29
 #
 # https://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
 # http://www.piratenpartei-sh.de/index.php?option=com_remository&Itemid=44&func=select&id=2&orderby=4

@@ -1,4 +1,4 @@
-# ISO-Datum	Mitgl	Quelle
+# ISO-Datum	Mitgl	stimmb	Quelle
 20090602	1
 20090624	4
 20090627	8
@@ -19,12 +19,15 @@
 20091228	60
 20100110	62
 20110502	68
-20110707	71	http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
-20110915	70	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
-20110929	72	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
-20111013	70	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
-20111204	102	http://piratenpartei.wortgewalt.de/docs/bpt112/
-20120429	125	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akreditierungsstatistik
+20110707	71		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
+20110915	70		http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
+20110929	72		http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
+20111013	70		http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
+20111204	102		http://piratenpartei.wortgewalt.de/docs/bpt112/
+20120429	125		https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akreditierungsstatistik
 20120523	38
 20120606	7
 20120712	144
+20120912	144	19
+20121125	140	46	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
+20121205	144	48

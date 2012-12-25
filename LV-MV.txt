@@ -1,4 +1,4 @@
-# ISO-Datum	Mitgl	Quelle
+# ISO-Datum	Mitgl	stimmb	Quelle
 20080122	7
 20080405	6
 20090202	7
@@ -7,7 +7,7 @@
 20090615	18
 20090616	19
 20090619	20
-20090621	22	https://wiki.piratenpartei.de/MV:Gr%C3%BCndung/Protokoll
+20090621	22		https://wiki.piratenpartei.de/MV:Gr%C3%BCndung/Protokoll
 20090622	26
 20090625	51
 20090628	53
@@ -55,7 +55,7 @@
 20110425	203
 20110607	205
 20110621	207
-20110707	207	http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
+20110707	207		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
 20110820	209
 20110826	210
 20110903	212
@@ -63,7 +63,7 @@
 20110906	216
 20110911	217
 20110912	218
-20110915	218	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
+20110915	218		http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
 20110918	225
 20110919	235
 20110920	241
@@ -71,23 +71,25 @@
 20110925	247
 20110926	250
 20110928	260
-#20110929	258	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
+#20110929	258		http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 20111002	263
 20111004	265
 20111009	276
-20111013	275	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
+20111013	275		http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111120	318
-#20111204	362	http://piratenpartei.wortgewalt.de/docs/bpt112/
+#20111204	362		http://piratenpartei.wortgewalt.de/docs/bpt112/
 20120129	327
 20120314	348
 20120409	375
 20120426	429
-20120429	428	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
+20120429	428		https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 20120507	459
 20120529	460
 20120610	467
 20120722	479
-20120804	484
+20120804	484	269
+20121125	497	259	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
+20121201	484	281
 #
 # Die Vorstandsprotokolle enthalten keine Mitgliederanzahlen.
 # Mitgliederinfos finden sich auf der Standardquelle: https://wiki.piratenpartei.de/MV:Vorlage:Piraten_in_MV

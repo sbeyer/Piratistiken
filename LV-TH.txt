@@ -1,4 +1,4 @@
-# ISO-Datum	Mitgl	Quelle
+# ISO-Datum	Mitgl	stimmb	Quelle
 20080122	12
 20080405	12
 20090202	17
@@ -7,7 +7,7 @@
 20090601	21
 20090614	23
 20090623	36
-#20090628	27	https://wiki.piratenpartei.de/Datei:Protokoll_Gruendung_Thueringen.pdf
+#20090628	27		https://wiki.piratenpartei.de/Datei:Protokoll_Gruendung_Thueringen.pdf
 20090715	73
 20090806	93
 20090813	100
@@ -17,51 +17,51 @@
 20091018	215
 20091122	215
 20100121	227
-20100408	227	https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-04-08
+20100408	227		https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-04-08
 20100611	187
-20100616	187	https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-06-16#TOP_6_-_aktuelle_Kennzahlen
-20100623	187	https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-06-23#TOP_6_-_aktuelle_Kennzahlen
-20100630	187	https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-06-30#TOP_6_-_aktuelle_Kennzahlen
-20100714	187	https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-07-14#TOP_6_-_aktuelle_Kennzahlen
-20100728	188	https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-07-28#TOP_6_-_aktuelle_Kennzahlen
-20100811	190	https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-08-11#TOP_6_-_aktuelle_Kennzahlen
-20100825	192	https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-08-25
-20100908	192	https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-09-08#TOP_6_-_aktuelle_Kennzahlen
-20100922	194	https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-09-22
+20100616	187		https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-06-16#TOP_6_-_aktuelle_Kennzahlen
+20100623	187		https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-06-23#TOP_6_-_aktuelle_Kennzahlen
+20100630	187		https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-06-30#TOP_6_-_aktuelle_Kennzahlen
+20100714	187		https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-07-14#TOP_6_-_aktuelle_Kennzahlen
+20100728	188		https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-07-28#TOP_6_-_aktuelle_Kennzahlen
+20100811	190		https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-08-11#TOP_6_-_aktuelle_Kennzahlen
+20100825	192		https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-08-25
+20100908	192		https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-09-08#TOP_6_-_aktuelle_Kennzahlen
+20100922	194		https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-09-22
 20100923	192
-20101006	195	https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-10-06
-20101020	193	https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-10-20
-20101103	194	https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-11-03#TOP_6_-_aktuelle_Kennzahlen
+20101006	195		https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-10-06
+20101020	193		https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-10-20
+20101103	194		https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-11-03#TOP_6_-_aktuelle_Kennzahlen
 20101115	194
-20101215	196	https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-12-15#TOP_6_-_aktuelle_Kennzahlen_2
-20110105	196	https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2011-01-05
-20110119	196	https://wiki.piraten-thueringen.de/index.php?title=TH:Vorstand/Vorstandssitzung/2011-01-19
+20101215	196		https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2010-12-15#TOP_6_-_aktuelle_Kennzahlen_2
+20110105	196		https://wiki.piraten-thueringen.de/Landesverband_Th%C3%BCringen/Vorstandssitzung/2011-01-05
+20110119	196		https://wiki.piraten-thueringen.de/index.php?title=TH:Vorstand/Vorstandssitzung/2011-01-19
 20110123	197
-20110202	194	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-02-02#TOP_6_-_aktuelle_Kennzahlen
-20110216	196	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-02-16#TOP_6_-_aktuelle_Kennzahlen
-20110302	197	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-03-02#TOP_6_-_aktuelle_Kennzahlen
+20110202	194		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-02-02#TOP_6_-_aktuelle_Kennzahlen
+20110216	196		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-02-16#TOP_6_-_aktuelle_Kennzahlen
+20110302	197		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-03-02#TOP_6_-_aktuelle_Kennzahlen
 20110330	197
-20110330		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-03-30#TOP_6_-_aktuelle_Kennzahlen
-20110413	159	https://vorstand.piraten-thueringen.de/2011/04/13/vorstandssitzung-vom-13-april-2011/
-20110427	169	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-04-27#TOP_6_-_aktuelle_Kennzahlen
-20110511	169	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-05-11#TOP_6_-_aktuelle_Kennzahlen
-20110525	171	https://vorstand.piraten-thueringen.de/2011/05/25/die-letzte-vorstandssitzung-des-vorstandes-20102011-25-mai-2011/
-20110608	171	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-06-08-Protokoll#TOP_6_-_aktuelle_Kennzahlen
-20110622	175	https://vorstand.piraten-thueringen.de/2011/06/22/vorstandssitzung-vom-22-juni-2011/
-20110706	177	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-07-06-Protokoll#TOP_6_-_aktuelle_Kennzahlen
-20110707	177	http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
-20110720	178	https://vorstand.piraten-thueringen.de/2011/07/20/vorstandssitzung-vom-20-juli-2011/
-20110803	178	https://vorstand.piraten-thueringen.de/2011/08/03/vorstandssitzung-vom-03-august-2011/
-20110817	181	https://vorstand.piraten-thueringen.de/2011/08/17/vorstandssitzung-vom-17-august-2011/
-20110831	183	https://vorstand.piraten-thueringen.de/2011/08/31/vorstandssitzung-vom-31-august-2011/
-20110914	183	https://vorstand.piraten-thueringen.de/2011/09/14/vorstandssitzung-vom-14-9-2011/
-20110915	186	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
-20110921	209	http://twitter.com/irm_tw/status/116498630847889410
+20110330			https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-03-30#TOP_6_-_aktuelle_Kennzahlen
+20110413	159		https://vorstand.piraten-thueringen.de/2011/04/13/vorstandssitzung-vom-13-april-2011/
+20110427	169		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-04-27#TOP_6_-_aktuelle_Kennzahlen
+20110511	169		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-05-11#TOP_6_-_aktuelle_Kennzahlen
+20110525	171		https://vorstand.piraten-thueringen.de/2011/05/25/die-letzte-vorstandssitzung-des-vorstandes-20102011-25-mai-2011/
+20110608	171		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-06-08-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20110622	175		https://vorstand.piraten-thueringen.de/2011/06/22/vorstandssitzung-vom-22-juni-2011/
+20110706	177		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-07-06-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20110707	177		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
+20110720	178		https://vorstand.piraten-thueringen.de/2011/07/20/vorstandssitzung-vom-20-juli-2011/
+20110803	178		https://vorstand.piraten-thueringen.de/2011/08/03/vorstandssitzung-vom-03-august-2011/
+20110817	181		https://vorstand.piraten-thueringen.de/2011/08/17/vorstandssitzung-vom-17-august-2011/
+20110831	183		https://vorstand.piraten-thueringen.de/2011/08/31/vorstandssitzung-vom-31-august-2011/
+20110914	183		https://vorstand.piraten-thueringen.de/2011/09/14/vorstandssitzung-vom-14-9-2011/
+20110915	186		http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
+20110921	209		http://twitter.com/irm_tw/status/116498630847889410
 20110923	218
 20110924	223
 20110925	225
-20110928	230	https://vorstand.piraten-thueringen.de/2011/09/28/vorstandssitzung-vom-28-9-2011/
-20110929	230	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
+20110928	230		https://vorstand.piraten-thueringen.de/2011/09/28/vorstandssitzung-vom-28-9-2011/
+20110929	230		http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 20110930	236
 20111001	241
 20111003	245
@@ -71,8 +71,8 @@
 20111009	271
 20111010	275
 20111011	281
-20111012	283	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-10-12-Protokoll#TOP_6_-_aktuelle_Kennzahlen
-#20111013	283	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
+20111012	283		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-10-12-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+#20111013	283		http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111013	288
 20111014	294
 20111017	298
@@ -81,70 +81,73 @@
 20111021	312
 20111023	316
 20111024	321
-20111026	323	https://vorstand.piraten-thueringen.de/2011/10/26/vorstandssitzung-vom-26-oktober-2011/
+20111026	323		https://vorstand.piraten-thueringen.de/2011/10/26/vorstandssitzung-vom-26-oktober-2011/
 20111101	334
 20111102	336
 20111104	338
 20111107	342
-20111109	345	https://vorstand.piraten-thueringen.de/2011/11/09/vorstandssitzung-vom-09-november-2011/
+20111109	345		https://vorstand.piraten-thueringen.de/2011/11/09/vorstandssitzung-vom-09-november-2011/
 20111113	349
 20111115	350
 20111120	356
-20111123	359	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-11-23-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20111123	359		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-11-23-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20111130	363
-20111204	363	http://piratenpartei.wortgewalt.de/docs/bpt112/
-20111207	377	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-12-07-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20111204	363		http://piratenpartei.wortgewalt.de/docs/bpt112/
+20111207	377		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2011-12-07-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20111213	384
 20111218	387
 20111221	383
 20120103	389
-20120104	391	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-01-04-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120104	391		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-01-04-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20120112	393
-20120118	397	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-01-18-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120118	397		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-01-18-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20120202	413
-20120208	412	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-02-08-Protokoll#TOP_6_-_aktuelle_Kennzahlen
-20120222	425	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-02-22-Protokoll#TOP_6_-_aktuelle_Kennzahlen
-20120307	437	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-03-07-Protokoll#TOP_6_-_aktuelle_Kennzahlen
-20120326	451	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-03-26-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120208	412		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-02-08-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120222	425		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-02-22-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120307	437		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-03-07-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120326	451		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-03-26-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20120328	476
 20120401	481
-20120404	498	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-04-04-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120404	498		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-04-04-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20120405	500
 20120411	522
 20120412	527
 20120413	540
 20120415	546
-20120418	561	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-04-18-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120418	561		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-04-18-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20120425	590
-#20120429	590	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
-20120502	589	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-05-02-Protokoll#TOP_6_-_aktuelle_Kennzahlen
-20120504	615	https://twitter.com/#!/irm_tw/status/198530542252212225
+#20120429	590		https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
+20120502	589		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-05-02-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120504	615		https://twitter.com/#!/irm_tw/status/198530542252212225
 20120506	625
 20120509	638
 20120511	648
-20120515	657	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-05-15-Protokoll#TOP_7_-_aktuelle_Kennzahlen
+20120515	657		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-05-15-Protokoll#TOP_7_-_aktuelle_Kennzahlen
 20120522	663
 20120525	666
-20120529	667	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-05-29-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120529	667		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-05-29-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20120610	670
-20120612	671	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-06-12-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120612	671		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-06-12-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20120622	675
 20120623	674
-20120626	676	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-06-26-Protokoll#TOP_6_-_aktuelle_Kennzahlen
-20120710	676	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-07-10-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120626	676		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-06-26-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120710	676		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-07-10-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20120722	679
-20120724	680	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-07-24-Protokoll#TOP_6_-_aktuelle_Kennzahlen
-20120807	678	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-08-07-Protokoll#TOP_6_-_aktuelle_Kennzahlen
-20120821	679	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-08-21-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120724	680		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-07-24-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120807	678		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-08-07-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120821	679		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-08-21-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20120823	676
-20120918	678	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-09-18-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20120918	678		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-09-18-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20120920	675
-20121002	673	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-10-02-Protokoll#TOP_6_-_aktuelle_Kennzahlen
-20121016	673	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-10-16-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20121002	673		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-10-02-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20121016	673		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-10-16-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20121020	676
 20121028	678
-20121031	679	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-10-31-Protokoll#TOP_6_-_aktuelle_Kennzahlen
-20121113	680	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-11-13-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20121031	679		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-10-31-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20121113	680		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-11-13-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20121125	679	528	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
+20121127	683		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-11-27-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20121211	678		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-12-11-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 #
 # https://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 # https://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv (vollständiger)

@@ -1,5 +1,5 @@
-# ISO-Datum	Mitgl	Quelle
-20071021	10	https://wiki.piratenpartei.de/Protokoll_der_1._Landesmitgliederversammlung_der_Piratenpartei_Deutschland_Landesverband_Hamburg_vom_21.10.2007
+# ISO-Datum	Mitgl	stimmb	Quelle
+20071021	10		https://wiki.piratenpartei.de/Protokoll_der_1._Landesmitgliederversammlung_der_Piratenpartei_Deutschland_Landesverband_Hamburg_vom_21.10.2007
 20080122	31
 20080405	31
 20080406	40
@@ -69,12 +69,12 @@
 20100731	577
 20100920	577
 20101010	580
-20101201	452	https://wiki.piratenpartei.de/2010-12-01_-_Protokoll_Vorstand_Hamburg#Begr.C3.BC.C3.9Fung
+20101201	452		https://wiki.piratenpartei.de/2010-12-01_-_Protokoll_Vorstand_Hamburg#Begr.C3.BC.C3.9Fung
 20110107	453
-20110307	451	https://wiki.piratenpartei.de/Prototoll_der_Sitzung_des_Hamburger_Vorstands_vom_07.03.2011
-20110325	453	https://wiki.piratenpartei.de/Protokoll_der_Sitzung_des_Hamburger_Vorstands_vom_25.03.2011
-20110504	447	325 https://wiki.piratenpartei.de/Protokoll_der_Sitzung_des_Hamburger_Vorstands_vom_04.05.2011
-20110531		https://wiki.piratenpartei.de/Protokoll_der_Sitzung_des_Hamburger_Vorstands_vom_31.05.2011
+20110307	451		https://wiki.piratenpartei.de/Prototoll_der_Sitzung_des_Hamburger_Vorstands_vom_07.03.2011
+20110325	453		https://wiki.piratenpartei.de/Protokoll_der_Sitzung_des_Hamburger_Vorstands_vom_25.03.2011
+20110504	447		325 https://wiki.piratenpartei.de/Protokoll_der_Sitzung_des_Hamburger_Vorstands_vom_04.05.2011
+20110531			https://wiki.piratenpartei.de/Protokoll_der_Sitzung_des_Hamburger_Vorstands_vom_31.05.2011
 # angegeben werden nur noch die stimmberechtigten Mitglieder, direkt vom GenSek HH
 20110707	341
 20110712	345
@@ -98,19 +98,19 @@
 20110905	368
 20110906	369
 20110913	370
-#20110915	379	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
+#20110915	379		http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
 20110924	402
 20110926	407
 # ab hier wieder Gesamtanzahl...
 20110927	603
 20110928	605
-#20110929	428	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
+#20110929	428		http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 20110930	610
 20111004	621
 20111005	626
 20111006	628
 20111007	636
-#20111013	464	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
+#20111013	464		http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111017	655
 20111018	673
 20111019	688
@@ -118,32 +118,36 @@
 20111103	711
 20111115	726
 20111116	705
-20111120	709	https://wiki.piratenpartei.de/2011-11-20_-_Protokoll_Vorstand_Hamburg
+20111120	709		https://wiki.piratenpartei.de/2011-11-20_-_Protokoll_Vorstand_Hamburg
 20111128	713
-20111204	726	http://piratenpartei.wortgewalt.de/docs/bpt112/
+20111204	726		http://piratenpartei.wortgewalt.de/docs/bpt112/
 20111223	737
 20111228	740
 20111231	741
 20120102	744
 20120110	748
-20120111	747	https://wiki.piratenpartei.de/2012-01-11_-_Protokoll_Vorstand_Hamburg#Er.C3.B6ffnung
+20120111	747		https://wiki.piratenpartei.de/2012-01-11_-_Protokoll_Vorstand_Hamburg#Er.C3.B6ffnung
 20120114	759
 20120226	794
 20120228	826
 20120409	982
 20120410	947
-20120416	984	https://wiki.piratenpartei.de/2012-04-16_-_Protokoll_Vorstand_Hamburg#Protokoll
+20120416	984		https://wiki.piratenpartei.de/2012-04-16_-_Protokoll_Vorstand_Hamburg#Protokoll
 20120423	1029
 20120426	1063
-20120429	1063	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
+20120429	1063		https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 20120610	1137
 20120618	1168
-20120624	1168	https://wiki.piratenpartei.de/2012-06-24_-_Protokoll_Vorstand_Hamburg#Protokoll
+20120624	1168		https://wiki.piratenpartei.de/2012-06-24_-_Protokoll_Vorstand_Hamburg#Protokoll
 20120721	1189
 20120819	1197
 20120821	1186
 20120822	1185
 20120825	1192
-20120902	1198
+20120902	1198	815
+20121123	1192	827
+20121125	1192	828	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
+20121216	1175	807
+20121217	1178	804
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg

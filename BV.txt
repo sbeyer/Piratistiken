@@ -1,4 +1,4 @@
-# ISO-Datum	Mitgl	Quelle
+# ISO-Datum	Mitgl	stimmb	Quelle
 20060910	52
 20061231	360
 20070216	380
@@ -28,84 +28,87 @@
 20090627	2702
 20090711	2729
 20090804	4817
-20090813	5269	https://wiki.piratenpartei.de/2009-08-13_-_Vorstandssitzung
-20090903	6462	https://wiki.piratenpartei.de/2009-09-03_-_Vorstandssitzung
-20090910	6626	https://wiki.piratenpartei.de/2009-09-10_-_Vorstandssitzung
-20090917	7359	https://wiki.piratenpartei.de/2009-09-17_-_Vorstandssitzung
-20090924		https://wiki.piratenpartei.de/2009-09-24_-_Vorstandssitzung
-20091008	8875	https://wiki.piratenpartei.de/2009-10-08_-_Vorstandssitzung
-20091015	9233	https://wiki.piratenpartei.de/2009-10-15_-_Vorstandssitzung
-20091022	9673	https://wiki.piratenpartei.de/2009-10-22_-_Vorstandssitzung
-20091029		https://wiki.piratenpartei.de/2009-10-29_-_Vorstandssitzung
-20091105		https://wiki.piratenpartei.de/2009-11-05_-_Vorstandssitzung
-20091112	10920	https://wiki.piratenpartei.de/2009-11-12_-_Vorstandssitzung
-20091119		https://wiki.piratenpartei.de/2009-11-19_-_Vorstandssitzung
-20091203	11059	https://wiki.piratenpartei.de/2009-12-03_-_Vorstandssitzung
-20091217	11394	https://wiki.piratenpartei.de/2009-12-17_-_Vorstandssitzung
-20100107		https://wiki.piratenpartei.de/2010-01-07_-_Vorstandssitzung
-20100121	11793	https://wiki.piratenpartei.de/2010-01-21_-_Vorstandssitzung
-20100204		https://wiki.piratenpartei.de/2010-02-04_-_Vorstandssitzung
-20100218		https://wiki.piratenpartei.de/2010-02-18_-_Vorstandssitzung
-20100304	11897	https://wiki.piratenpartei.de/2010-03-04_-_Vorstandssitzung
-20100318	11922	https://wiki.piratenpartei.de/2010-03-18_-_Vorstandssitzung
-20100401	12088	https://wiki.piratenpartei.de/2010-04-01_-_Vorstandssitzung
-20100415	12115	https://wiki.piratenpartei.de/2010-04-15_-_Vorstandssitzung
-20100429		https://wiki.piratenpartei.de/2010-04-29_-_Vorstandssitzung
-20100526	12196	https://wiki.piratenpartei.de/2010-05-26_-_Vorstandssitzung
-20100603	12228	https://wiki.piratenpartei.de/2010-06-03_-_Vorstandssitzung
-20100610		https://wiki.piratenpartei.de/2010-06-10_-_Vorstandssitzung
-20100617		https://wiki.piratenpartei.de/2010-06-17_-_Vorstandssitzung
-20100624		https://wiki.piratenpartei.de/2010-06-24_-_Vorstandssitzung
-20100701	12187	https://wiki.piratenpartei.de/2010-07-01_-_Vorstandssitzung
-20100715	12188	https://wiki.piratenpartei.de/2010-07-15_-_Vorstandssitzung
-20100729		https://wiki.piratenpartei.de/2010-07-29_-_Vorstandssitzung
+20090813	5269		https://wiki.piratenpartei.de/2009-08-13_-_Vorstandssitzung
+20090903	6462		https://wiki.piratenpartei.de/2009-09-03_-_Vorstandssitzung
+20090910	6626		https://wiki.piratenpartei.de/2009-09-10_-_Vorstandssitzung
+20090917	7359		https://wiki.piratenpartei.de/2009-09-17_-_Vorstandssitzung
+20090924	    		https://wiki.piratenpartei.de/2009-09-24_-_Vorstandssitzung
+20091008	8875		https://wiki.piratenpartei.de/2009-10-08_-_Vorstandssitzung
+20091015	9233		https://wiki.piratenpartei.de/2009-10-15_-_Vorstandssitzung
+20091022	9673		https://wiki.piratenpartei.de/2009-10-22_-_Vorstandssitzung
+20091029			https://wiki.piratenpartei.de/2009-10-29_-_Vorstandssitzung
+20091105			https://wiki.piratenpartei.de/2009-11-05_-_Vorstandssitzung
+20091112	10920		https://wiki.piratenpartei.de/2009-11-12_-_Vorstandssitzung
+20091119			https://wiki.piratenpartei.de/2009-11-19_-_Vorstandssitzung
+20091203	11059		https://wiki.piratenpartei.de/2009-12-03_-_Vorstandssitzung
+20091217	11394		https://wiki.piratenpartei.de/2009-12-17_-_Vorstandssitzung
+20100107			https://wiki.piratenpartei.de/2010-01-07_-_Vorstandssitzung
+20100121	11793		https://wiki.piratenpartei.de/2010-01-21_-_Vorstandssitzung
+20100204			https://wiki.piratenpartei.de/2010-02-04_-_Vorstandssitzung
+20100218			https://wiki.piratenpartei.de/2010-02-18_-_Vorstandssitzung
+20100304	11897		https://wiki.piratenpartei.de/2010-03-04_-_Vorstandssitzung
+20100318	11922		https://wiki.piratenpartei.de/2010-03-18_-_Vorstandssitzung
+20100401	12088		https://wiki.piratenpartei.de/2010-04-01_-_Vorstandssitzung
+20100415	12115		https://wiki.piratenpartei.de/2010-04-15_-_Vorstandssitzung
+20100429			https://wiki.piratenpartei.de/2010-04-29_-_Vorstandssitzung
+20100526	12196		https://wiki.piratenpartei.de/2010-05-26_-_Vorstandssitzung
+20100603	12228		https://wiki.piratenpartei.de/2010-06-03_-_Vorstandssitzung
+20100610			https://wiki.piratenpartei.de/2010-06-10_-_Vorstandssitzung
+20100617			https://wiki.piratenpartei.de/2010-06-17_-_Vorstandssitzung
+20100624			https://wiki.piratenpartei.de/2010-06-24_-_Vorstandssitzung
+20100701	12187		https://wiki.piratenpartei.de/2010-07-01_-_Vorstandssitzung
+20100715	12188		https://wiki.piratenpartei.de/2010-07-15_-_Vorstandssitzung
+20100729			https://wiki.piratenpartei.de/2010-07-29_-_Vorstandssitzung
 20100812	12188
-20100826		https://wiki.piratenpartei.de/2010-08-26_-_Vorstandssitzung
-20100909		https://wiki.piratenpartei.de/2010-09-09_-_Vorstandssitzung
-20100923		https://wiki.piratenpartei.de/2010-09-23_-_Vorstandssitzung
-20101007		https://wiki.piratenpartei.de/2010-10-07_-_Vorstandssitzung
-20101021		https://wiki.piratenpartei.de/2010-10-21_-_Vorstandssitzung
-20101104		https://wiki.piratenpartei.de/2010-11-04_-_Vorstandssitzung
-20101117	12115	https://wiki.piratenpartei.de/2010-11-18_-_Vorstandssitzung
-20101118		https://wiki.piratenpartei.de/2010-11-18_-_Vorstandssitzung
-20101202		https://wiki.piratenpartei.de/2010-12-02_-_Vorstandssitzung
-20101216		https://wiki.piratenpartei.de/2010-12-16_-_Vorstandssitzung
-20101231	11720	https://wiki.piratenpartei.de/2011-01-06_-_Vorstandssitzung
-20110106		https://wiki.piratenpartei.de/2011-01-06_-_Vorstandssitzung
-20110120		https://wiki.piratenpartei.de/2011-01-20_-_Vorstandssitzung#Aktuelle_Kennzahlen
-20110203		https://wiki.piratenpartei.de/2011-02-03_-_Vorstandssitzung
-20110215		https://wiki.piratenpartei.de/2011-02-17_-_Vorstandssitzung#Aktuelle_Kennzahlen
-20110303		https://wiki.piratenpartei.de/2011-03-03_-_Vorstandssitzung
-20110317		https://wiki.piratenpartei.de/2011-03-17_-_Vorstandssitzung
-20110331		https://wiki.piratenpartei.de/2011-03-31_-_Vorstandssitzung
-20110414		https://wiki.piratenpartei.de/2011-04-14_-_Vorstandssitzung
-20110428		https://wiki.piratenpartei.de/2011-04-28_-_Vorstandssitzung
-20110526		http://vorstand.piratenpartei.de/2011/05/29/protokoll-zur-vorstandssitzung-2011-05-26/
-20110609		http://vorstand.piratenpartei.de/2011/06/16/protokoll-zur-vorstandssitzung-2011-06-09/
-20110623	11000	http://vorstand.piratenpartei.de/2011/06/26/protokoll-zur-vorstandssitzung-2011-06-23/
-20110707	12105	http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
-20110721	12092	http://vorstand.piratenpartei.de/2011/07/24/protokoll-zur-vorstandssitzung-2011-07-21/
-20110804		http://vorstand.piratenpartei.de/2011/08/10/protokoll-zur-vorstandssitzung-2011-08-04/
-20110818		http://vorstand.piratenpartei.de/2011/08/24/protokoll-zur-vorstandssitzung-2011-08-18/
-20110915	12094	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
-20110929	13283	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
-20111204	19027	http://piratenpartei.wortgewalt.de/docs/bpt112/
-20111208	19200	http://vorstand.piratenpartei.de/2011/12/11/protokoll-zur-vorstandssitzung-2011-12-08/#Aktuelle_Kennzahlen
-20120315	23211	http://vorstand.piratenpartei.de/2012/03/20/protokoll-zur-vorstandssitzung-2012-03-15/#Aktuelle_Kennzahlen
-# 20120429	28806	https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akreditierungsstatistik
+20100826			https://wiki.piratenpartei.de/2010-08-26_-_Vorstandssitzung
+20100909			https://wiki.piratenpartei.de/2010-09-09_-_Vorstandssitzung
+20100923			https://wiki.piratenpartei.de/2010-09-23_-_Vorstandssitzung
+20101007			https://wiki.piratenpartei.de/2010-10-07_-_Vorstandssitzung
+20101021			https://wiki.piratenpartei.de/2010-10-21_-_Vorstandssitzung
+20101104			https://wiki.piratenpartei.de/2010-11-04_-_Vorstandssitzung
+20101117	12115		https://wiki.piratenpartei.de/2010-11-18_-_Vorstandssitzung
+20101118			https://wiki.piratenpartei.de/2010-11-18_-_Vorstandssitzung
+20101202			https://wiki.piratenpartei.de/2010-12-02_-_Vorstandssitzung
+20101216			https://wiki.piratenpartei.de/2010-12-16_-_Vorstandssitzung
+20101231	11720		https://wiki.piratenpartei.de/2011-01-06_-_Vorstandssitzung
+20110106			https://wiki.piratenpartei.de/2011-01-06_-_Vorstandssitzung
+20110120			https://wiki.piratenpartei.de/2011-01-20_-_Vorstandssitzung#Aktuelle_Kennzahlen
+20110203			https://wiki.piratenpartei.de/2011-02-03_-_Vorstandssitzung
+20110215			https://wiki.piratenpartei.de/2011-02-17_-_Vorstandssitzung#Aktuelle_Kennzahlen
+20110303			https://wiki.piratenpartei.de/2011-03-03_-_Vorstandssitzung
+20110317			https://wiki.piratenpartei.de/2011-03-17_-_Vorstandssitzung
+20110331			https://wiki.piratenpartei.de/2011-03-31_-_Vorstandssitzung
+20110414			https://wiki.piratenpartei.de/2011-04-14_-_Vorstandssitzung
+20110428			https://wiki.piratenpartei.de/2011-04-28_-_Vorstandssitzung
+20110526			http://vorstand.piratenpartei.de/2011/05/29/protokoll-zur-vorstandssitzung-2011-05-26/
+20110609			http://vorstand.piratenpartei.de/2011/06/16/protokoll-zur-vorstandssitzung-2011-06-09/
+20110623	11000		http://vorstand.piratenpartei.de/2011/06/26/protokoll-zur-vorstandssitzung-2011-06-23/
+20110707	12105		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
+20110721	12092		http://vorstand.piratenpartei.de/2011/07/24/protokoll-zur-vorstandssitzung-2011-07-21/
+20110804	     		http://vorstand.piratenpartei.de/2011/08/10/protokoll-zur-vorstandssitzung-2011-08-04/
+20110818	     		http://vorstand.piratenpartei.de/2011/08/24/protokoll-zur-vorstandssitzung-2011-08-18/
+20110915	12094		http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
+20110929	13283		http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
+20111204	19027		http://piratenpartei.wortgewalt.de/docs/bpt112/
+20111208	19200		http://vorstand.piratenpartei.de/2011/12/11/protokoll-zur-vorstandssitzung-2011-12-08/#Aktuelle_Kennzahlen
+20120315	23211		http://vorstand.piratenpartei.de/2012/03/20/protokoll-zur-vorstandssitzung-2012-03-15/#Aktuelle_Kennzahlen
+# 20120429	28806		https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akreditierungsstatistik
 20120429	29638
-20120509	30762	http://vorstand.piratenpartei.de/2012/05/09/protokoll-zur-vorstandssitzung-2012-05-09/#Kennzahlen
-20120606	31073	http://vorstand.piratenpartei.de/2012/06/07/mitschrift-vorstandssitzung-06-06-2012/#Kennzahlen
-20120620	32476	http://vorstand.piratenpartei.de/2012/07/15/protokoll-sitzung-20-06-12/#Kennzahlen
-20120718	33686	http://vorstand.piratenpartei.de/2012/08/08/protokoll-sitzung-2012-07-18/#Kennzahlen
-20120815	34066	http://vorstand.piratenpartei.de/2012/08/17/mitschrift-vorstandssitzung-2012-08-15/#Kennzahlen
-20120829	34322	http://vorstand.piratenpartei.de/2012/09/11/mitschrift-vorstandssitzung-29-8-12/#Kennzahlen
-20120912	34194	http://vorstand.piratenpartei.de/2012/09/13/mitschrift-vorstandssitzung-12-9-12/#Kennzahlen
-20120929	34117	http://vorstand.piratenpartei.de/2012/10/12/mitschrift-vorstandssitzung-29-9-12/#Kennzahlen
-20121010	34212	http://vorstand.piratenpartei.de/2012/10/13/mitschrift-vorstandssitzung-10-10-12/#Kennzahlen
-20121024	34269	http://vorstand.piratenpartei.de/2012/10/25/mitschrift-vorstandssitzung-24-10-12/#Kennzahlen
-#20121107	34133	http://vorstand.piratenpartei.de/2012/11/08/mitschrift-vorstandssitzung-7-11-12/#Kennzahlen
-20121117	34277	http://vorstand.piratenpartei.de/2012/11/19/mitschrift-vorstandssitzung-17-11-12/#Kennzahlen
+20120509	30762		http://vorstand.piratenpartei.de/2012/05/09/protokoll-zur-vorstandssitzung-2012-05-09/#Kennzahlen
+20120606	31073		http://vorstand.piratenpartei.de/2012/06/07/mitschrift-vorstandssitzung-06-06-2012/#Kennzahlen
+20120620	32476		http://vorstand.piratenpartei.de/2012/07/15/protokoll-sitzung-20-06-12/#Kennzahlen
+20120718	33686		http://vorstand.piratenpartei.de/2012/08/08/protokoll-sitzung-2012-07-18/#Kennzahlen
+20120815	34066		http://vorstand.piratenpartei.de/2012/08/17/mitschrift-vorstandssitzung-2012-08-15/#Kennzahlen
+20120829	34322		http://vorstand.piratenpartei.de/2012/09/11/mitschrift-vorstandssitzung-29-8-12/#Kennzahlen
+20120912	34194		http://vorstand.piratenpartei.de/2012/09/13/mitschrift-vorstandssitzung-12-9-12/#Kennzahlen
+20120929	34117		http://vorstand.piratenpartei.de/2012/10/12/mitschrift-vorstandssitzung-29-9-12/#Kennzahlen
+20121010	34212		http://vorstand.piratenpartei.de/2012/10/13/mitschrift-vorstandssitzung-10-10-12/#Kennzahlen
+20121024	34269		http://vorstand.piratenpartei.de/2012/10/25/mitschrift-vorstandssitzung-24-10-12/#Kennzahlen
+#20121107	34133		http://vorstand.piratenpartei.de/2012/11/08/mitschrift-vorstandssitzung-7-11-12/#Kennzahlen
+20121117	34277		http://vorstand.piratenpartei.de/2012/11/19/mitschrift-vorstandssitzung-17-11-12/#Kennzahlen
+20121125	34326	19652	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
+20121205	34267		http://vorstand.piratenpartei.de/2012/12/11/mitschrift-vorstandssitzung-05-12-12/#Kennzahlen
+20121219	33987	19749	http://vorstand.piratenpartei.de/2012/12/20/mitschrift-vorstandssitzung-19-12-12/#Kennzahlen
 #
 # http://vorstand.piratenpartei.de/category/sitzungsprotokolle/
 # Wiki Oberkategorie: https://wiki.piratenpartei.de/Kategorie:Bundesvorstandssitzung
