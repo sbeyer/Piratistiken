@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # Generate plot script for gnuplot
 #
-# (C) 2011 - 2012, Stephan Beyer
+# (C) 2011 - 2013, Stephan Beyer
 #
 # Redistribution and use in source and binary forms, with or
 # without modification, are permitted provided that the following
@@ -114,30 +114,36 @@ enddate = ARGV.shift.to_i + 30
  20120506, # Landtagswahl SH
  20120513, # Landtagswahl NRW
  20130120, # Landtagswahl NDS
+ 20130915, # Landtagswahl BY
+ 20130922, # Landtagswahl HE
 ].each do |date|
 	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_land' if date >= startdate and date <= enddate
 end
 
-[20090927 # Bundestagswahl 2009
+[20090927, # Bundestagswahl 2009
+ 20130922, # Bundestagswahl 2013
 ].each do |date|
 	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_bund' if date >= startdate and date <= enddate
 end
 
 [20090607, # EUW 2009
+ 20140511, # EUW 2014 (geschätzt)
 ].each do |date|
 	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_europa' if date >= startdate and date <= enddate
 end
 
-[20060910, # Gründungsversammlung
- 20080517, 20080518, # BPT 2008.1
- 20081003, 20081004, 20081005, # BPT 2008.2
- 20090704, 20090705, # BPT 2009.1
- 20100515, 20100516, # BPT 2010.1
- 20101120, 20101121, # BPT 2010.2
- 20110514, 20110515, # BPT 2011.1
- 20111203, 20111204, # BPT 2011.2
- 20120428, 20120429, # BPT 2012.1
- 20121124, 20121125, # BPT 2012.2
+[20060910, # Gründungsversammlung in Berlin
+ 20070519, 20070520, # BPT 2007.1 in Stockheim
+ 20080517, 20080518, # BPT 2008.1 in Hannover
+ 20081003, 20081004, 20081005, # BPT 2008.2 in Bielefeld
+ 20090704, 20090705, # BPT 2009.1 in Hamburg
+ 20100515, 20100516, # BPT 2010.1 in Bingen
+ 20101120, 20101121, # BPT 2010.2 in Chemnitz
+ 20110514, 20110515, # BPT 2011.1 in Heidenheim
+ 20111203, 20111204, # BPT 2011.2 in Offenbach
+ 20120428, 20120429, # BPT 2012.1 in Neumünster
+ 20121124, 20121125, # BPT 2012.2 in Bochum
+ 20130511, 20130512, # BPT 2013.1 in Neumarkt i. d. OPf.
 ].each do |date|
 	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_bpt' if date >= startdate and date <= enddate
 end
