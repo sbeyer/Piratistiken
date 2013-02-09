@@ -99,7 +99,7 @@
 20121122	318	156
 20121125	318	167	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
 20121223	311	167
-# 20130108			https://wiki.piratenpartei.de/HB:Vorstand/2013-01-08_Protokoll_Vorstandssitzung#TOP_3:_Bericht_des_Schatzmeisters
+20130106	304	0
 #
 # https://wiki.piratenpartei.de/wiki//index.php?title=HB:Vorlage:Piraten_in_HB&action=history
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Bremen

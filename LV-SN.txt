@@ -99,5 +99,12 @@
 20121114	884		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-11-14
 20121121	884		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-11-21
 20121125	889	398	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
+20121128	892		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-11-28
+20121205	893		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-12-05
+20121212	887		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-12-12
+20121219	888		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2012-12-19
+20130102	908		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2013-01-02
+20130116	890		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2013-01-16
+20130123	890		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2013-01-23
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Telefonkonferenz_Sachsen

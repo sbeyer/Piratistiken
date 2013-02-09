@@ -44,11 +44,11 @@
 20110403	889		https://wiki.piratenpartei.de/wiki//index.php?title=BE:Mitglieder&direction=prev&oldid=967863
 20110510	889		https://wiki.piratenpartei.de/wiki//index.php?title=BE:Mitglieder&oldid=979853
 20110602	902		https://wiki.piratenpartei.de/wiki//index.php?title=BE:Mitglieder&oldid=1003625
-20110613	902		https://wiki.piratenpartei.de/BE:2011-06-13_-_Protokoll_Vorstandssitzung_Landesverband_Berlin
-20110626	905		https://wiki.piratenpartei.de/BE:2011-06-26_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20110613	902	390	https://wiki.piratenpartei.de/BE:2011-06-13_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#aktuelle_Kennzahlen
+20110626	905	441	https://wiki.piratenpartei.de/BE:2011-06-26_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20110704	916
 20110707	915		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
-20110724	919		https://wiki.piratenpartei.de/BE:2011-07-24_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20110724	919	493	https://wiki.piratenpartei.de/BE:2011-07-24_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20110810	928
 20110817	949
 20110825	965
@@ -57,18 +57,18 @@
 20110917	1109
 20110925	1109		https://wiki.piratenpartei.de/BE:2011-09-25_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20110929	1110		http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
-20111005	1563		https://wiki.piratenpartei.de/BE:2011-10-09_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20111005	1563	677	https://wiki.piratenpartei.de/BE:2011-10-09_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 #20111013	1516		http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111020	1833		https://wiki.piratenpartei.de/wiki//index.php?title=BE:Mitglieder&oldid=1148457
 20111023	1833		https://wiki.piratenpartei.de/BE:2011-10-23_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20111030	2011
 20111106	2011		https://wiki.piratenpartei.de/BE:2011-11-06_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
-20111120	2011		https://wiki.piratenpartei.de/BE:2011-11-20_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20111120	2011	1126	https://wiki.piratenpartei.de/BE:2011-11-20_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20111125	2267
 20111128	2262
 20111129	2291
 #20111204	2288		http://piratenpartei.wortgewalt.de/docs/bpt112/
-20111211	2291		https://wiki.piratenpartei.de/BE:2011-12-11_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20111211	2291	1234	https://wiki.piratenpartei.de/BE:2011-12-11_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20111218	2415
 20120112	2500
 20120205	2359		https://wiki.piratenpartei.de/BE:2012-02-05_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
@@ -102,10 +102,15 @@
 20121123	3795	1788
 20121125	3793	1805	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
 20121208	3762	1772	https://wiki.piratenpartei.de/BE:2012-12-09_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20121223	3762		https://wiki.piratenpartei.de/BE:2012-12-23_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20130106	3762		https://wiki.piratenpartei.de/BE:2013-01-06_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20130118	3762		https://wiki.piratenpartei.de/BE:2013-01-20_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20130128	3721
+20130203	3721		https://wiki.piratenpartei.de/BE:2013-02-03_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 #
 # Vorstandssitzungscheck:  20110301 - 20110904
 #
 # Mitgliederzahlen aus:
 #   https://wiki.piratenpartei.de/BE:Mitglieder
-#   https://wiki.piratenpartei.de/Kategorie:Vorstandssitzung_Berlin
 #   https://wiki.piratenpartei.de/BE:Vorstandssitzung
+#   https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstandssitzung_Landesverband_Berlin

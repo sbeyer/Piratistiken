@@ -65,61 +65,59 @@
 20091025	1497
 20091121	1515
 #20091201	1550		https://wiki.piratenpartei.de/2009-12-01_-_Protokoll_Vorstandssitzung_BW
-20100218			https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-02-18_-_Vorstandssitzung
-20100426	1503		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-04-26_-_Vorstandssitzung
-20100506	1507		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-05-06_-_Vorstandssitzung
-20100517	1440		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-05-17_-_Vorstandssitzung
+20100426	1503		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-04-26_-_Vorstandssitzung#aktuelle_Kennzahlen
+20100506	1507		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-05-06_-_Vorstandssitzung#aktuelle_Kennzahlen
+20100517	1440		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-05-17_-_Vorstandssitzung#aktuelle_Kennzahlen
 20100525	1446
-20100526	1446		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-05-26_-_Vorstandssitzung
-20100604	1448		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-06-04_-_Vorstandssitzung
-20100609	1457		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-06-09-_Vorstandssitzung
-20100613	1458		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-06-17_-_Vorstandssitzung
-20100617			https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-06-17_-_Vorstandssitzung
-20100623			https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-06-23_-_Vorstandssitzung
-20100701	1469		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-07-01_-_Vorstandssitzung
-20100715	1417		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-07-15_-_Vorstandssitzung
-20100721	1423		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-07-21_-_Vorstandssitzung
-20100804	1412		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-08-04_-_Vorstandssitzung
-20100818	1416		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-08-18_-_Vorstandssitzung
-20100901	1422		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-09-01_-_Vorstandssitzung
-20100915	1436		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-09-15_-_Vorstandssitzung
+20100526	1446		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-05-26_-_Vorstandssitzung#aktuelle_Kennzahlen
+20100604	1448		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-06-04_-_Vorstandssitzung#aktuelle_Kennzahlen
+20100609	1457		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-06-09-_Vorstandssitzung#aktuelle_Kennzahlen
+20100613	1458		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-06-17_-_Vorstandssitzung#aktuelle_Kennzahlen
+20100617			https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-06-17_-_Vorstandssitzung#aktuelle_Kennzahlen
+20100623			https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-06-23_-_Vorstandssitzung#aktuelle_Kennzahlen
+20100701	1469		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-07-01_-_Vorstandssitzung#aktuelle_Kennzahlen
+20100715	1417		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-07-15_-_Vorstandssitzung#aktuelle_Kennzahlen
+20100721	1423		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-07-21_-_Vorstandssitzung#aktuelle_Kennzahlen
+20100804	1412		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-08-04_-_Vorstandssitzung#aktuelle_Kennzahlen
+20100818	1416		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-08-18_-_Vorstandssitzung#aktuelle_Kennzahlen
+20100901	1422		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-09-01_-_Vorstandssitzung#aktuelle_Kennzahlen
+20100915	1436		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-09-15_-_Vorstandssitzung#aktuelle_Kennzahlen
 20100925	1446
-20100929	1445		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-09-29_-_Vorstandssitzung
+20100929	1445		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-09-29_-_Vorstandssitzung#aktuelle_Kennzahlen
 20101003	1444
-20101013	1446		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-10-13_-_Vorstandssitzung
-20101027	1444		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-10-27_-_Vorstandssitzung
+20101013	1446		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-10-13_-_Vorstandssitzung#aktuelle_Kennzahlen
+20101027	1444		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-10-27_-_Vorstandssitzung#aktuelle_Kennzahlen
 20101101	1445
 20101110	1446		http://vorstandbawue.piratenpad.de/ep/pad/view/ro.9uJFA87ilq2YVpv$FN6i/latest
 20101112	1446
 20101116	1444
-20101124	1444		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-11-24_-_Vorstandssitzung
+20101124	1444		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-11-24_-_Vorstandssitzung#aktuelle_Kennzahlen
 20101130	1444
 20101207	1445
-20101208	1445		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-12-08_-_Vorstandssitzung
+20101208	1445		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-12-08_-_Vorstandssitzung#aktuelle_Kennzahlen
 20101213	1447
 20101221	1447
-20101222	1447		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-12-22_-_Vorstandssitzung
-20110105	1446		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-01-05_-_Vorstandssitzung
+20101222	1447		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2010-12-22_-_Vorstandssitzung#aktuelle_Kennzahlen
+20110105	1446		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-01-05_-_Vorstandssitzung#aktuelle_Kennzahlen
 20110108	1445
-20110119	1453		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-01-19_-_Vorstandssitzung
+20110119	1453		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-01-19_-_Vorstandssitzung#aktuelle_Kennzahlen
 20110120	1453
 20110201	1448
-20110202	1448		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-02-02_-_Vorstandssitzung
-20110210			https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-02-10_-_Vorstandssitzung#Aktueller_Stand
-20110216	1446		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-02-16_-_Vorstandssitzung
-20110302	1457		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-03-02_-_Vorstandssitzung
+20110202	1448		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-02-02_-_Vorstandssitzung#aktuelle_Kennzahlen
+20110216	1446		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-02-16_-_Vorstandssitzung#aktuelle_Kennzahlen
+20110302	1457		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-03-02_-_Vorstandssitzung#aktuelle_Kennzahlen
 20110304	1460
 20110307	1465
 20110311	1469
 20110316	1474		http://vorstandbawue.piratenpad.de/ep/pad/view/ro.9AfOSt$wf8VOjyJ52KUMYL/latest
 20110326	1485
-20110330	1507		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-03-30_-_Vorstandssitzung
+20110330	1507		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-03-30_-_Vorstandssitzung#aktuelle_Kennzahlen
 20110404	1517
 20110405	1517
-20110413	1520		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-04-13_-_Vorstandssitzung
+20110413	1520		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-04-13_-_Vorstandssitzung#aktuelle_Kennzahlen
 20110419	1552
 20110502	1559
-20110511	1562		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-05-11_-_Vorstandssitzung
+20110511	1562		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-05-11_-_Vorstandssitzung#aktuelle_Kennzahlen
 20110525	1569		https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand/Protokoll/2011-05-25_-_Vorstandssitzung#aktuelle_Kennzahlen
 20110531	1573
 20110603	1574
@@ -161,10 +159,10 @@
 20111118	2111
 20111119	2119
 20111120	2122
-20111123	2136		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2011-11-23_-_Vorstandssitzung#aktuelle_Kennzahlen
+20111123	2136	1305	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2011-11-23_-_Vorstandssitzung#aktuelle_Kennzahlen
 20111202	2204
 #20111204	2202		http://piratenpartei.wortgewalt.de/docs/bpt112/
-20111207	2213		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2011-12-07_-_Vorstandssitzung#aktuelle_Kennzahlen
+20111207	2213	1356	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2011-12-07_-_Vorstandssitzung#aktuelle_Kennzahlen
 20111210	2231
 20111221	2250		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2011-12-21_-_Vorstandssitzung#aktuelle_Kennzahlen
 20111230	2284
@@ -172,46 +170,50 @@
 20120106	2304		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-01-06_-_Vorstandssitzung#aktuelle_Kennzahlen
 20120114	2354
 20120115	2354		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-02-01_-_Vorstandssitzung#aktuelle_Kennzahlen
-20120118	2354		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-01-18_-_Vorstandssitzung#aktuelle_Kennzahlen
-20120215	2431		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-02-15_-_Vorstandssitzung#aktuelle_Kennzahlen
-20120229	2599		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-02-29_-_Vorstandssitzung#aktuelle_Kennzahlen
+20120118	2354	193	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-01-18_-_Vorstandssitzung#aktuelle_Kennzahlen
+20120215	2431	873	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-02-15_-_Vorstandssitzung#aktuelle_Kennzahlen
+20120229	2599	1022	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-02-29_-_Vorstandssitzung#aktuelle_Kennzahlen
 20120416	3105
-20120419	3165		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-04-19_-_Vorstandssitzung#aktuelle_Kennzahlen
-20120422	3277		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-05-13_-_Vorstandssitzung#aktuelle_Kennzahlen
+20120419	3165	1164	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-04-19_-_Vorstandssitzung#aktuelle_Kennzahlen
+20120422	3277	1701	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-05-13_-_Vorstandssitzung#aktuelle_Kennzahlen
 20120426	3331
-#20120427	3277		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-05-03_-_Vorstandssitzung#aktuelle_Kennzahlen
+#20120427	3277	1701	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-05-03_-_Vorstandssitzung#aktuelle_Kennzahlen
 20120429	3273		https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 20120531	3350		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-05-31_-_Vorstandssitzung#aktuelle_Kennzahlen
 20120602	3599
 20120606	3624
-20120614	3622		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-06-14_-_Vorstandssitzung#aktuelle_Kennzahlen
+20120614	3622	1873	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-06-14_-_Vorstandssitzung#aktuelle_Kennzahlen
 20120615	3643
 20120627	3730
-20120628	3730		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-06-28_-_Vorstandssitzung#aktuelle_Kennzahlen
+20120628	3730	1909	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-06-28_-_Vorstandssitzung#aktuelle_Kennzahlen
 20120630	3724
 20120704	3727
-20120712	3727		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-07-12_-_Vorstandssitzung#aktuelle_Kennzahlen
+20120712	3727	2087	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-07-12_-_Vorstandssitzung#aktuelle_Kennzahlen
 20120714	3741
 20120718	3740
 20120722	3748
-20120726	3760		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-07-26_-_Vorstandssitzung#aktuelle_Kennzahlen
+20120726	3760	2112	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-07-26_-_Vorstandssitzung#aktuelle_Kennzahlen
 20120801	3770
 20120803	3769
 20120809	3787
 20120818	3799
-20120819	3799		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-08-19_-_Vorstandssitzung#aktuelle_Kennzahlen
-20120823	3799		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-08-23_-_Vorstandssitzung#aktuelle_Kennzahlen
-20120906	3806		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-09-06_-_Vorstandssitzung#aktuelle_Kennzahlen
-20120920	3813		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-09-20_-_Vorstandssitzung#aktuelle_Kennzahlen
-20120926	3811		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-10-04_-_Vorstandssitzung#aktuelle_Kennzahlen
+20120819	3799	2162	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-08-19_-_Vorstandssitzung#aktuelle_Kennzahlen
+20120823	3799	2162	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-08-23_-_Vorstandssitzung#aktuelle_Kennzahlen
+20120906	3806	2164	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-09-06_-_Vorstandssitzung#aktuelle_Kennzahlen
+20120920	3813	2172	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-09-20_-_Vorstandssitzung#aktuelle_Kennzahlen
+20120926	3811	2170	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-10-04_-_Vorstandssitzung#aktuelle_Kennzahlen
 20121005	3793
-20121018	3813		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-10-18_-_Vorstandssitzung#aktuelle_Kennzahlen
+20121018	3813	2169	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-10-18_-_Vorstandssitzung#aktuelle_Kennzahlen
 20121021	3812	2168
 20121029	3802	2209	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-11-01_-_Vorstandssitzung#aktuelle_Kennzahlen
 20121108	3795	2215
 20121115	3795	2224	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-11-15_-_Vorstandssitzung#aktuelle_Kennzahlen
 20121125	3783	1960	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
 20121129	3803	2222	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-11-29_-_Vorstandssitzung#aktuelle_Kennzahlen
+20130104	3644	3
+20130110	3631		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-01-10_-_Vorstandssitzung#aktuelle_Kennzahlen
+20130113	3593	3
+20130124	3594		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-01-24_-_Vorstandssitzung#aktuelle_Kennzahlen
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstandssitzung_Baden-W%C3%BCrttemberg
 # https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand

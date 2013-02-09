@@ -148,6 +148,9 @@
 20121125	679	528	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
 20121127	683		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-11-27-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20121211	678		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-12-11-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20130108	667		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-01-08-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20130115	666	106	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-01-15-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20130130	666	125	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-01-30-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 #
 # https://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 # https://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv (vollständiger)

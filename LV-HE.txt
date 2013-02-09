@@ -126,6 +126,12 @@
 #20121205	2060	1892
 20121212	2040		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-12-12#Generalsekret.C3.A4r
 20121219	2053		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-12-19#Generalsekret.C3.A4r
+20130102	2025		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-01-02#Generalsekret.C3.A4r
+20130109	2023		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-01-09#Generalsekret.C3.A4r
+20130116		2007	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-01-16#Generalsekret.C3.A4r
+20130123	2023	1989	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-01-23#Generalsekret.C3.A4r
+20130130	2013	1980	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-01-30#Generalsekret.C3.A4r
+20130206	2014	1976	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-02-06#Generalsekret.C3.A4r
 #
 # https://wiki.piratenpartei.de/HE:Vorstand/Protokolle
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Hessen

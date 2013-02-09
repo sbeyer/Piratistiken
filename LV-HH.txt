@@ -73,44 +73,41 @@
 20110107	453
 20110307	451		https://wiki.piratenpartei.de/Prototoll_der_Sitzung_des_Hamburger_Vorstands_vom_07.03.2011
 20110325	453		https://wiki.piratenpartei.de/Protokoll_der_Sitzung_des_Hamburger_Vorstands_vom_25.03.2011
-20110504	447		325 https://wiki.piratenpartei.de/Protokoll_der_Sitzung_des_Hamburger_Vorstands_vom_04.05.2011
-20110531			https://wiki.piratenpartei.de/Protokoll_der_Sitzung_des_Hamburger_Vorstands_vom_31.05.2011
-# angegeben werden nur noch die stimmberechtigten Mitglieder, direkt vom GenSek HH
-20110707	341
-20110712	345
-20110713	348
-20110714	349
-20110718	351
-20110719	348
-20110721	349
-20110726	350
-20110727	353
-20110802	355
-20110803	356
-20110804	357
-20110805	358
-20110809	359
-20110810	361
-20110823	362
-20110824	363
-20110829	364
-20110830	365
-20110905	368
-20110906	369
-20110913	370
-#20110915	379		http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
-20110924	402
-20110926	407
-# ab hier wieder Gesamtanzahl...
+20110504	447	325	https://wiki.piratenpartei.de/Protokoll_der_Sitzung_des_Hamburger_Vorstands_vom_04.05.2011
+20110707		341
+20110712		345
+20110713		348
+20110714		349
+20110718		351
+20110719		348
+20110721		349
+20110726		350
+20110727		353
+20110802		355
+20110803		356
+20110804		357
+20110805		358
+20110809		359
+20110810		361
+20110823		362
+20110824		363
+20110829		364
+20110830		365
+20110905		368
+20110906		369
+20110913		370
+20110915		379	http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
+20110924		402
+20110926		407
 20110927	603
 20110928	605
-#20110929	428		http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
+20110929		428	http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 20110930	610
 20111004	621
 20111005	626
 20111006	628
 20111007	636
-#20111013	464		http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
+20111013		464	http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/#Aktuelle_Kennzahlen
 20111017	655
 20111018	673
 20111019	688
@@ -118,7 +115,7 @@
 20111103	711
 20111115	726
 20111116	705
-20111120	709		https://wiki.piratenpartei.de/2011-11-20_-_Protokoll_Vorstand_Hamburg
+20111120	709	544	https://wiki.piratenpartei.de/2011-11-20_-_Protokoll_Vorstand_Hamburg
 20111128	713
 20111204	726		http://piratenpartei.wortgewalt.de/docs/bpt112/
 20111223	737
@@ -126,19 +123,19 @@
 20111231	741
 20120102	744
 20120110	748
-20120111	747		https://wiki.piratenpartei.de/2012-01-11_-_Protokoll_Vorstand_Hamburg#Er.C3.B6ffnung
+20120111	747	89	https://wiki.piratenpartei.de/2012-01-11_-_Protokoll_Vorstand_Hamburg#Er.C3.B6ffnung
 20120114	759
 20120226	794
 20120228	826
 20120409	982
 20120410	947
-20120416	984		https://wiki.piratenpartei.de/2012-04-16_-_Protokoll_Vorstand_Hamburg#Protokoll
+20120416	984	491	https://wiki.piratenpartei.de/2012-04-16_-_Protokoll_Vorstand_Hamburg#Protokoll
 20120423	1029
 20120426	1063
 20120429	1063		https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 20120610	1137
 20120618	1168
-20120624	1168		https://wiki.piratenpartei.de/2012-06-24_-_Protokoll_Vorstand_Hamburg#Protokoll
+20120624	1168	777	https://wiki.piratenpartei.de/2012-06-24_-_Protokoll_Vorstand_Hamburg#Protokoll
 20120721	1189
 20120819	1197
 20120821	1186
@@ -149,5 +146,19 @@
 20121125	1192	828	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
 20121216	1175	807
 20121217	1178	804
+20130101	1105	39
+20130102	1105	55
+20130103	1104	77
+20130105	1104	90
+20130106	1104	90	https://wiki.piratenpartei.de/2013-01-06_-_Protokoll_Vorstand_Hamburg#Protokoll
+20130109	1105	107
+20130110	1105	111
+20130113	1100	115
+20130114	1088	113
+20130115	1084	198
+20130116	1075	202
+20130117	1075	222
+20130122	1062	270
+20130125	1061	294
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg

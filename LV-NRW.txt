@@ -135,5 +135,7 @@
 20121125	6449	3902	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
 20121206	6432	4043	https://wiki.piratenpartei.de/NRW:2012-12-06_-_NRW_Vorstand#Berichte_Statistik
 20121219	6341	3988	https://wiki.piratenpartei.de/NRW:2012-12-19_-_NRW_Vorstand#Berichte_Statistik
+20130109	6314		https://wiki.piratenpartei.de/NRW:2013-01-09_-_NRW_Vorstand#Berichte_Statistik
+20130121	6281	0	https://wiki.piratenpartei.de/NRW:2013-01-21_-_NRW_Vorstand#Berichte_Statistik
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand

@@ -165,8 +165,19 @@
 20121120	1190
 20121122	1189
 20121125	1189	923	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
+20121202	1186		https://wiki.piratenpartei.de/RP:2012-12-02_-_98._Vorstandssitzung#Top_2:_Berichte
 20121209	1181	914
 20121213	1183	914
-20121216	1183	955
+20121216	1183	955	https://wiki.piratenpartei.de/RP:2012-12-16_-_99._Vorstandssitzung#Top_2:_Berichte
+20121229	1166	943
+20121231	1166		https://wiki.piratenpartei.de/RP:2013-01-06_-_100._Vorstandssitzung#Top_2:_Berichte
+20130102	1166	961
+20130103	1145	0
+20130106	1146	70	https://wiki.piratenpartei.de/RP:2013-01-06_-_100._Vorstandssitzung#Top_2:_Berichte
+20130115	1145	109
+20130120	1141		https://wiki.piratenpartei.de/RP:2013-01-20_-_101._Vorstandssitzung#Top_2:_Berichte
+20130125	1145	150
+20130201	1138	181
+20130203	1138	194	https://wiki.piratenpartei.de/RP:2013-02-03_-_102._Vorstandssitzung#Top_2:_Berichte
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand

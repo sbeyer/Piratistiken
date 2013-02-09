@@ -40,19 +40,15 @@
 20101231	2661		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-01-12#Kurz-Bericht_Generalsekret.C3.A4r
 20110126	2649		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-01-26#Kurz-Bericht_Generalsekret.C3.A4r
 20110208	2640		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-02-08#Kurz-Bericht_Generalsekret.C3.A4r
-20110406	2684		https://wiki.piratenpartei.de/2011-04-06_-_Protokoll_Vorstandssitzung_Bayern
+20110406	2684		https://wiki.piratenpartei.de/2011-04-06_-_Protokoll_Vorstandssitzung_Bayern#Kurz-Bericht_Generalsekret.C3.A4r
 20110420	2681
-20110518	2600		https://wiki.piratenpartei.de/2011-05-18_-_Protokoll_Vorstandssitzung_Bayern
+20110518	2600	1047	https://wiki.piratenpartei.de/2011-05-18_-_Protokoll_Vorstandssitzung_Bayern#Kurz-Bericht_Generalsekret.C3.A4r
 20110527	2662
-20110601	2654		https://wiki.piratenpartei.de/2011-06-01_-_Protokoll_Vorstandssitzung_Bayern#Kurz-Bericht_Verwaltung
-20110615			https://wiki.piratenpartei.de/BY:2011-06-15_-_Protokoll_Vorstandssitzung_Bayern#Kurz-Bericht_Schatzmeister
+20110601	2654	1172	https://wiki.piratenpartei.de/2011-06-01_-_Protokoll_Vorstandssitzung_Bayern#Kurz-Bericht_Verwaltung
 20110629	2654		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-06-29#Kurz-Bericht_Schatzmeister
 20110707	2659		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
-20110713	2652		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-07-13#Kurz-Bericht_Verwaltung
-20110727			https://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-07-27#Kurz-Bericht_Schatzmeister
-20110810	2845		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-08-10#Kurz-Bericht_Generalsekret.C3.A4r
-20110824			https://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-08-24#Kurz-Bericht_Generalsekret.C3.A4r
-20110907			https://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-09-07#Kurz-Bericht_Generalsekret.C3.A4r
+20110713	2652	1171	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-07-13#Kurz-Bericht_Verwaltung
+20110810	2845	1184	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-08-10#Kurz-Bericht_Generalsekret.C3.A4r
 #20110915	2665		http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
 20110922	2947
 20110925	3009
@@ -63,9 +59,9 @@
 #20111013	3366		http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111013	3537
 20111023	3801
-20111028	3801		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-10-28#Kurz-Bericht_Generalsekret.C3.A4r
+20111028	3801	1853	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-10-28#Kurz-Bericht_Generalsekret.C3.A4r
 20111101	3875
-20111102	3875		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-11-02#Kurz-Bericht_Generalsekret.C3.A4r
+20111102	3875	1915	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-11-02#Kurz-Bericht_Generalsekret.C3.A4r
 20111111	4002
 20111116	4002		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2011-11-16#Kurz-Bericht_Generalsekret.C3.A4r
 20111119	4051
@@ -75,32 +71,37 @@
 20120111	4350		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-01-11#Kurz-Bericht_Generalsekret.C3.A4r
 20120113	4514
 20120220	4599
-20120221	4607		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-02-21#Kurz-Bericht_Generalsekret.C3.A4r
+20120221	4607	1600	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-02-21#Kurz-Bericht_Generalsekret.C3.A4r
 20120307	4755		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-03-07#Kurz-Bericht_Generalsekret.C3.A4r.2FMitgliederverwaltung
 20120401	5248
-20120404	5299		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-04-04#Kurz-Bericht_Generalsekret.C3.A4r
+20120404	5299	1803	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-04-04#Kurz-Bericht_Generalsekret.C3.A4r
 20120412	5658
-20120418	5655		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-04-18#Kurz-Bericht_Generalsekret.C3.A4r
+20120418	5655	2167	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-04-18#Kurz-Bericht_Generalsekret.C3.A4r
 20120420	5883
 20120426	5999		https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 20120427	6124
-20120502	6303		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-05-02#Kurz-Bericht_Generalsekret.C3.A4r
+20120502	6303	2435	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-05-02#Kurz-Bericht_Generalsekret.C3.A4r
 20120503	6346
 20120510	6524
 20120516	6681		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-05-16#Kurz-Bericht_Generalsekret.C3.A4r
-20120530	6813		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-05-30#Kurz-Bericht_Generalsekret.C3.A4r
-20120612	6893		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-06-12#Kurz-Bericht_Generalsekret.C3.A4r
-20120711	6951		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-07-11#Kurz-Bericht_Generalsekret.C3.A4r
+20120530	6813	2828	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-05-30#Kurz-Bericht_Generalsekret.C3.A4r
+20120612	6893	2931	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-06-12#Kurz-Bericht_Generalsekret.C3.A4r
+20120711	6951	3191	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-07-11#Kurz-Bericht_Generalsekret.C3.A4r
 20120725	7018
-20120726	7018		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-07-26#Kurz-Bericht_Generalsekret.C3.A4r
-20120822	6915		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-08-22#Kurz-Bericht_Generalsekret.C3.A4r
-20120905	6944		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-09-05#Kurz-Bericht_Generalsekret.C3.A4r
-20120926	6976		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-09-26#Kurz-Bericht_Generalsekret.C3.A4r
-20121010	6987		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-10-10#Kurz-Bericht_Generalsekret.C3.A4r
-20121024	7021		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-10-24#Kurz-Bericht_Generalsekret.C3.A4r
-20121107	7042		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-11-07#Kurz-Bericht_Generalsekret.C3.A4r
+20120726	7018	3272	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-07-26#Kurz-Bericht_Generalsekret.C3.A4r
+20120822	6915	3486	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-08-22#Kurz-Bericht_Generalsekret.C3.A4r
+20120905	6944	3516	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-09-05#Kurz-Bericht_Generalsekret.C3.A4r
+20120926	6976	3608	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-09-26#Kurz-Bericht_Generalsekret.C3.A4r
+20121010	6987	3607	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-10-10#Kurz-Bericht_Generalsekret.C3.A4r
+20121024	7021	3669	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-10-24#Kurz-Bericht_Generalsekret.C3.A4r
+20121107	7042	3668	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-11-07#Kurz-Bericht_Generalsekret.C3.A4r
 20121108	7047	3668
 20121125	7024	3677	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
+20121128	6956	3732	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-11-28#Kurz-Bericht_Generalsekret.C3.A4r
 20121201	6956	3732
+20121212	6930	3668	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2012-12-12#Kurz-Bericht_Generalsekret.C3.A4r
+20130109	6852	154	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-01-09#Kurz-Bericht_Generalsekret.C3.A4r
+20130204	6835	470
+20130206	6845	469	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-02-06#Kurz-Bericht_Generalsekret.C3.A4r
 #
-# https://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2011
+# https://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2013

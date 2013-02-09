@@ -105,6 +105,9 @@
 20121114	1050		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-11-14_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Heiko.29
 20121125	1054	583	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
 20121128	1057		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2012-11-28_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Heiko.29
+20130102	1059		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-01-09_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Heiko.29
+20130109	1050		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-01-09_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Heiko.29
+20130123	1050		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-01-23_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Heiko.29
 #
 # https://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
 # http://www.piratenpartei-sh.de/index.php?option=com_remository&Itemid=44&func=select&id=2&orderby=4
