@@ -10,7 +10,8 @@ Works with:
 	Gnuplot 4.4
 	pngcrush 1.7.9
 
-Then just type "make" to generate the file output.png.
+Then just type "make" to generate the plot in PNG format.
+
 The result is uploaded to
 
 	https://wiki.piratenpartei.de/Datei:Mitgliederentwicklung-nach-LVs.png
