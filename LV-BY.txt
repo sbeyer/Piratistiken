@@ -103,5 +103,8 @@
 20130109	6852	154	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-01-09#Kurz-Bericht_Generalsekret.C3.A4r
 20130204	6835	470
 20130206	6845	469	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-02-06#Kurz-Bericht_Generalsekret.C3.A4r
+20130220	6852	522	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-02-20#Kurz-Bericht_Generalsekret.C3.A4r
+20130306	6801	558	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-03-06#Kurz-Bericht_Generalsekret.C3.A4r
+20130320	6602	705	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-03-20#Kurz-Bericht_Generalsekret.C3.A4r
 #
 # https://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2013

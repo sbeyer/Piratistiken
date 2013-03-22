@@ -90,13 +90,15 @@
 20120522	1023		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-05-22#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20120608	1055		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-06-08#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20120723	1104		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-07-23#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
-20120813	1105		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-08-13#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
-20120926	1114		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-09-26#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20120813	1105	475	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-08-13#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20120926	1114	498	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-09-26#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20121019	1122		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-10-19#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20121116	1122	515	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-11-16#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20121125	1118	451	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
 20130104	1048		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-01-04#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20130118		98	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-01-18#TOP_4.2:_Finanzen_des_Landesverbandes
 20130201		118	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-12-07#TOP_4.2:_Finanzen_des_Landesverbandes
+20130227	1101	153	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-03-01#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20130315	1091	159	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-03-15#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 #
 # https://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle

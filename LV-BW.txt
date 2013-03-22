@@ -214,6 +214,13 @@
 20130110	3631		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-01-10_-_Vorstandssitzung#aktuelle_Kennzahlen
 20130113	3593	3
 20130124	3594		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-01-24_-_Vorstandssitzung#aktuelle_Kennzahlen
+20130215	3533	222
+20130220	3532		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-02-21_-_Vorstandssitzung#aktuelle_Kennzahlen
+20130307	3505	289	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-03-07_-_Vorstandssitzung#aktuelle_Kennzahlen
+20130309	3508	594
+20130310	3508		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-03-10_-_Vorstandssitzung#aktuelle_Kennzahlen
+20130314	3506	2043	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-03-14_-_Vorstandssitzung#aktuelle_Kennzahlen
+20130321	3501	600
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstandssitzung_Baden-W%C3%BCrttemberg
 # https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand

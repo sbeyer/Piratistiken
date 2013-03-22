@@ -128,10 +128,18 @@
 20121219	2053		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2012-12-19#Generalsekret.C3.A4r
 20130102	2025		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-01-02#Generalsekret.C3.A4r
 20130109	2023		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-01-09#Generalsekret.C3.A4r
-20130116		2007	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-01-16#Generalsekret.C3.A4r
-20130123	2023	1989	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-01-23#Generalsekret.C3.A4r
-20130130	2013	1980	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-01-30#Generalsekret.C3.A4r
-20130206	2014	1976	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-02-06#Generalsekret.C3.A4r
+20130116	2007		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-01-16#Generalsekret.C3.A4r
+20130123	1989		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-01-23#Generalsekret.C3.A4r
+20130130	1980		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-01-30#Generalsekret.C3.A4r
+20130206	1976		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-02-06#Generalsekret.C3.A4r
+20130213	1972		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-02-13#Generalsekret.C3.A4r
+20130220	1973		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-02-20#Generalsekret.C3.A4r
+20130224	1973	578
+20130227	1974		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-02-27#Generalsekret.C3.A4r
+20130306	1938		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-03-06#Generalsekret.C3.A4r
+20130313	1938		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-03-13#Generalsekret.C3.A4r
+20130317	1937	1032
+20130320	1936		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-03-20#Generalsekret.C3.A4r
 #
 # https://wiki.piratenpartei.de/HE:Vorstand/Protokolle
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Hessen

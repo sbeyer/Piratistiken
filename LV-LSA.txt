@@ -142,5 +142,13 @@
 20121125	687	441	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
 20121217	677		https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2012/17-Dezember/2012-12-17_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 20130114	668		https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2013/01-Januar/2012-01-14_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20130128	646		https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2013/28-Januar/2012-01-28_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20130211	649		https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2013/28-Februar/2012-02-11_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20130215	649	0
+20130216	645	119
+20130224	642	119
+20130225	642		https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2013/25-Februar/2012-02-25_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20130302	642	126
+20130311	643		https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2013/11-M%C3%A4rz/2012-03-11_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 #
 # https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen

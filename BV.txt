@@ -111,6 +111,9 @@
 20121219	33987	19749	http://vorstand.piratenpartei.de/2012/12/20/mitschrift-vorstandssitzung-19-12-12/#Kennzahlen
 20130109	33570		http://vorstand.piratenpartei.de/2013/01/11/mitschrift-vorstandssitzung-09-01-2013/#Kennzahlen
 20130123	33460		http://vorstand.piratenpartei.de/2013/01/24/mitschrift-vorstandssitzung-23-01-13/#Kennzahlen
+20130206	33334		http://vorstand.piratenpartei.de/2013/02/09/mitschrift-vorstandssitzung-06-02-13/#Kennzahlen
+20130220	33296		http://vorstand.piratenpartei.de/2013/03/05/mitschrift-vorstandssitzung-20-02-13/#Kennzahlen
+20130306	33053		http://vorstand.piratenpartei.de/2013/03/13/mitschrift-vorstandssitzung-06-03-13/#Kennzahlen
 #
 # http://vorstand.piratenpartei.de/category/sitzungsprotokolle/
 # Wiki Oberkategorie: https://wiki.piratenpartei.de/Kategorie:Bundesvorstandssitzung

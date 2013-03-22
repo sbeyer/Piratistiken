@@ -106,5 +106,6 @@
 20130102	908		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2013-01-02
 20130116	890		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2013-01-16
 20130123	890		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2013-01-23
+20130306	876		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2013-03-06
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Telefonkonferenz_Sachsen
