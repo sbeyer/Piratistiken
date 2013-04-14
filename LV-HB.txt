@@ -102,6 +102,8 @@
 20130106	304	0
 20130212	302	0
 20130310	302	214
+#20130413	300	210
+20130413	300	75
 #
 # https://wiki.piratenpartei.de/wiki//index.php?title=HB:Vorlage:Piraten_in_HB&action=history
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Bremen

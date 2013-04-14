@@ -114,6 +114,7 @@
 20130206	33334		http://vorstand.piratenpartei.de/2013/02/09/mitschrift-vorstandssitzung-06-02-13/#Kennzahlen
 20130220	33296		http://vorstand.piratenpartei.de/2013/03/05/mitschrift-vorstandssitzung-20-02-13/#Kennzahlen
 20130306	33053		http://vorstand.piratenpartei.de/2013/03/13/mitschrift-vorstandssitzung-06-03-13/#Kennzahlen
+20130403	32408		http://vorstand.piratenpartei.de/2013/04/06/mitschrift-vorstandssitzung-03-04-13/#Kennzahlen
 #
 # http://vorstand.piratenpartei.de/category/sitzungsprotokolle/
 # Wiki Oberkategorie: https://wiki.piratenpartei.de/Kategorie:Bundesvorstandssitzung

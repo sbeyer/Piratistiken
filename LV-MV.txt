@@ -91,6 +91,7 @@
 20121125	497	259	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
 20121201	484	281
 20130219	492	117
+20130325	484	128
 #
 # Die Vorstandsprotokolle enthalten keine Mitgliederanzahlen.
 # Mitgliederinfos finden sich auf der Standardquelle: https://wiki.piratenpartei.de/MV:Vorlage:Piraten_in_MV

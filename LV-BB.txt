@@ -98,7 +98,8 @@
 20130104	1048		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-01-04#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20130118		98	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-01-18#TOP_4.2:_Finanzen_des_Landesverbandes
 20130201		118	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-12-07#TOP_4.2:_Finanzen_des_Landesverbandes
-20130227	1101	153	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-03-01#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
-20130315	1091	159	http://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-03-15#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20130227	1101	153	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-03-01#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20130315	1091	159	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-03-15#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20130405	1088		https://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle
 #
 # https://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle

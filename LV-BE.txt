@@ -110,6 +110,9 @@
 20130217	3669	0	https://wiki.piratenpartei.de/BE:2013-02-25_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20130303	3724	660	https://wiki.piratenpartei.de/BE:2013-03-03_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20130317	3669		https://wiki.piratenpartei.de/BE:2013-03-17_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20130323	3661	1200
+20130407	3661		https://wiki.piratenpartei.de/BE:2013-04-07_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20130414	3661		https://wiki.piratenpartei.de/BE:2013-04-14_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 #
 # Vorstandssitzungscheck:  20110301 - 20110904
 #
