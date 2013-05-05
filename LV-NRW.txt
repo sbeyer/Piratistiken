@@ -88,44 +88,53 @@
 20111010	2405
 #20111013	2405		http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111013	2557
-20111027	2550
-20111028	2764
+20111027	2550	1825
+20111028	2764	1824
+20111029		1854
 20111103	2765		https://wiki.piratenpartei.de/NRW:2011-11-03_-_NRW_Vorstand#Berichte_Statistik
-20111108	2878
+20111109	2878	1970
 20111114	2974
-20111117	3002		https://wiki.piratenpartei.de/NRW:2011-11-17_-_NRW_Vorstand#Berichte_Statistik
+20111115	2974	2010
+20111117	3002	2052	https://wiki.piratenpartei.de/NRW:2011-11-17_-_NRW_Vorstand#Berichte_Statistik
 20111201	3093		https://wiki.piratenpartei.de/NRW:2011-12-01_-_NRW_Vorstand#Berichte_Statistik
+20111202	3093	2205
 20111204	3093		http://piratenpartei.wortgewalt.de/docs/bpt112/
-20111215	3178		https://wiki.piratenpartei.de/NRW:2011-12-15_-_NRW_Vorstand#Berichte_Statistik
+20111215	3178	2223	https://wiki.piratenpartei.de/NRW:2011-12-15_-_NRW_Vorstand#Berichte_Statistik
 20120112	3175		https://wiki.piratenpartei.de/NRW:2012-01-12_-_NRW_Vorstand#Berichte_Statistik
 20120126	3323		https://wiki.piratenpartei.de/NRW:2012-01-26_-_NRW_Vorstand#Berichte_Statistik
 20120223	3488		https://wiki.piratenpartei.de/NRW:2012-02-23_-_NRW_Vorstand#Berichte_Statistik
+20120224	3488
 20120308	3574		https://wiki.piratenpartei.de/NRW:2012-03-08_-_NRW_Vorstand#Berichte_Statistik
-20120321	3700
+20120321	3700	2081
 20120322	3700		https://wiki.piratenpartei.de/NRW:2012-03-22_-_NRW_Vorstand#Berichte_Statistik
 20120322	3701
 20120327	3826
-20120402	4120
+20120328	3826	2220
+20120402	4120	2329
 20120405	4120		https://wiki.piratenpartei.de/NRW:2012-04-05_-_NRW_Vorstand#Berichte_Statistik
-20120412	4586
-20120419	4606		https://wiki.piratenpartei.de/NRW:2012-04-19_-_NRW_Vorstand#Berichte_Statistik
-20120426	5006
+20120412	4586	2473
+20120419	4606	2737	https://wiki.piratenpartei.de/NRW:2012-04-19_-_NRW_Vorstand#Berichte_Statistik
+20120426	5006	2856
+20120427	5006	2892
 20120429	5006		https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
 20120503	5006		https://wiki.piratenpartei.de/NRW:2012-05-03_-_NRW_Vorstand#Berichte_Statistik
-20120517	5006		https://wiki.piratenpartei.de/NRW:2012-05-17_-_NRW_Vorstand#Berichte_Statistik
-20120524	5526
-20120609	5780
-20120614	5780		https://wiki.piratenpartei.de/NRW:2012-06-14_-_NRW_Vorstand#Berichte_Statistik
-20120618	5778
+20120517	5006	2912	https://wiki.piratenpartei.de/NRW:2012-05-17_-_NRW_Vorstand#Berichte_Statistik
+20120524	5526	3201
+20120609	5780	3322
+20120611	5780	3447
+20120614	5780	3485	https://wiki.piratenpartei.de/NRW:2012-06-14_-_NRW_Vorstand#Berichte_Statistik
+20120618	5778	3515
+20120619	5778	3535
 20120628	6205		https://wiki.piratenpartei.de/NRW:2012-06-28_-_NRW_Vorstand#Berichte_Statistik
-20120629	6210
+20120629	6210	3670
 20120705	6277		https://wiki.piratenpartei.de/NRW:2012-07-05_-_NRW_Vorstand#Berichte_Statistik
-20120802	6278		https://wiki.piratenpartei.de/NRW:2012-08-02_-_NRW_Vorstand#Berichte_Statistik
-20120815	6309
+20120713	6277	3813
+20120802	6278	3849	https://wiki.piratenpartei.de/NRW:2012-08-02_-_NRW_Vorstand#Berichte_Statistik
+20120815	6309	3872
 20120816	6309		https://wiki.piratenpartei.de/NRW:2012-08-16_-_NRW_Vorstand#Berichte_Statistik
 #20120830	3884		https://wiki.piratenpartei.de/NRW:2012-08-30_-_NRW_Vorstand#Berichte_Statistik
-20120912	6393
-20121002	6413
+20120912	6393	3939
+20121002	6413	3976
 #20120913	3939		https://wiki.piratenpartei.de/NRW:2012-09-13_-_NRW_Vorstand#Berichte_Statistik
 #20120926	3938		https://wiki.piratenpartei.de/NRW:2012-09-26_-_NRW_Vorstand#Berichte_Statistik
 20121010	6367		https://wiki.piratenpartei.de/NRW:2012-10-10_-_NRW_Vorstand#Berichte_Statistik
@@ -142,5 +151,14 @@
 20130306	6162	0	https://wiki.piratenpartei.de/NRW:2013-03-06_-_NRW_Vorstand#Berichte_Statistik
 20130313	6158	0	https://wiki.piratenpartei.de/NRW:2013-03-13_-_NRW_Vorstand#Berichte_Statistik
 20130321	6146	0	https://wiki.piratenpartei.de/NRW:2013-03-21_-_NRW_Vorstand#Berichte_Statistik
+20130327	6156	0	https://wiki.piratenpartei.de/NRW:2013-03-27_-_NRW_Vorstand#Berichte_Statistik
+20130403	6172	0	https://wiki.piratenpartei.de/NRW:2013-04-03_-_NRW_Vorstand#Berichte_Statistik
+20130410	6172		https://wiki.piratenpartei.de/NRW:2013-04-10_-_NRW_Vorstand#Berichte_Statistik
+20130417	6172		https://wiki.piratenpartei.de/NRW:2013-04-17_-_NRW_Vorstand#Berichte_Statistik
+20130422	6162	3	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130424	6172	2523	https://wiki.piratenpartei.de/NRW:2013-04-24_-_NRW_Vorstand#Berichte_Statistik
+20130428	6052	3	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130501	6059	2523
+20130502	6059	2523	https://wiki.piratenpartei.de/NRW:2013-05-02_-_NRW_Vorstand#Berichte_Statistik
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand

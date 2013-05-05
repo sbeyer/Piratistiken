@@ -275,5 +275,9 @@
 20130220	2850		https://wiki.piratenpartei.de/NDS:Vorstand/2013-02-20#TOP_3_Berichte
 20130224	2849	869
 20130227	2840		https://wiki.piratenpartei.de/NDS:Vorstand/2013-02-27#TOP_3_Berichte
+#20130422	2742	869
+20130422	2742	3	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130428	2739	5	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+#20130501		835
 #
 # https://wiki.piratenpartei.de/NDS:Vorstand

@@ -222,6 +222,8 @@
 20130314	3506	2043	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-03-14_-_Vorstandssitzung#aktuelle_Kennzahlen
 20130321	3501	600	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-03-22_-_Vorstandssitzung#aktuelle_Kennzahlen
 20130405	3478		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-04-05_-_Vorstandssitzung#aktuelle_Kennzahlen
+20130422	3473	607	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130428	3463	605	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstandssitzung_Baden-W%C3%BCrttemberg
 # https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand

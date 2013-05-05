@@ -189,5 +189,11 @@
 20130317	1100	757	https://wiki.piratenpartei.de/RP:2013-03-17_-_105._Vorstandssitzung#Top_2:_Berichte
 20130326	1099	750
 20130401	1094	754
+20130420	1080	777	https://wiki.piratenpartei.de/RP:2013-04-21_-_107._Vorstandssitzung#Top_2:_Berichte
+20130421	1079	795
+20130422	1076	795	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130423	1075	797
+20130428	1075	797	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130502	1068	793
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand

@@ -92,6 +92,8 @@
 20121201	484	281
 20130219	492	117
 20130325	484	128
+20130422	478	135	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130428	477	142	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 #
 # Die Vorstandsprotokolle enthalten keine Mitgliederanzahlen.
 # Mitgliederinfos finden sich auf der Standardquelle: https://wiki.piratenpartei.de/MV:Vorlage:Piraten_in_MV

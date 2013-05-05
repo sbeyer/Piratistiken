@@ -115,6 +115,10 @@
 20130220	33296		http://vorstand.piratenpartei.de/2013/03/05/mitschrift-vorstandssitzung-20-02-13/#Kennzahlen
 20130306	33053		http://vorstand.piratenpartei.de/2013/03/13/mitschrift-vorstandssitzung-06-03-13/#Kennzahlen
 20130403	32408		http://vorstand.piratenpartei.de/2013/04/06/mitschrift-vorstandssitzung-03-04-13/#Kennzahlen
+20130417	32386		http://vorstand.piratenpartei.de/2013/04/19/mitschrift-vorstandssitzung-17-04-13/#Kennzahlen
+20130422	32232	4311	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130428	32081	4414	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130502	32079		http://vorstand.piratenpartei.de/2013/05/05/mitschrift-vorstandssitzung-02-05-13/#Kennzahlen
 #
 # http://vorstand.piratenpartei.de/category/sitzungsprotokolle/
 # Wiki Oberkategorie: https://wiki.piratenpartei.de/Kategorie:Bundesvorstandssitzung

@@ -106,5 +106,10 @@
 20130220	6852	522	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-02-20#Kurz-Bericht_Generalsekret.C3.A4r
 20130306	6801	558	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-03-06#Kurz-Bericht_Generalsekret.C3.A4r
 20130320	6602	705	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-03-20#Kurz-Bericht_Generalsekret.C3.A4r
+20130404	6560	915	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-04-04#Kurz-Bericht_Generalsekret.C3.A4r
+20130418	6527	970	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-04-18#Kurz-Bericht_Generalsekret.C3.A4r
+20130422	6526	52	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130428	6535	64	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130502	6519	1028	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-05-02#Kurz-Bericht_Generalsekret.C3.A4r
 #
 # https://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2013

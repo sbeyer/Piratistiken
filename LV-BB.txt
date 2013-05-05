@@ -95,11 +95,15 @@
 20121019	1122		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-10-19#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20121116	1122	515	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-11-16#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20121125	1118	451	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
+20121207		528	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-12-07#TOP_4.2:_Finanzen_des_Landesverbandes
 20130104	1048		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-01-04#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20130118		98	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-01-18#TOP_4.2:_Finanzen_des_Landesverbandes
-20130201		118	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-12-07#TOP_4.2:_Finanzen_des_Landesverbandes
+20130201		118	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-02-01#TOP_4.2:_Finanzen_des_Landesverbandes
 20130227	1101	153	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-03-01#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20130315	1091	159	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-03-15#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
-20130405	1088		https://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle
+20130405	1088	188	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-04-05#TOP_4:_Bericht_des_Schatzmeisters_und_des_Generalsekret.C3.A4rs
+20130422	1077	2	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130428	1075	2	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130502		207	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-05-02#TOP_4.2:_Finanzen_des_Landesverbandes
 #
 # https://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle

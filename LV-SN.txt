@@ -107,5 +107,10 @@
 20130116	890		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2013-01-16
 20130123	890		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2013-01-23
 20130306	876		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2013-03-06
+20130327	878		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2013-03-27
+20130414	896		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2013-04-14
+20130422	884	120	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130424	902		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2013-04-24
+20130428	884	137	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Telefonkonferenz_Sachsen

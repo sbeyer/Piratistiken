@@ -112,6 +112,8 @@
 20130220	1054		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-02-20_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Heiko.29
 20130306	1055		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-03-06_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Heiko.29
 20130320	1062		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-03-20_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Heiko.29
+20130422	1033	275	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130428	1032	319	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 #
 # https://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
 # http://www.piratenpartei-sh.de/index.php?option=com_remository&Itemid=44&func=select&id=2&orderby=4
