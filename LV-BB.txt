@@ -105,5 +105,8 @@
 20130422	1077	2	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130428	1075	2	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130502		207	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-05-02#TOP_4.2:_Finanzen_des_Landesverbandes
+20130510	1083		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-05-02#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20130517		221	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-05-17#TOP_4:_Bericht_des_Schatzmeisters_und_des_Generalsekret.C3.A4rs
+20130607	1082	228	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-06-07#TOP_4:_Bericht_des_Schatzmeisters_und_des_Generalsekret.C3.A4rs
 #
 # https://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle

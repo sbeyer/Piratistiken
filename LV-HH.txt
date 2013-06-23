@@ -163,7 +163,11 @@
 20130217	1114	361
 20130228	1114	361	https://wiki.piratenpartei.de/2013-02-28_-_Protokoll_Vorstand_Hamburg#Protokoll
 20130401	1089	453
-20130422	1093	177	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
-20130428	1093	189	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130404	1089	453	https://wiki.piratenpartei.de/2013-04-04_-_Protokoll_Vorstand_Hamburg#Protokoll
+20130422	1085	467	https://wiki.piratenpartei.de/2013-04-22_-_Protokoll_Vorstand_Hamburg#Protokoll
+#20130422	1093	177	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+#20130428	1093	189	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130506	1086	463
+20130507	1085	467
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg

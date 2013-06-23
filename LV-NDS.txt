@@ -278,6 +278,9 @@
 #20130422	2742	869
 20130422	2742	3	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130428	2739	5	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
-#20130501		835
+20130501	2742	835
+20130506	2740	844	https://wiki.piratenpartei.de/NDS:Vorstand/2013-05-22#TOP_3_Berichte
+20130508	2740	846	https://wiki.piratenpartei.de/NDS:Vorstand/2013-05-08#TOP_3_Berichte
+20130602	2684	906	https://wiki.piratenpartei.de/NDS:Vorstand/2013-06-05#TOP_2:_Berichte
 #
 # https://wiki.piratenpartei.de/NDS:Vorstand

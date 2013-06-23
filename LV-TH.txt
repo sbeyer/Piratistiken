@@ -157,12 +157,14 @@
 20130312	659	195	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-03-12-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20130321		197	https://twitter.com/Querulantenwahn/status/314834306885378048
 20130402	649	221	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-04-02-Protokoll#TOP_6_-_aktuelle_Kennzahlen
-#20130416		221	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-04-16-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20130421	647	239
 20130422	646	241	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130428	641	244	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130430	634	252	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-04-30-Protokoll#TOP_6_-_aktuelle_Kennzahlen
-#20130514			https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-05-14-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20130514	630	266	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-05-14-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20130528	626	276	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-05-28-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20130605	626
+20130611	625	277	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-06-11-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 #
 # https://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 # https://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv (vollständiger)

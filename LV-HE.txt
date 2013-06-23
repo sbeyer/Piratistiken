@@ -146,6 +146,9 @@
 20130423	1898		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-04-24#Generalsekret.C3.A4r
 20130428	1894	1024	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130505	1895	1337
+20130522	1881		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-05-22#Generalsekret.C3.A4r
+20130604	1879		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-06-05#Generalsekret.C3.A4r
+20130619	1873		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-06-19#Generalsekret.C3.A4r
 #
 # https://wiki.piratenpartei.de/HE:Vorstand/Protokolle
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Hessen

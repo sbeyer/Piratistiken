@@ -104,6 +104,9 @@
 20130423	478	128
 20130424	478		https://wiki.piratenpartei.de/SL:Landesvorstand/Vorstandssitzungen/2013-04-24#TOP_3:_Kennzahlen
 20130428	472	128	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130514	479	151	https://wiki.piratenpartei.de/SL:Landesvorstand/Vorstandssitzungen/2013-05-14#TOP_3:_Kennzahlen
+20130528	477	152	https://wiki.piratenpartei.de/SL:Landesvorstand/Vorstandssitzungen/2013-05-28#TOP_3:_Kennzahlen
+20130614	478	173	https://wiki.piratenpartei.de/SL:Landesvorstand/Vorstandssitzungen/2013-06-14#TOP_3:_Kennzahlen
 #
 # https://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen
 # https://wiki.piratenpartei.de/Kategorie:Vorstandssitzungen_Saarland

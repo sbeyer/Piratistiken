@@ -160,5 +160,12 @@
 20130428	6052	3	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130501	6059	2523
 20130502	6059	2523	https://wiki.piratenpartei.de/NRW:2013-05-02_-_NRW_Vorstand#Berichte_Statistik
+20130508	6083	2523
+20130509	6083	2523	https://wiki.piratenpartei.de/NRW:2013-05-09_-_NRW_Vorstand#Berichte_Statistik
+20130516	6083	2523	https://wiki.piratenpartei.de/NRW:2013-05-16_-_NRW_Vorstand#Berichte_Statistik
+20130523	6083	2523	https://wiki.piratenpartei.de/NRW:2013-05-23_-_NRW_Vorstand#Berichte_Statistik
+20130529	6083	2523	https://wiki.piratenpartei.de/NRW:2013-05-29_-_NRW_Vorstand#Berichte_Statistik
+20130606	6083	2523	https://wiki.piratenpartei.de/NRW:2013-06-06_-_NRW_Vorstand#Berichte_Statistik
+20130613	6083		https://wiki.piratenpartei.de/NRW:2013-06-13_-_NRW_Vorstand#Berichte_Statistik
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand

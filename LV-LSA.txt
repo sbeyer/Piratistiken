@@ -154,5 +154,6 @@
 20130408	645		https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2013/08-April/2013-04-08_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 20130422	623	173	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130428	616	177	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130506	618		https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2013/06-Mai/2013-05-06_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 #
 # https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen

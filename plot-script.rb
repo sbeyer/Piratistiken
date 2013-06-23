@@ -144,6 +144,7 @@ end
  20120428, 20120429, # BPT 2012.1 in Neumünster
  20121124, 20121125, # BPT 2012.2 in Bochum
  20130510, 20130511, 20130512, # BPT 2013.1 in Neumarkt i. d. OPf.
+ 20131130, 20131201, # BPT 2013.2 in Bremen
 ].each do |date|
 	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_bpt' if date >= startdate and date <= enddate
 end
