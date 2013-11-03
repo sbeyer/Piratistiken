@@ -127,7 +127,7 @@ end
 end
 
 [20090607, # EUW 2009
- 20140511, # EUW 2014 (geschätzt)
+ 20140525, # EUW 2014
 ].each do |date|
 	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_europa' if date >= startdate and date <= enddate
 end
@@ -145,6 +145,7 @@ end
  20121124, 20121125, # BPT 2012.2 in Bochum
  20130510, 20130511, 20130512, # BPT 2013.1 in Neumarkt i. d. OPf.
  20131130, 20131201, # BPT 2013.2 in Bremen
+ 20140104, 20140105, # BPT 2014.1 in Bochum
 ].each do |date|
 	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_bpt' if date >= startdate and date <= enddate
 end

@@ -80,49 +80,59 @@
 20110331			https://wiki.piratenpartei.de/2011-03-31_-_Vorstandssitzung
 20110414			https://wiki.piratenpartei.de/2011-04-14_-_Vorstandssitzung
 20110428			https://wiki.piratenpartei.de/2011-04-28_-_Vorstandssitzung
-20110526			http://vorstand.piratenpartei.de/2011/05/29/protokoll-zur-vorstandssitzung-2011-05-26/
-20110609			http://vorstand.piratenpartei.de/2011/06/16/protokoll-zur-vorstandssitzung-2011-06-09/
-20110623	11000		http://vorstand.piratenpartei.de/2011/06/26/protokoll-zur-vorstandssitzung-2011-06-23/
-20110707	12105		http://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
-20110721	12092		http://vorstand.piratenpartei.de/2011/07/24/protokoll-zur-vorstandssitzung-2011-07-21/
-20110804	     		http://vorstand.piratenpartei.de/2011/08/10/protokoll-zur-vorstandssitzung-2011-08-04/
-20110818	     		http://vorstand.piratenpartei.de/2011/08/24/protokoll-zur-vorstandssitzung-2011-08-18/
-20110915	12094		http://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
-20110929	13283		http://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
+20110526			https://vorstand.piratenpartei.de/2011/05/29/protokoll-zur-vorstandssitzung-2011-05-26/
+20110609			https://vorstand.piratenpartei.de/2011/06/16/protokoll-zur-vorstandssitzung-2011-06-09/
+20110623	11000		https://vorstand.piratenpartei.de/2011/06/26/protokoll-zur-vorstandssitzung-2011-06-23/
+20110707	12105		https://vorstand.piratenpartei.de/2011/07/11/protokoll-zur-vorstandssitzung-2011-07-07/#Aktuelle_Kennzahlen
+20110721	12092		https://vorstand.piratenpartei.de/2011/07/24/protokoll-zur-vorstandssitzung-2011-07-21/
+20110804	     		https://vorstand.piratenpartei.de/2011/08/10/protokoll-zur-vorstandssitzung-2011-08-04/
+20110818	     		https://vorstand.piratenpartei.de/2011/08/24/protokoll-zur-vorstandssitzung-2011-08-18/
+20110915	12094		https://vorstand.piratenpartei.de/2011/09/27/protokoll-zur-vorstandssitzung-2011-15-09/#Aktuelle_Kennzahlen
+20110929	13283		https://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 20111204	19027		http://piratenpartei.wortgewalt.de/docs/bpt112/
-20111208	19200		http://vorstand.piratenpartei.de/2011/12/11/protokoll-zur-vorstandssitzung-2011-12-08/#Aktuelle_Kennzahlen
-20120315	23211		http://vorstand.piratenpartei.de/2012/03/20/protokoll-zur-vorstandssitzung-2012-03-15/#Aktuelle_Kennzahlen
+20111208	19200		https://vorstand.piratenpartei.de/2011/12/11/protokoll-zur-vorstandssitzung-2011-12-08/#Aktuelle_Kennzahlen
+20120315	23211		https://vorstand.piratenpartei.de/2012/03/20/protokoll-zur-vorstandssitzung-2012-03-15/#Aktuelle_Kennzahlen
 20120429	28806		https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akreditierungsstatistik
 20120429	29638
-20120509	30762		http://vorstand.piratenpartei.de/2012/05/09/protokoll-zur-vorstandssitzung-2012-05-09/#Kennzahlen
-20120606	31073		http://vorstand.piratenpartei.de/2012/06/07/mitschrift-vorstandssitzung-06-06-2012/#Kennzahlen
-20120620	32476		http://vorstand.piratenpartei.de/2012/07/15/protokoll-sitzung-20-06-12/#Kennzahlen
-20120718	33686		http://vorstand.piratenpartei.de/2012/08/08/protokoll-sitzung-2012-07-18/#Kennzahlen
-20120815	34066		http://vorstand.piratenpartei.de/2012/08/17/mitschrift-vorstandssitzung-2012-08-15/#Kennzahlen
-20120829	34322		http://vorstand.piratenpartei.de/2012/09/11/mitschrift-vorstandssitzung-29-8-12/#Kennzahlen
-20120912	34194		http://vorstand.piratenpartei.de/2012/09/13/mitschrift-vorstandssitzung-12-9-12/#Kennzahlen
-20120929	34117		http://vorstand.piratenpartei.de/2012/10/12/mitschrift-vorstandssitzung-29-9-12/#Kennzahlen
-20121010	34212		http://vorstand.piratenpartei.de/2012/10/13/mitschrift-vorstandssitzung-10-10-12/#Kennzahlen
-20121024	34269		http://vorstand.piratenpartei.de/2012/10/25/mitschrift-vorstandssitzung-24-10-12/#Kennzahlen
-#20121107	34133		http://vorstand.piratenpartei.de/2012/11/08/mitschrift-vorstandssitzung-7-11-12/#Kennzahlen
-20121117	34277		http://vorstand.piratenpartei.de/2012/11/19/mitschrift-vorstandssitzung-17-11-12/#Kennzahlen
+20120509	30762		https://vorstand.piratenpartei.de/2012/05/09/protokoll-zur-vorstandssitzung-2012-05-09/#Kennzahlen
+20120606	31073		https://vorstand.piratenpartei.de/2012/06/07/mitschrift-vorstandssitzung-06-06-2012/#Kennzahlen
+20120620	32476		https://vorstand.piratenpartei.de/2012/07/15/protokoll-sitzung-20-06-12/#Kennzahlen
+20120718	33686		https://vorstand.piratenpartei.de/2012/08/08/protokoll-sitzung-2012-07-18/#Kennzahlen
+20120815	34066		https://vorstand.piratenpartei.de/2012/08/17/mitschrift-vorstandssitzung-2012-08-15/#Kennzahlen
+20120829	34322		https://vorstand.piratenpartei.de/2012/09/11/mitschrift-vorstandssitzung-29-8-12/#Kennzahlen
+20120912	34194		https://vorstand.piratenpartei.de/2012/09/13/mitschrift-vorstandssitzung-12-9-12/#Kennzahlen
+20120929	34117		https://vorstand.piratenpartei.de/2012/10/12/mitschrift-vorstandssitzung-29-9-12/#Kennzahlen
+20121010	34212		https://vorstand.piratenpartei.de/2012/10/13/mitschrift-vorstandssitzung-10-10-12/#Kennzahlen
+20121024	34269		https://vorstand.piratenpartei.de/2012/10/25/mitschrift-vorstandssitzung-24-10-12/#Kennzahlen
+#20121107	34133		https://vorstand.piratenpartei.de/2012/11/08/mitschrift-vorstandssitzung-7-11-12/#Kennzahlen
+20121117	34277		https://vorstand.piratenpartei.de/2012/11/19/mitschrift-vorstandssitzung-17-11-12/#Kennzahlen
 20121125	34326	19652	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
-20121205	34267		http://vorstand.piratenpartei.de/2012/12/11/mitschrift-vorstandssitzung-05-12-12/#Kennzahlen
-20121219	33987	19749	http://vorstand.piratenpartei.de/2012/12/20/mitschrift-vorstandssitzung-19-12-12/#Kennzahlen
-20130109	33570		http://vorstand.piratenpartei.de/2013/01/11/mitschrift-vorstandssitzung-09-01-2013/#Kennzahlen
-20130123	33460		http://vorstand.piratenpartei.de/2013/01/24/mitschrift-vorstandssitzung-23-01-13/#Kennzahlen
-20130206	33334		http://vorstand.piratenpartei.de/2013/02/09/mitschrift-vorstandssitzung-06-02-13/#Kennzahlen
-20130220	33296		http://vorstand.piratenpartei.de/2013/03/05/mitschrift-vorstandssitzung-20-02-13/#Kennzahlen
-20130306	33053		http://vorstand.piratenpartei.de/2013/03/13/mitschrift-vorstandssitzung-06-03-13/#Kennzahlen
-20130403	32408		http://vorstand.piratenpartei.de/2013/04/06/mitschrift-vorstandssitzung-03-04-13/#Kennzahlen
-20130417	32386		http://vorstand.piratenpartei.de/2013/04/19/mitschrift-vorstandssitzung-17-04-13/#Kennzahlen
+20121205	34267		https://vorstand.piratenpartei.de/2012/12/11/mitschrift-vorstandssitzung-05-12-12/#Kennzahlen
+20121219	33987	19749	https://vorstand.piratenpartei.de/2012/12/20/mitschrift-vorstandssitzung-19-12-12/#Kennzahlen
+20130109	33570		https://vorstand.piratenpartei.de/2013/01/11/mitschrift-vorstandssitzung-09-01-2013/#Kennzahlen
+20130123	33460		https://vorstand.piratenpartei.de/2013/01/24/mitschrift-vorstandssitzung-23-01-13/#Kennzahlen
+20130206	33334		https://vorstand.piratenpartei.de/2013/02/09/mitschrift-vorstandssitzung-06-02-13/#Kennzahlen
+20130220	33296		https://vorstand.piratenpartei.de/2013/03/05/mitschrift-vorstandssitzung-20-02-13/#Kennzahlen
+20130306	33053		https://vorstand.piratenpartei.de/2013/03/13/mitschrift-vorstandssitzung-06-03-13/#Kennzahlen
+20130403	32408		https://vorstand.piratenpartei.de/2013/04/06/mitschrift-vorstandssitzung-03-04-13/#Kennzahlen
+20130417	32386		https://vorstand.piratenpartei.de/2013/04/19/mitschrift-vorstandssitzung-17-04-13/#Kennzahlen
 20130422	32232	4311	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130428	32081	4414	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
-20130502	32079		http://vorstand.piratenpartei.de/2013/05/05/mitschrift-vorstandssitzung-02-05-13/#Kennzahlen
-20130515	32031		http://vorstand.piratenpartei.de/2013/05/22/mitschrift-vorstandssitzung-15-05-13/#Kennzahlen
-20130529	31845		http://vorstand.piratenpartei.de/2013/06/10/mitschrift-vorstandssitzung-29-05-13/#Kennzahlen
-20130612	31774		http://vorstand.piratenpartei.de/2013/06/20/mitschrift-vorstandssitzung-12-06-13/#Kennzahlen
+20130502	32079		https://vorstand.piratenpartei.de/2013/05/05/mitschrift-vorstandssitzung-02-05-13/#Kennzahlen
+20130515	32031		https://vorstand.piratenpartei.de/2013/05/22/mitschrift-vorstandssitzung-15-05-13/#Kennzahlen
+20130529	31845		https://vorstand.piratenpartei.de/2013/06/10/mitschrift-vorstandssitzung-29-05-13/#Kennzahlen
+20130612	31774		https://vorstand.piratenpartei.de/2013/06/20/mitschrift-vorstandssitzung-12-06-13/#Kennzahlen
+20130626	31714		https://vorstand.piratenpartei.de/2013/07/17/mitschrift-vorstandssitzung-26-06-13/#Kennzahlen
+20130710	31669		https://vorstand.piratenpartei.de/2013/07/17/mitschrift-vorstandssitzung-10-07-13/#Kennzahlen
+20130724	31424		https://verwaltung.piratenpartei.de/issues/291#Kennzahlen
+20130821	31288		https://verwaltung.piratenpartei.de/issues/460#Kennzahlen
+20130904	31270		https://verwaltung.piratenpartei.de/issues/915#Kennzahlen
+20130918	31266		https://verwaltung.piratenpartei.de/issues/1062#Kennzahlen
+20130925	31145		https://verwaltung.piratenpartei.de/issues/1063#Kennzahlen
+20131016	30863		https://verwaltung.piratenpartei.de/issues/1287#Kennzahlen
+20131030	30645		https://verwaltung.piratenpartei.de/issues/1627#Kennzahlen
 #
-# http://vorstand.piratenpartei.de/category/sitzungsprotokolle/
+# https://verwaltung.piratenpartei.de/projects/vorstand/issues?set_filter=1&f[]=tracker_id&op[tracker_id]=%3D&v[tracker_id][]=18
+# https://vorstand.piratenpartei.de/category/sitzungsprotokolle/
 # Wiki Oberkategorie: https://wiki.piratenpartei.de/Kategorie:Bundesvorstandssitzung
 # Wiki 2011: https://wiki.piratenpartei.de/Kategorie:Vorstandssitzung_2011

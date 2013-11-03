@@ -115,5 +115,17 @@
 20130524	6491	1242
 20130530	6472	1242	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-05-30#Kurz-Bericht_Generalsekret.C3.A4r
 20130613	6458	1297	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-06-13#Kurz-Bericht_Generalsekret.C3.A4r
+20130627	6446	1343	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-06-27#Kurz-Bericht_Generalsekret.C3.A4r
+20130711	6429	1342	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-07-11#Kurz-Bericht_Generalsekret.C3.A4r
+20130725	6423	1371	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-07-25#Kurz-Bericht_Generalsekret.C3.A4r
+20130808	6432	1402	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-08-08#Kurz-Bericht_Generalsekret.C3.A4r
+20130822	6432	1435	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-08-22#Kurz-Bericht_Generalsekret.C3.A4r
+20130825	6413	1433
+20130905	6408	1599	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-09-05#Kurz-Bericht_Generalsekret.C3.A4r
+20130906	6407	1599
+20130917	6410	1628
+20130919	6409	1628	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-09-19#Kurz-Bericht_Generalsekret.C3.A4r
+20131003	6391	1696	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-10-03#Kurz-Bericht_Generalsekret.C3.A4r
+20131017	6327	1720	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-10-17#Kurz-Bericht_Generalsekret.C3.A4r
 #
 # https://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2013

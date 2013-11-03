@@ -1,66 +1,70 @@
 # to use this, you need netstiff [1] and lynx installed
 #
-# [1] http://pkqs.net/~sbeyer/#netstiff
+# [1] https://pkqs.net/~sbeyer/#netstiff
 
   + test	html
   + htmlcmd	lynx -nolist -dump
 
 # BV
-http://vorstand.piratenpartei.de/category/sitzungsprotokolle/
-http://wiki.piratenpartei.de/Kategorie:Bundesvorstandssitzung
+https://verwaltung.piratenpartei.de/projects/vorstand/issues?set_filter=1&f[]=tracker_id&op[tracker_id]=%3D&v[tracker_id][]=18
+https://vorstand.piratenpartei.de/category/sitzungsprotokolle/
+https://wiki.piratenpartei.de/Kategorie:Bundesvorstandssitzung
 
 # LV-BB
-http://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle
+https://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle
+  + end	/Powered by MediaWiki/
+https://wiki.piratenbrandenburg.de/Vorstand/Protokolle
   + end	/Powered by MediaWiki/
 
 # LV-BE
-http://wiki.piratenpartei.de/BE:Vorstandssitzung
-http://wiki.piratenpartei.de/BE:Mitglieder
+https://wiki.piratenpartei.de/BE:Vorstandssitzung
+https://wiki.piratenpartei.de/BE:Mitglieder
+https://wiki.piratenpartei.de/BE:Finanzen/Kontostand
 
 # LV-BW
-http://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand
-http://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstandssitzung_Baden-W%C3%BCrttemberg
+https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand
+https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstandssitzung_Baden-W%C3%BCrttemberg
 
 # LV-BY
-http://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2013
+https://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2013
 
 # LV-HB
-http://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Bremen
+https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Bremen
 
 # LV-HE
-http://wiki.piratenpartei.de/HE:Vorstand/Protokolle
-http://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Hessen
+https://wiki.piratenpartei.de/HE:Vorstand/Protokolle
+https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Hessen
 
 # LV-HH
-http://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg
+https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg
 
 # LV-LSA
-http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen
+https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen
 
 # LV-MV
 
 # LV-NDS
-http://wiki.piratenpartei.de/NDS:Vorstand
+https://wiki.piratenpartei.de/NDS:Vorstand
 
 # LV-NRW
-http://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand
+https://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand
 
 # LV-RP
-http://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand
-http://wiki.piratenpartei.de/RP:Vorstand
+https://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand
+https://wiki.piratenpartei.de/RP:Vorstand
 
 # LV-SH
-http://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
+https://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
 
 # LV-SL
-http://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen
-http://wiki.piratenpartei.de/Kategorie:Vorstandssitzungen_Saarland
+https://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen
+https://wiki.piratenpartei.de/Kategorie:Vorstandssitzungen_Saarland
 
 # LV-SN
-http://wiki.piratenpartei.de/Kategorie:Protokoll_Telefonkonferenz_Sachsen
+https://wiki.piratenpartei.de/Kategorie:Protokoll_Telefonkonferenz_Sachsen
 
 # LV-TH
-http://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv
+https://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv
   + end	/Powered by MediaWiki/
-http://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
+https://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
   + end	/Powered by MediaWiki/

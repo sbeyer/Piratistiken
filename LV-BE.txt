@@ -118,8 +118,14 @@
 #20130428	3661		https://wiki.piratenpartei.de/BE:2013-04-28_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20130526	3661		https://wiki.piratenpartei.de/BE:2013-05-26_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20130609	3661		https://wiki.piratenpartei.de/BE:2013-06-09_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
-20130618	3551	702
-20130623	3551		https://wiki.piratenpartei.de/BE:2013-06-23_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20130617	3551	702
+20130623	3551	703	https://wiki.piratenpartei.de/BE:2013-06-23_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20130721	3524	739	https://wiki.piratenpartei.de/BE:2013-07-21_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20130825	3551	744	https://wiki.piratenpartei.de/BE:2013-08-25_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20130826	3535	749
+20130905	3535	797	https://wiki.piratenpartei.de/BE:2013-09-08_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20131006	3497	800
+20131027	3497	827	https://wiki.piratenpartei.de/BE:2013-10-27_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 #
 # Vorstandssitzungscheck:  20110301 - 20110904
 #
@@ -127,3 +133,4 @@
 #   https://wiki.piratenpartei.de/BE:Mitglieder
 #   https://wiki.piratenpartei.de/BE:Vorstandssitzung
 #   https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstandssitzung_Landesverband_Berlin
+#   (https://wiki.piratenpartei.de/wiki//index.php?title=BE:Finanzen/Kontostand)

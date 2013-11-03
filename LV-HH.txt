@@ -169,5 +169,8 @@
 #20130428	1093	189	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130506	1086	463
 20130507	1085	467
+20130626	1080	470	https://wiki.piratenpartei.de/2013-06-26_-_Protokoll_Vorstand_Hamburg#Protokoll
+20131007	1078	494
+20131028	1084	432	https://wiki.piratenpartei.de/2013-10-28_-_Protokoll_Vorstand_Hamburg#Protokoll
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg

@@ -282,5 +282,8 @@
 20130506	2740	844	https://wiki.piratenpartei.de/NDS:Vorstand/2013-05-22#TOP_3_Berichte
 20130508	2740	846	https://wiki.piratenpartei.de/NDS:Vorstand/2013-05-08#TOP_3_Berichte
 20130602	2684	906	https://wiki.piratenpartei.de/NDS:Vorstand/2013-06-05#TOP_2:_Berichte
+20131004	2625	906
+20131009	2620		https://wiki.piratenpartei.de/NDS:Vorstand/2013-10-09#Mitgliederstatistik
+20131021	2614	1232	https://niedersachsen.piratenpad.de/NDS-Vorstand-2013-10-23
 #
 # https://wiki.piratenpartei.de/NDS:Vorstand

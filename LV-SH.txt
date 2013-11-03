@@ -118,6 +118,15 @@
 20130515	1027		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-05-15_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r
 20130529	1002		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-05-29_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Heiko.29
 20130612	991		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-06-12_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Heiko.29
+20130710	988		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-07-10_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20130724	982	508	https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-07-24_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20130807	979		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-08-07_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20130821	980		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-08-21_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20130904	980		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-09-04_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20130918	979		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-09-18_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20131002	974	497	https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-10-02_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20131016	965		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-10-16_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20131030	966		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-10-30_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
 #
 # https://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
 # http://www.piratenpartei-sh.de/index.php?option=com_remository&Itemid=44&func=select&id=2&orderby=4
