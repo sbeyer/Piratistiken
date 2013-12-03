@@ -159,6 +159,9 @@
 20130911	1850	1528
 20130925	1850		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-09-25#Generalsekret.C3.A4r
 20131009	1833		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-10-09#Generalsekret.C3.A4r
+20131023	1839		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-10-23#Generalsekret.C3.A4r
+20131106	1811		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-11-06#Generalsekret.C3.A4r
+20131120	1804		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-11-20#Generalsekret.C3.A4r
 #
 # https://wiki.piratenpartei.de/HE:Vorstand/Protokolle
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Hessen

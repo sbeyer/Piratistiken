@@ -110,6 +110,7 @@
 20130607	1082	228	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-06-07#TOP_4:_Bericht_des_Schatzmeisters_und_des_Generalsekret.C3.A4rs
 20130621	1078	229	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-06-21#TOP_4:_Bericht_des_Schatzmeisters_und_des_Generalsekret.C3.A4rs
 20130705	1074	231	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-07-05#TOP_4:_Bericht_des_Schatzmeisters_und_des_Generalsekret.C3.A4rs
+# 20131206			https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-12-06#TOP_4:_Bericht_des_Schatzmeisters_und_des_Generalsekret.C3.A4rs
 #
 # https://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle
 # https://wiki.piratenbrandenburg.de/Vorstand/Protokolle

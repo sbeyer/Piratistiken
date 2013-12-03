@@ -131,6 +131,7 @@
 20130925	31145		https://verwaltung.piratenpartei.de/issues/1063#Kennzahlen
 20131016	30863		https://verwaltung.piratenpartei.de/issues/1287#Kennzahlen
 20131030	30645		https://verwaltung.piratenpartei.de/issues/1627#Kennzahlen
+20131127	30413		https://verwaltung.piratenpartei.de/issues/1812#Kennzahlen
 #
 # https://verwaltung.piratenpartei.de/projects/vorstand/issues?set_filter=1&f[]=tracker_id&op[tracker_id]=%3D&v[tracker_id][]=18
 # https://vorstand.piratenpartei.de/category/sitzungsprotokolle/

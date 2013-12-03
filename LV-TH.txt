@@ -173,10 +173,13 @@
 20130820	505	293	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-08-20-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20130825	505	293
 20130903	507	302	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-09-03-Protokoll#TOP_6_-_aktuelle_Kennzahlen
-20130917	507	302	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-09-17-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20130917	508	307	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-09-17-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20131001	513	313	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-10-01-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20131015	511	311	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-10-15-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20131029	510	318	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-10-29-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20131122	511
+20131123	512
+#20131205			https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-12-05-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 #
 # https://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 # https://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv (vollständiger)

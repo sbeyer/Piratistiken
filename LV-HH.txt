@@ -172,5 +172,6 @@
 20130626	1080	470	https://wiki.piratenpartei.de/2013-06-26_-_Protokoll_Vorstand_Hamburg#Protokoll
 20131007	1078	494
 20131028	1084	432	https://wiki.piratenpartei.de/2013-10-28_-_Protokoll_Vorstand_Hamburg#Protokoll
+20131125	1082	454	https://lv-hamburg.piratenpad.de/2013-11-25Protokoll-Vorstand-Hamburg
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg

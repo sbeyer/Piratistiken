@@ -179,5 +179,7 @@
 20131017	5988	2678	https://wiki.piratenpartei.de/NRW:2013-10-17_-_NRW_Vorstand#Berichte_Statistik
 20131030	5914	2719
 20131030	5914	2719	https://wiki.piratenpartei.de/NRW:2013-10-30_-_NRW_Vorstand#Berichte_Statistik
+20131114	5900	2764	https://wiki.piratenpartei.de/NRW:2013-11-14_-_NRW_Vorstand#Berichte_Statistik
+20131128	5895	2775	https://wiki.piratenpartei.de/NRW:2013-11-28_-_NRW_Vorstand#Berichte_Statistik
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand

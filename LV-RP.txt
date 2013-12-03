@@ -212,5 +212,8 @@
 20130917	967	813	https://wiki.piratenpartei.de/RP:2013-09-17_-_117._Vorstandssitzung#Top_2:_Berichte
 20131001	968	809	https://wiki.piratenpartei.de/RP:2013-10-01_-_118._Vorstandssitzung#Top_2:_Berichte
 20131015	965	815	https://wiki.piratenpartei.de/RP:2013-10-15_-_119._Vorstandssitzung#Top_2:_Berichte
+20131105	946	813	https://wiki.piratenpartei.de/RP:2013-11-05_-_120._Vorstandssitzung#Top_2:_Berichte
+20131119	948	813	https://wiki.piratenpartei.de/RP:2013-11-19_-_121._Vorstandssitzung#Top_2:_Berichte
+20131203	951	818	https://wiki.piratenpartei.de/RP:2013-12-03_-_122._Vorstandssitzung#Top_2:_Berichte
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand

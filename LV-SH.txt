@@ -127,6 +127,7 @@
 20131002	974	497	https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-10-02_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
 20131016	965		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-10-16_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
 20131030	966		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-10-30_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20131113	968		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-11-13_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
 #
 # https://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
 # http://www.piratenpartei-sh.de/index.php?option=com_remository&Itemid=44&func=select&id=2&orderby=4
