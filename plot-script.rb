@@ -93,60 +93,23 @@ EOF
 
 enddate = ARGV.shift.to_i + 30
 
-[20060326, # Landtagswahl BW,RP,LSA
- 20060917, # Abgeordnetenhauswahl BE, Landtagswahl MV
- 20070503, # Bürgerschaft HB
- 20080127, # Landtagswahl HE,NDS
- 20080224, # Bürgerschaftswahl HH
- 20080706, # Nachwahlen Bürgerschaft HB
- 20080928, # Landtagswahl BY
- 20090118, # Landtagswahl HE
- 20090830, # Landtagswahl SL,SN,TH
- 20090927, # Landtagswahl BB,SH
- 20100509, # Landtagswahl NRW
- 20110220, # Bürgerschaftswahl HH
- 20110320, # Landtagswahl LSA
- 20110327, # Landtagswahl BW, RP
- 20110522, # Bürgerschaftswahl HB
- 20110904, # Landtagswahl MV
- 20110918, # Abgeordnetenhauswahl BE
- 20120325, # Landtagswahl SL
- 20120506, # Landtagswahl SH
- 20120513, # Landtagswahl NRW
- 20130120, # Landtagswahl NDS
- 20130915, # Landtagswahl BY
- 20130922, # Landtagswahl HE
-].each do |date|
+File.readlines('ltw.txt').each do |line|
+	date = line[0,8].to_i
 	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_land' if date >= startdate and date <= enddate
 end
 
-[20090927, # Bundestagswahl 2009
- 20130922, # Bundestagswahl 2013
-].each do |date|
+File.readlines('btw.txt').each do |line|
+	date = line[0,8].to_i
 	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_bund' if date >= startdate and date <= enddate
 end
 
-[20090607, # EUW 2009
- 20140525, # EUW 2014
-].each do |date|
+File.readlines('euw.txt').each do |line|
+	date = line[0,8].to_i
 	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_europa' if date >= startdate and date <= enddate
 end
 
-[20060910, # Gründungsversammlung in Berlin
- 20070519, 20070520, # BPT 2007.1 in Stockheim
- 20080517, 20080518, # BPT 2008.1 in Hannover
- 20081003, 20081004, 20081005, # BPT 2008.2 in Bielefeld
- 20090704, 20090705, # BPT 2009.1 in Hamburg
- 20100515, 20100516, # BPT 2010.1 in Bingen
- 20101120, 20101121, # BPT 2010.2 in Chemnitz
- 20110514, 20110515, # BPT 2011.1 in Heidenheim
- 20111203, 20111204, # BPT 2011.2 in Offenbach
- 20120428, 20120429, # BPT 2012.1 in Neumünster
- 20121124, 20121125, # BPT 2012.2 in Bochum
- 20130510, 20130511, 20130512, # BPT 2013.1 in Neumarkt i. d. OPf.
- 20131130, 20131201, # BPT 2013.2 in Bremen
- 20140104, 20140105, # BPT 2014.1 in Bochum
-].each do |date|
+File.readlines('bpt.txt').each do |line|
+	date = line[0,8].to_i
 	puts 'set arrow from "'+date.to_s+'",0 rto 0,ymax nohead lt rgb col_bpt' if date >= startdate and date <= enddate
 end
 
