@@ -21,3 +21,5 @@
 20130120 Landtagswahl NDS
 20130915 Landtagswahl BY
 20130922 Landtagswahl HE
+20140831 Landtagswahl SN
+20140914 Landtagswahl BB
