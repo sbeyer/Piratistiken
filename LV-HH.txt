@@ -142,8 +142,13 @@
 20120822	1185
 20120825	1192
 20120902	1198	815
+20121027	1194	2	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
+20121105	1192	2	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
+20121111	1202	4	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
+20121118	1202	4	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
 20121123	1192	827
 20121125	1192	828	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
+20121128	1192	828	http://www.machmaldieaugenauf.de/2012/11/28/abschliesende-statistiken-bpt122/
 20121216	1175	807
 20121217	1178	804
 20130101	1105	39
@@ -166,12 +171,21 @@
 20130404	1089	453	https://wiki.piratenpartei.de/2013-04-04_-_Protokoll_Vorstand_Hamburg#Protokoll
 20130422	1085	467	https://wiki.piratenpartei.de/2013-04-22_-_Protokoll_Vorstand_Hamburg#Protokoll
 #20130422	1093	177	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130422	1093	177	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 #20130428	1093	189	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130428	1093	189	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130505	1093	237	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130506	1086	463
 20130507	1085	467
+20130512	1087	472	http://www.machmaldieaugenauf.de/2013/05/08/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2013-2-bpt131/
+20130513	1087	472	http://www.machmaldieaugenauf.de/2013/05/13/abschliesende-statistiken-bpt131/
 20130626	1080	470	https://wiki.piratenpartei.de/2013-06-26_-_Protokoll_Vorstand_Hamburg#Protokoll
 20131007	1078	494
+20131026	1083	433	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131028	1084	432	https://wiki.piratenpartei.de/2013-10-28_-_Protokoll_Vorstand_Hamburg#Protokoll
+20131118	1077	436	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
+20131123	1081	453	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131125	1082	454	https://lv-hamburg.piratenpad.de/2013-11-25Protokoll-Vorstand-Hamburg
+20131201	1083	461	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg

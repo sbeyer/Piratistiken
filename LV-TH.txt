@@ -142,11 +142,16 @@
 20121002	673		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-10-02-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20121016	673		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-10-16-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20121020	676
+20121027	678	513	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
 20121028	678
 20121031	679		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-10-31-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20121105	680	524	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
+20121111	680	524	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
 20121113	680		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-11-13-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20121118	680	526	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
 20121125	679	528	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
 20121127	683		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-11-27-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20121128	679	528	http://www.machmaldieaugenauf.de/2012/11/28/abschliesende-statistiken-bpt122/
 20121211	678		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2012-12-11-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20130108	667		https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-01-08-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20130115	666	106	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-01-15-Protokoll#TOP_6_-_aktuelle_Kennzahlen
@@ -161,6 +166,9 @@
 20130422	646	241	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130428	641	244	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130430	634	252	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-04-30-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20130505	632	244	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130512	632	266	http://www.machmaldieaugenauf.de/2013/05/08/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2013-2-bpt131/
+20130513	632	266	http://www.machmaldieaugenauf.de/2013/05/13/abschliesende-statistiken-bpt131/
 20130514	630	266	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-05-14-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20130528	626	276	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-05-28-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20130605	626
@@ -176,9 +184,13 @@
 20130917	508	307	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-09-17-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20131001	513	313	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-10-01-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20131015	511	311	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-10-15-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20131026	510	318	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131029	510	318	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-10-29-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20131118	510	319	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131122	511
 20131123	512
+20131123	513	320	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
+20131201	512	319	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
 #20131205			https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2013-12-05-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 #
 # https://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen

@@ -88,12 +88,20 @@
 20120610	467
 20120722	479
 20120804	484	269
+20121027	496	250	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
+20121105	497	249	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
+20121111	497	249	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
+20121118	497	247	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
 20121125	497	259	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
+20121128	497	259	http://www.machmaldieaugenauf.de/2012/11/28/abschliesende-statistiken-bpt122/
 20121201	484	281
 20130219	492	117
 20130325	484	128
 20130422	478	135	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130428	477	142	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130505	476	141	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130512	476	144	http://www.machmaldieaugenauf.de/2013/05/08/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2013-2-bpt131/
+20130513	476	144	http://www.machmaldieaugenauf.de/2013/05/13/abschliesende-statistiken-bpt131/
 20130515	475	149
 20130615	471	151
 20130719	465	149
@@ -103,8 +111,13 @@
 20130917	465	161
 20131005	461	156
 20131009	465	160
+20131026	461	149	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131029	460	159
 20131113	457	163
+20131118	455	158	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
+20131123	456	159	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
+20131201	456	158	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
+20131220	450	160
 #
 # Die Vorstandsprotokolle enthalten keine Mitgliederanzahlen.
 # Mitgliederinfos finden sich auf der Standardquelle: https://wiki.piratenpartei.de/MV:Vorlage:Piraten_in_MV

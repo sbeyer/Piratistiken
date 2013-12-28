@@ -67,8 +67,8 @@
 20110929	389	160	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-09-29#TOP_3.1:_Mitgliederzahlen_des_Landesverbandes
 20110930	448
 20111009	516
-#20111013	435		http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111012	529
+#20111013	435		http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111023	581
 #20111029	592
 #20111103	605
@@ -93,8 +93,13 @@
 20120813	1105	475	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-08-13#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20120926	1114	498	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-09-26#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20121019	1122		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-10-19#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20121027	1122	0	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
+20121105	1119	0	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
+20121111	1118	0	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
 20121116	1122	515	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-11-16#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20121118	1118	2	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
 20121125	1118	451	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
+20121128	1118	451	http://www.machmaldieaugenauf.de/2012/11/28/abschliesende-statistiken-bpt122/
 20121207		528	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-12-07#TOP_4.2:_Finanzen_des_Landesverbandes
 20130104	1048		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-01-04#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20130118		98	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-01-18#TOP_4.2:_Finanzen_des_Landesverbandes
@@ -105,11 +110,18 @@
 20130422	1077	2	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130428	1075	2	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130502		207	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-05-02#TOP_4.2:_Finanzen_des_Landesverbandes
+20130505	1075	2	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130510	1083		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-05-02#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20130512	1075	172	http://www.machmaldieaugenauf.de/2013/05/08/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2013-2-bpt131/
+20130513	1075	172	http://www.machmaldieaugenauf.de/2013/05/13/abschliesende-statistiken-bpt131/
 20130517		221	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-05-17#TOP_4:_Bericht_des_Schatzmeisters_und_des_Generalsekret.C3.A4rs
 20130607	1082	228	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-06-07#TOP_4:_Bericht_des_Schatzmeisters_und_des_Generalsekret.C3.A4rs
 20130621	1078	229	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-06-21#TOP_4:_Bericht_des_Schatzmeisters_und_des_Generalsekret.C3.A4rs
 20130705	1074	231	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-07-05#TOP_4:_Bericht_des_Schatzmeisters_und_des_Generalsekret.C3.A4rs
+20131026	1044	187	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
+20131118	1031	186	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
+20131123	1036	189	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
+20131201	1036	199	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
 # 20131206			https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-12-06#TOP_4:_Bericht_des_Schatzmeisters_und_des_Generalsekret.C3.A4rs
 #
 # https://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle

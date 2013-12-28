@@ -264,8 +264,13 @@
 20120915	2866		https://wiki.piratenpartei.de/NDS:Vorstand/2012-10-10#TOP_5_Berichte
 20120926	2863		https://wiki.piratenpartei.de/NDS:Vorstand/2012-09-26#TOP_6_Berichte
 20121003	2860	1578
+20121027	2909	2	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
+20121105	2912	6	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
+20121111	2912	871	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
 20121114	2886		https://wiki.piratenpartei.de/NDS:Vorstand/2012-11-14#TOP_4_Berichte
+20121118	2912	1394	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
 20121125	2904	1453	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
+20121128	2904	1454	http://www.machmaldieaugenauf.de/2012/11/28/abschliesende-statistiken-bpt122/
 20121219	2843		https://wiki.piratenpartei.de/NDS:Vorstand/2012-12-19#TOP_4_Berichte
 20121223	2897
 20130204	2832		https://wiki.piratenpartei.de/NDS:Vorstand/2013-02-06#TOP_3_Berichte
@@ -279,15 +284,22 @@
 20130422	2742	3	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130428	2739	5	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130501	2742	835
+20130505	2731	6	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130506	2740	844	https://wiki.piratenpartei.de/NDS:Vorstand/2013-05-22#TOP_3_Berichte
 20130508	2740	846	https://wiki.piratenpartei.de/NDS:Vorstand/2013-05-08#TOP_3_Berichte
+20130512	2729	848	http://www.machmaldieaugenauf.de/2013/05/08/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2013-2-bpt131/
+20130513	2729	848	http://www.machmaldieaugenauf.de/2013/05/13/abschliesende-statistiken-bpt131/
 20130602	2684	906	https://wiki.piratenpartei.de/NDS:Vorstand/2013-06-05#TOP_2:_Berichte
 20131004	2625	906
 20131009	2620		https://wiki.piratenpartei.de/NDS:Vorstand/2013-10-09#Mitgliederstatistik
 20131021	2614	1232	https://niedersachsen.piratenpad.de/NDS-Vorstand-2013-10-23
+20131026	2637	50	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131105	2641	1237	https://niedersachsen.piratenpad.de/NDS-Vorstand-2013-11-06
+20131118	2623	158	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131120	2637	1237	https://niedersachsen.piratenpad.de/NDS-Vorstand-2013-11-20
 20131122	2643
+20131123	2644	838	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
+20131201	2637	874	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
 20131202	2639
 # 20131204			https://niedersachsen.piratenpad.de/NDS-Vorstand-2013-12-04
 #

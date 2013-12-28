@@ -159,12 +159,17 @@
 20121013	1192
 20121021	1196		https://wiki.piratenpartei.de/RP:2012-10-21_-_93._Vorstandssitzung#Top_2:_Berichte
 20121023	1194
+20121027	1223	798	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
 20121028	1194		https://wiki.piratenpartei.de/RP:2012-10-28_-_94._Vorstandssitzung#Top_2:_Berichte
+20121105	1196	830	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
+20121111	1194	890	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
 20121111	1194		https://wiki.piratenpartei.de/RP:2012-11-11_-_96._Vorstandssitzung#Top_2:_Berichte
+20121118	1194	900	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
 20121118	1194		https://wiki.piratenpartei.de/RP:2012-11-18_-_97._Vorstandssitzung#Top_2:_Berichte
 20121120	1190
 20121122	1189
 20121125	1189	923	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
+20121128	1189	923	http://www.machmaldieaugenauf.de/2012/11/28/abschliesende-statistiken-bpt122/
 20121202	1186		https://wiki.piratenpartei.de/RP:2012-12-02_-_98._Vorstandssitzung#Top_2:_Berichte
 20121209	1181	914
 20121213	1183	914
@@ -196,7 +201,10 @@
 20130428	1075	797	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130502	1068	793
 20130505	1068	793	https://wiki.piratenpartei.de/RP:2013-05-05_-_108._Vorstandssitzung#Top_2:_Berichte
+20130505	1068	793	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130509	1070	798
+20130512	1067	801	http://www.machmaldieaugenauf.de/2013/05/08/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2013-2-bpt131/
+20130513	1067	801	http://www.machmaldieaugenauf.de/2013/05/13/abschliesende-statistiken-bpt131/
 20130518	1070	805
 20130527	1070	807
 20130603	1070	807	https://wiki.piratenpartei.de/RP:2013-06-03_-_109._Vorstandssitzung#Top_2:_Berichte
@@ -212,8 +220,13 @@
 20130917	967	813	https://wiki.piratenpartei.de/RP:2013-09-17_-_117._Vorstandssitzung#Top_2:_Berichte
 20131001	968	809	https://wiki.piratenpartei.de/RP:2013-10-01_-_118._Vorstandssitzung#Top_2:_Berichte
 20131015	965	815	https://wiki.piratenpartei.de/RP:2013-10-15_-_119._Vorstandssitzung#Top_2:_Berichte
+20131026	948	807	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131105	946	813	https://wiki.piratenpartei.de/RP:2013-11-05_-_120._Vorstandssitzung#Top_2:_Berichte
+20131118	935	805	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131119	948	813	https://wiki.piratenpartei.de/RP:2013-11-19_-_121._Vorstandssitzung#Top_2:_Berichte
+20131123	949	816	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
+20131201	947	815	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
 20131203	951	818	https://wiki.piratenpartei.de/RP:2013-12-03_-_122._Vorstandssitzung#Top_2:_Berichte
+20131211	906	818
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand

@@ -205,10 +205,15 @@
 20121005	3793
 20121018	3813	2169	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-10-18_-_Vorstandssitzung#aktuelle_Kennzahlen
 20121021	3812	2168
+20121027	3806	866	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
 20121029	3802	2209	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-11-01_-_Vorstandssitzung#aktuelle_Kennzahlen
+20121105	3789	833	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
 20121108	3795	2215
+20121111	3792	863	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
 20121115	3795	2224	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-11-15_-_Vorstandssitzung#aktuelle_Kennzahlen
+20121118	3792	1454	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
 20121125	3783	1960	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
+20121128	3783	1960	http://www.machmaldieaugenauf.de/2012/11/28/abschliesende-statistiken-bpt122/
 20121129	3803	2222	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2012-11-29_-_Vorstandssitzung#aktuelle_Kennzahlen
 20130104	3644	3
 20130110	3631		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-01-10_-_Vorstandssitzung#aktuelle_Kennzahlen
@@ -223,9 +228,12 @@
 20130321	3501	600	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-03-22_-_Vorstandssitzung#aktuelle_Kennzahlen
 20130405	3478		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-04-05_-_Vorstandssitzung#aktuelle_Kennzahlen
 20130422	3473	607	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
-20130428	3463	605	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130426	3462		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-04-26_-_Vorstandssitzung#aktuelle_Kennzahlen
+20130428	3463	605	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
+20130505	3463	606	http://www.machmaldieaugenauf.de/2013/04/22/vorbereitung-der-akkreditierung-zum-bpt-in-neumarkt/
 20130508	3453	837
+20130512	3453	891	http://www.machmaldieaugenauf.de/2013/05/08/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2013-2-bpt131/
+20130513	3453	891	http://www.machmaldieaugenauf.de/2013/05/13/abschliesende-statistiken-bpt131/
 20130517	3452		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-05-17_-_Vorstandssitzung#aktuelle_Kennzahlen
 20130531	3425		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-05-31_-_Vorstandssitzung#aktuelle_Kennzahlen
 20130614	3425		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-06-14_-_Vorstandssitzung#aktuelle_Kennzahlen
@@ -237,7 +245,12 @@
 20130825	3393	877
 20130906	3395		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-09-06_-_Vorstandssitzung#aktuelle_Kennzahlen
 20131004	3284	1006	https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-10-04_-_Vorstandssitzung#aktuelle_Kennzahlen
+20131026	3170	1193	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131117	3156		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-11-17_-_Vorstandssitzung#aktuelle_Kennzahlen
+20131118	3155	1229	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
+20131123	3145	1242	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
+20131201	3092	1269	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
+20131212	3000	1326
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstandssitzung_Baden-W%C3%BCrttemberg
 # https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand
