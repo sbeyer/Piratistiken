@@ -193,6 +193,7 @@
 20131123	5883	2487	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131128	5895	2775	https://wiki.piratenpartei.de/NRW:2013-11-28_-_NRW_Vorstand#Berichte_Statistik
 20131201	5869	2468	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
-20131211	5897	2795
+20131211	5897	2795	https://wiki.piratenpartei.de/NRW:2013-12-11_-_NRW_Vorstand#Berichte_Statistik
+20140102	5834	0	https://wiki.piratenpartei.de/NRW:2014-01-02_-_NRW_Vorstand#Berichte_Statistik
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand

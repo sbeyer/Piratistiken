@@ -118,6 +118,7 @@
 20131026	289	103	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131118	288	102	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131123	289	110	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
+20131126	288		https://wiki.piratenpartei.de/HB:Vorstand/2013-26-11_Protokoll_Vorstandssitzung#Petr
 20131201	290	116	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
 20131204	290	116
 #

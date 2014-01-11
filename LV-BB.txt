@@ -122,7 +122,7 @@
 20131118	1031	186	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131123	1036	189	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131201	1036	199	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
-# 20131206			https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-12-06#TOP_4:_Bericht_des_Schatzmeisters_und_des_Generalsekret.C3.A4rs
+20140108	1030		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2014-01-08#TOP_3:_T.C3.A4tigkeitsberichte
 #
 # https://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle
 # https://wiki.piratenbrandenburg.de/Vorstand/Protokolle

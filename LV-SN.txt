@@ -132,6 +132,7 @@
 20131118	847	372	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131123	850	373	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131201	845	375	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
-#20131203?
+20131228	848	375
+20131230	848		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2013-12-30
 #
-# https://wiki.piratenpartei.de/Kategorie:Protokoll_Telefonkonferenz_Sachsen
+# https://wiki.piratenpartei.de/wiki//index.php?title=Kategorie:Protokoll_Vorstand_Sachsen&from=SN%3A%C3%84mter%2FVorstand%2FProtokolle%2F2013-03-20

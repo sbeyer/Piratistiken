@@ -187,5 +187,7 @@
 20131123	1081	453	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131125	1082	454	https://lv-hamburg.piratenpad.de/2013-11-25Protokoll-Vorstand-Hamburg
 20131201	1083	461	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
+20131216	1074	453	https://lv-hamburg.piratenpad.de/2013-12-16Protokoll-Vorstand-Hamburg
+20140102	1070
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg

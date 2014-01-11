@@ -125,6 +125,7 @@
 20131118	451	181	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131123	456	198	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131201	454	195	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
+20131229	450	6	https://wiki.piratenpartei.de/SL:Landesvorstand/Vorstandssitzungen/2013-12-29#TOP_1:_Kennzahlen
 #
 # https://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen
 # https://wiki.piratenpartei.de/Kategorie:Vorstandssitzungen_Saarland

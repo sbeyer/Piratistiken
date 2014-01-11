@@ -184,7 +184,7 @@
 20131123	582	262	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131201	578	263	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
 20131202	578		https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2013/12-Dezember/2013-12-02_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
-#20131215
+20131216	573		https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2013/12-Dezember/2013-12-16_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 20131220	446
 #
 # https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen

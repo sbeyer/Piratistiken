@@ -251,6 +251,7 @@
 20131123	3145	1242	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131201	3092	1269	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
 20131212	3000	1326
+20131215	2973		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-12-15_-_Vorstandssitzung#aktuelle_Kennzahlen
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstandssitzung_Baden-W%C3%BCrttemberg
 # https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand
