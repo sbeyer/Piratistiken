@@ -144,6 +144,7 @@
 20131121	6283	1798	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-11-21#Kurz-Bericht_Generalsekret.C3.A4r
 20131205	6268	1812	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-12-05#Kurz-Bericht_Generalsekret.C3.A4r
 20131219	6138	1822	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-12-19#Kurz-Bericht_Generalsekret.C3.A4r
+20140105	6055		http://blog.alexzinser.de/?p=90
 20140109	6006	390	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-01-09#Kurz-Bericht_Generalsekret.C3.A4r
 #
 # https://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2013

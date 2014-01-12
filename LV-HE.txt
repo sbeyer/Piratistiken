@@ -176,6 +176,7 @@
 20131201	1805	1506	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
 20131204	1804		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-12-04#Generalsekret.C3.A4r
 20131218	1794		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2013-12-18#Generalsekret.C3.A4r
+20140105	1748		http://blog.alexzinser.de/?p=90
 20140108	1753		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2014-01-08#Generalsekret.C3.A4r
 #
 # https://wiki.piratenpartei.de/HE:Vorstand/Protokolle

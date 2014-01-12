@@ -189,5 +189,6 @@
 20131201	1083	461	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
 20131216	1074	453	https://lv-hamburg.piratenpad.de/2013-12-16Protokoll-Vorstand-Hamburg
 20140102	1070
+20140105	1059		http://blog.alexzinser.de/?p=90
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg

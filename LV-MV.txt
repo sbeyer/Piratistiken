@@ -119,6 +119,7 @@
 20131201	456	158	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
 20131220	450	160
 20140102	447	27
+20140105	446		http://blog.alexzinser.de/?p=90
 20140107	445	34
 #
 # Die Vorstandsprotokolle enthalten keine Mitgliederanzahlen.

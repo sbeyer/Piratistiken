@@ -144,6 +144,7 @@
 20131123	30542	11744	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131127	30413		https://verwaltung.piratenpartei.de/issues/1812#Kennzahlen
 20131201	30442	12158	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
+20140105	29447		http://blog.alexzinser.de/?p=90
 #
 # https://verwaltung.piratenpartei.de/projects/vorstand/issues?set_filter=1&f[]=tracker_id&op[tracker_id]=%3D&v[tracker_id][]=18
 # https://vorstand.piratenpartei.de/category/sitzungsprotokolle/

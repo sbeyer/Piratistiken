@@ -186,5 +186,6 @@
 20131202	578		https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2013/12-Dezember/2013-12-02_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 20131216	573		https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2013/12-Dezember/2013-12-16_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 20131220	446
+20140105	442		http://blog.alexzinser.de/?p=90
 #
 # https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen

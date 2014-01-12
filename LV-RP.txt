@@ -229,6 +229,7 @@
 20131203	951	818	https://wiki.piratenpartei.de/RP:2013-12-03_-_122._Vorstandssitzung#Top_2:_Berichte
 20131211	906	818
 20131217	907	820	https://wiki.piratenpartei.de/RP:2013-12-17_-_123._Vorstandssitzung#Top_2:_Berichte
+20140105	874		http://blog.alexzinser.de/?p=90
 20140107	875	567	https://wiki.piratenpartei.de/RP:2014-01-07_-_124._Vorstandssitzung#Top_2:_Berichte
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand

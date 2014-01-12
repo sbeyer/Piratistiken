@@ -134,5 +134,6 @@
 20131201	845	375	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
 20131228	848	375
 20131230	848		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2013-12-30
+20140105	834		http://blog.alexzinser.de/?p=90
 #
 # https://wiki.piratenpartei.de/wiki//index.php?title=Kategorie:Protokoll_Vorstand_Sachsen&from=SN%3A%C3%84mter%2FVorstand%2FProtokolle%2F2013-03-20
