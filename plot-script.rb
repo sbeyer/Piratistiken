@@ -62,14 +62,16 @@ startdate = 20071201
 
 print <<EOF
 # Generate output based on mitglieder.csv
-set terminal pngcairo size 800,480
+set terminal pngcairo size 800,520
 set output "output-tmp.png"
 
 ymax = #{((ARGV.shift.to_i + 200)/1000.0).ceil*1000}
 
 set xdata time
 set timefmt "%Y%m%d"
-set xlabel "Datum"
+set title "Verlauf der Mitgliederanzahl der Piratenpartei Deutschland"
+set xlabel "Datum" offset 0,-1
+set ylabel "Anzahl Mitglieder" offset 1.5
 set xtics \\
 	"#{startdate}",7776000 \\
 	axis \\
