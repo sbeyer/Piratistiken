@@ -117,7 +117,7 @@ puts "### define colors for LVs"
 
 index = 0
 ["#888888",
- "#5f9812",
+ "#000000",
  "#65cb39",
  "#9ff8e8",
  "#8ea5f9",
@@ -139,8 +139,8 @@ index = 0
 end
 
 puts
-puts "plot [\"#{startdate}\":\"#{enddate}\"] [0:ymax] \\"
-print((1..17).to_a.reverse.map do |i|
-  " 'mitglieder.csv' using 1:#{i+1} t \"#{Translate[ARGV[i]][0]}\" w filledcurves x1 lt rgb col_#{Translate[ARGV[i]][1]}"
- end.join(", \\\n"))
-puts ", \\\n '#{ARGV[0]}' using 1:2 t \"#{Translate[ARGV[0]][0]}\" w lines lt rgb col_#{Translate[ARGV[0]][1]}\n"
+puts "plot [\"#{startdate}\":\"#{enddate}\"] [0:ymax] \\\n"
+lines = (1..17).to_a.reverse.map do |i|
+  "'mitglieder.csv' using 1:#{i+1} t \"#{Translate[ARGV[i]][0]}\" w filledcurves x1 lt rgb col_#{Translate[ARGV[i]][1]}"
+end << "'#{ARGV[0]}' using 1:2 t \"#{Translate[ARGV[0]][0]}\" w lines lt rgb col_#{Translate[ARGV[0]][1]}"
+print lines.join(", \\\n ")
