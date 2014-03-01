@@ -139,12 +139,18 @@
 20131107	6298	1785	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-11-07#Kurz-Bericht_Generalsekret.C3.A4r
 20131110	6287	1785
 20131118	6281	1448	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
+20131121	6283	1798	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-11-21#Kurz-Bericht_Generalsekret.C3.A4r
 20131123	6285	1499	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131201	6272	1817	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
-20131121	6283	1798	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-11-21#Kurz-Bericht_Generalsekret.C3.A4r
 20131205	6268	1812	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-12-05#Kurz-Bericht_Generalsekret.C3.A4r
 20131219	6138	1822	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2013-12-19#Kurz-Bericht_Generalsekret.C3.A4r
-20140105	6055		http://blog.alexzinser.de/?p=90
+#20140105	6055		http://blog.alexzinser.de/?p=90
+20140105	6088	326	http://www.machmaldieaugenauf.de/2014/02/10/abschliessende-akkreditierungsstatistiken-zum-bpt141-und-zur-av-eu/
 20140109	6006	390	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-01-09#Kurz-Bericht_Generalsekret.C3.A4r
+20140116	5869	521
+20140123	5843	663	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-01-23#Kurz-Bericht_Generalsekret.C3.A4r
+20140206	5790	713	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-02-06#Kurz-Bericht_Generalsekret.C3.A4r
+20140220	5769	755	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-02-20#Kurzbericht_Generalsekret.C3.A4r
+20140225	5762	781
 #
 # https://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2013

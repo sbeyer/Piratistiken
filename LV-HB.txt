@@ -121,7 +121,8 @@
 20131126	288		https://wiki.piratenpartei.de/HB:Vorstand/2013-26-11_Protokoll_Vorstandssitzung#Petr
 20131201	290	116	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
 20131204	290	116
-20140105	284		http://blog.alexzinser.de/?p=90
+#20140105	284		http://blog.alexzinser.de/?p=90
+20140105	285	15	http://www.machmaldieaugenauf.de/2014/02/10/abschliessende-akkreditierungsstatistiken-zum-bpt141-und-zur-av-eu/
 #
 # https://wiki.piratenpartei.de/wiki//index.php?title=HB:Vorlage:Piraten_in_HB&action=history
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Bremen

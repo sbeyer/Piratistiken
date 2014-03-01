@@ -140,8 +140,15 @@
 20131118	962	430	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131123	965	432	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131201	965	433	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
+20131211	961		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2013-12-11_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
 20140101	944	20
-20140105	928		http://blog.alexzinser.de/?p=90
+#20140105	928		http://blog.alexzinser.de/?p=90
+20140105	944	199	http://www.machmaldieaugenauf.de/2014/02/10/abschliessende-akkreditierungsstatistiken-zum-bpt141-und-zur-av-eu/
+20140108	943		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2014-01-08_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20140122	934		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2014-01-22_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20140205	937		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2014-02-05_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20140208	937	215
+20140219	931		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2014-02-19_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
 #
 # https://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
 # http://www.piratenpartei-sh.de/index.php?option=com_remository&Itemid=44&func=select&id=2&orderby=4

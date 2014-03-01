@@ -122,8 +122,10 @@
 20131118	1031	186	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131123	1036	189	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131201	1036	199	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
-20140105	1029		http://blog.alexzinser.de/?p=90
+#20140105	1029		http://blog.alexzinser.de/?p=90
+20140105	1030	27	http://www.machmaldieaugenauf.de/2014/02/10/abschliessende-akkreditierungsstatistiken-zum-bpt141-und-zur-av-eu/
 20140108	1030		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2014-01-08#TOP_3:_T.C3.A4tigkeitsberichte
+20140207	1017	70	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2014-02-07#TOP_3.2_CRM.2FMitgliederzahlen
 #
 # https://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle
 # https://wiki.piratenbrandenburg.de/Vorstand/Protokolle

@@ -186,6 +186,11 @@
 20131202	578		https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2013/12-Dezember/2013-12-02_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 20131216	573		https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2013/12-Dezember/2013-12-16_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 20131220	446
-20140105	442		http://blog.alexzinser.de/?p=90
+#20140105	442		http://blog.alexzinser.de/?p=90
+20140105	445	37	http://www.machmaldieaugenauf.de/2014/02/10/abschliessende-akkreditierungsstatistiken-zum-bpt141-und-zur-av-eu/
+20140106	436		https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2014/01-Januar/2014-01-13_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20140127	435		https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2014/01-Januar/2014-01-27_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20140210	436		https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2014/02-Februar/2014-02-10_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+#20140224			https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2014/02-Februar/2014-02-24_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 #
 # https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen

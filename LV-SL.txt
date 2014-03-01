@@ -126,8 +126,11 @@
 20131123	456	198	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131201	454	195	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
 20131229	450	6	https://wiki.piratenpartei.de/SL:Landesvorstand/Vorstandssitzungen/2013-12-29#TOP_1:_Kennzahlen
-20140105	441		http://blog.alexzinser.de/?p=90
-# 20140113			https://wiki.piratenpartei.de/SL:Landesvorstand/Vorstandssitzungen/2014-01-13#TOP_1:_Kennzahlen
+#20140105	441		http://blog.alexzinser.de/?p=90
+20140105	447	25	http://www.machmaldieaugenauf.de/2014/02/10/abschliessende-akkreditierungsstatistiken-zum-bpt141-und-zur-av-eu/
+20140113	445	33	https://wiki.piratenpartei.de/SL:Landesvorstand/Vorstandssitzungen/2014-01-13#TOP_1:_Kennzahlen
+20140128	431	40	https://wiki.piratenpartei.de/SL:Landesvorstand/Vorstandssitzungen/2014-01-28#TOP_1_Kennzahlen
+20140224	438	61	https://wiki.piratenpartei.de/SL:Landesvorstand/Vorstandssitzungen/2014-02-24#TOP_1:_Kennzahlen
 #
 # https://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen
 # https://wiki.piratenpartei.de/Kategorie:Vorstandssitzungen_Saarland

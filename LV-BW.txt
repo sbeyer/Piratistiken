@@ -252,7 +252,11 @@
 20131201	3092	1269	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
 20131212	3000	1326
 20131215	2973		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2013-12-15_-_Vorstandssitzung#aktuelle_Kennzahlen
-20140105	2934		http://blog.alexzinser.de/?p=90
+#20140105	2934		http://blog.alexzinser.de/?p=90
+20140105	2949	239	http://www.machmaldieaugenauf.de/2014/02/10/abschliessende-akkreditierungsstatistiken-zum-bpt141-und-zur-av-eu/
+20140117	2945	314
+20140208	2926		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2014-02-08_-_Vorstandssitzung#aktuelle_Kennzahlen
+20140223	2916		https://wiki.piratenpartei.de/BW:Vorstand/Protokoll/2014-02-23_-_Vorstandssitzung#aktuelle_Kennzahlen
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstandssitzung_Baden-W%C3%BCrttemberg
 # https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand

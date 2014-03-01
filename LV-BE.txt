@@ -143,10 +143,21 @@
 20131231	3466	41
 20140102	3454	97
 20140104	3454	136
-20140105	3445		http://blog.alexzinser.de/?p=90
+#20140105	3445		http://blog.alexzinser.de/?p=90
+20140105	3455	149	http://www.machmaldieaugenauf.de/2014/02/10/abschliessende-akkreditierungsstatistiken-zum-bpt141-und-zur-av-eu/
 20140110		149
 20140111	3403	159
 20140112	3403	242
+#20140112			https://wiki.piratenpartei.de/BE:2014-01-12_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
+20140119	3401	303
+20140120	3375	317
+20140124	3373	325
+20140125	3375	360
+20140131	3371	368
+20140206	3369	401
+20140207	3366	403
+20140209	3369	413
+20140216	3370	438
 #
 # Vorstandssitzungscheck:  20110301 - 20110904
 #
