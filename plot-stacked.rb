@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # Mix member data of input files to stdout using partial sums.
 #
-# (C) 2011 - 2013, Stephan Beyer
+# (C) 2011 - 2014, Stephan Beyer
 #
 # Redistribution and use in source and binary forms, with or
 # without modification, are permitted provided that the following
@@ -34,26 +34,26 @@
 
 DEBUG = false
 
+
 # Do something for each date given by current_idx and input...
-# Note that current_idx is changed to the next suitable value.
+# Note that current_idx is changed to a suitable value.
 def each_current_date(current_idx, input)
-	current_idx.each_with_index do |j,i|
-		str = input[i][j]
-		unless str.nil?
-			tmp = str.match(/^([0-9]+)\t([0-9]+)/)
-			while tmp.nil? and j < input[i].length
+	def foo(current_idx, input, j, i)
+		lines = input[i]
+		loop do
+			return nil if j >= lines.length
+			line = lines[j]
+			tmp = line.match(/^([0-9]+)\t([0-9]+)/)
+			if tmp.nil?
 				j = current_idx[i] += 1
-				str = input[i][j]
-				unless str.nil?
-					tmp = str.match(/^([0-9]+)\t([0-9]+)/)
-				end
-			end
-			unless tmp.nil? or str.nil?
-				date = tmp[1].to_i
-				val = tmp[2].to_i
-				yield(date, val, i)
+			else
+				return tmp
 			end
 		end
+	end
+	current_idx.each_with_index do |j,i|
+		tmp = foo(current_idx, input, j, i)
+		yield(tmp[1].to_i, tmp[2].to_i, i) unless tmp.nil?
 	end
 end
 
@@ -74,9 +74,8 @@ current_idx = [0]*MAX
 current = [0]*MAX
 
 # combine input files and sum up from left to right
-current_date = nil
 loop do
-	# initialize date to minimum date
+	# initialize current_date to minimum date of all input files
 	current_date = nil
 	each_current_date(current_idx, input) do |date, val, i|
 		if current_date.nil? # init
@@ -86,6 +85,8 @@ loop do
 		end
 	end
 
+	break if current_date.nil?
+
 	# update vals for each minimum date
 	each_current_date(current_idx, input) do |date, val, i|
 		if date == current_date
@@ -93,8 +94,6 @@ loop do
 			current_idx[i] += 1
 		end
 	end
-
-	break if current_date.nil?
 
 	# output sums
 	tmp = 0

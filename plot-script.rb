@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # Generate plot script for gnuplot
 #
-# (C) 2011 - 2013, Stephan Beyer
+# (C) 2011 - 2014, Stephan Beyer
 #
 # Redistribution and use in source and binary forms, with or
 # without modification, are permitted provided that the following
