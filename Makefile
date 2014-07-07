@@ -35,6 +35,9 @@ mitglieder.csv: $(INPUT) plot-stacked.rb sort.rb Makefile
 plotscript: $(BVINPUT) $(INPUT) mitglieder.csv plot-script.rb sort.rb Makefile $(DATEFILES)
 	./plot-script.rb `awk '{ d = $$1; if (m < $$18) m = $$18 }; END { print m, d }' mitglieder.csv` $(BVINPUT) `./sort.rb $(INPUT)` > $@
 
-.PHONY: diff
+.PHONY: diff clean
 diff:
 	netstiff -W netstiff update
+
+clean:
+	$(RM) plotscript mitglieder.csv Mitgliederentwicklung-nach-LVs.png output-tmp.png
