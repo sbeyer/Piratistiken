@@ -199,6 +199,7 @@
 20140123	507
 20140206	509	75	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2014-02-06-Protokoll#TOP_6_-_aktuelle_Kennzahlen
 20140220	508	75	https://wiki.piraten-thueringen.de/TH:Vorstand/Vorstandssitzung/2014-02-20-Protokoll#TOP_6_-_aktuelle_Kennzahlen
+20140405	501	134
 #
 # https://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 # https://wiki.piraten-thueringen.de/TH:Landesverband_Th%C3%BCringen_Vorstand/Archiv (vollständiger)

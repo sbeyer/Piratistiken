@@ -203,5 +203,10 @@
 20140213	5694	2004	https://wiki.piratenpartei.de/NRW:2014-02-13_-_NRW_Vorstand#Berichte_Statistik
 20140214	5693	2004
 20140214	5701	2004	https://wiki.piratenpartei.de/NRW:2014-02-27_-_NRW_Vorstand#Berichte_Statistik
+20140313	5698	2042
+20140327	5726	2097
+20140410	5601	2081
+20140527	5567	2069
+20140605	5543	2087
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand
