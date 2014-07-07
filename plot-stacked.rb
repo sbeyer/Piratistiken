@@ -44,6 +44,7 @@ def each_current_date(current_idx, input)
 			return nil if j >= lines.length
 			line = lines[j]
 			tmp = line.match(/^([0-9]+)\t([0-9]+)/)
+			#tmp = line.match(/^([0-9]+)\t[^\t]+\t([0-9]+)/)
 			if tmp.nil?
 				j = current_idx[i] += 1
 			else
