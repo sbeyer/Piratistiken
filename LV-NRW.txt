@@ -203,10 +203,16 @@
 20140213	5694	2004	https://wiki.piratenpartei.de/NRW:2014-02-13_-_NRW_Vorstand#Berichte_Statistik
 20140214	5693	2004
 20140214	5701	2004	https://wiki.piratenpartei.de/NRW:2014-02-27_-_NRW_Vorstand#Berichte_Statistik
-20140313	5698	2042
-20140327	5726	2097
-20140410	5601	2081
-20140527	5567	2069
-20140605	5543	2087
+20140313	5698	2042	https://wiki.piratenpartei.de/NRW:2014-03-13_-_NRW_Vorstand#Berichte_Statistik
+20140327	5726	2097	https://wiki.piratenpartei.de/NRW:2014-03-27_-_NRW_Vorstand#Berichte_Statistik
+20140410	5601	2081	https://wiki.piratenpartei.de/NRW:2014-04-10_-_NRW_Vorstand#Berichte_Statistik
+20140507	5567	2069	https://wiki.piratenpartei.de/2014-05-08_-_Protokoll_NRW_Vorstand#Berichte_Statistik
+20140521	5567	2069	https://wiki.piratenpartei.de/2014-05-22_-_Protokoll_NRW_Vorstand#Berichte_Statistik
+20140605	5543	2087	https://wiki.piratenpartei.de/2014-06-05_-_Protokoll_NRW_Vorstand#Berichte_Statistik
+20140618	5543	2087	https://wiki.piratenpartei.de/2014-06-19_-_Protokoll_NRW_Vorstand#Berichte_Statistik
+20140709	5293	2255	https://wiki.piratenpartei.de/2014-07-10_-_Protokoll_NRW_Vorstand#Berichte_Statistik
+20140710	5235	2255
+20140723	5210	2330	https://wiki.piratenpartei.de/2014-07-24_-_Protokoll_NRW_Vorstand#Berichte_Statistik
+20140728	5197	2330
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand

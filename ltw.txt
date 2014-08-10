@@ -22,4 +22,6 @@
 20130915 Landtagswahl BY
 20130922 Landtagswahl HE
 20140831 Landtagswahl SN
-20140914 Landtagswahl BB
+20140914 Landtagswahl BB,TH
+20150215 Bürgerschaftswahl HH
+20150510 Bürgerschaftswahl HB

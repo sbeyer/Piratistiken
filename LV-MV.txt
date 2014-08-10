@@ -137,6 +137,8 @@
 20140613	400	102
 20140615	399	103
 20140630	398	105
+20140722	391	104
+20140729	391	107
 #
 # Die Vorstandsprotokolle enthalten keine Mitgliederanzahlen.
 # Mitgliederinfos finden sich auf der Standardquelle: https://wiki.piratenpartei.de/MV:Vorlage:Piraten_in_MV

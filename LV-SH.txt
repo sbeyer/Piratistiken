@@ -149,7 +149,18 @@
 20140205	937		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2014-02-05_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
 20140208	937	215
 20140219	931		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2014-02-19_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20140305	930		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2014-03-05_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20140319	927		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2014-03-19_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20140330	926		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2014-03-30_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
 20140401	923	212
+20140416	922		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2014-04-16_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20140430	921		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2014-04-30_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20140514	918		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2014-05-14_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20140528	919		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2014-05-28_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20140611	916		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2014-06-11_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20140723	907		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2014-07-23_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
+20140803	905	440
+20140806	906		https://wiki.piratenpartei.de/SH:Vorstand/Protokolle/2014-08-06_-_Protokoll_Vorstand_Schleswig-Holstein#Generalsekret.C3.A4r_.28Henry.29
 #
 # https://wiki.piratenpartei.de/Landesverband_Schleswig-Holstein/Vorstand
 # http://www.piratenpartei-sh.de/index.php?option=com_remository&Itemid=44&func=select&id=2&orderby=4

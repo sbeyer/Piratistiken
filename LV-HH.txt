@@ -192,5 +192,7 @@
 #20140105	1059		http://blog.alexzinser.de/?p=90
 20140105	1071	52	http://www.machmaldieaugenauf.de/2014/02/10/abschliessende-akkreditierungsstatistiken-zum-bpt141-und-zur-av-eu/
 #20140127			https://wiki.piratenpartei.de/2014-01-27_-_Protokoll_Vorstand_Hamburg
+20140711	1070		https://wiki.piratenpartei.de/2014-07-11_-_Protokoll_Vorstand_Hamburg
+#20140811			https://wiki.piratenpartei.de/2014-08-11_-_Protokoll_Vorstand_Hamburg
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg

@@ -138,6 +138,8 @@
 20140105	837	87	http://www.machmaldieaugenauf.de/2014/02/10/abschliessende-akkreditierungsstatistiken-zum-bpt141-und-zur-av-eu/
 20140211	830		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2014-02-11
 20140226	833	195
+20140422	820		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2014-04-22
 20140703	805	230
+#20140812			 https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2014-08-12
 #
-# https://wiki.piratenpartei.de/wiki//index.php?title=Kategorie:Protokoll_Vorstand_Sachsen&from=SN%3A%C3%84mter%2FVorstand%2FProtokolle%2F2013-03-20
+# https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Sachsen

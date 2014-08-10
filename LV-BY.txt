@@ -152,5 +152,18 @@
 20140206	5790	713	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-02-06#Kurz-Bericht_Generalsekret.C3.A4r
 20140220	5769	755	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-02-20#Kurzbericht_Generalsekret.C3.A4r
 20140225	5762	781
+20140306	5746	784	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-03-06#Kurzbericht_Generalsekret.C3.A4r
+20140320	5693	925	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-03-20#Kurz-Bericht_Generalsekret.C3.A4r
+20140410	5654	931	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-04-10#Kurz-Bericht_Generalsekret.C3.A4r
+20140417	5644	926	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-04-17#Kurz-Bericht_Generalsekret.C3.A4r
+20140501	5633	928	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-05-01#Kurz-Bericht_Generalsekret.C3.A4r
+20140515	5608	920	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-05-15#Kurz-Bericht_Generalsekret.C3.A4r
+20140529	5595	988	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-05-29#Kurz-Bericht_Generalsekret.C3.A4r
+20140612	5596	1045	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-06-12#Kurz-Bericht_Generalsekret.C3.A4r
+20140626	5585	1096	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-06-26#Kurz-Bericht_Generalsekret.C3.A4r
+20140710	5563	1125	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-07-10#Kurz-Bericht_Generalsekret.C3.A4r
+20140714	5560	1125
+20140724	5555	1131	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-07-24#Kurz-Bericht_Generalsekret.C3.A4r
+20140807	5530	1140	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-08-07#Kurz-Bericht_Generalsekret.C3.A4r
 #
 # https://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2013

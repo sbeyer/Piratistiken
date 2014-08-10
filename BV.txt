@@ -149,8 +149,14 @@
 20140116	29327		https://verwaltung.piratenpartei.de/issues/2660#Kennzahlen
 20140130	29087		https://verwaltung.piratenpartei.de/issues/3752#Kennzahlen
 20140227	28915		https://verwaltung.piratenpartei.de/issues/3752#Kennzahlen
+20140313	28777		https://verwaltung.piratenpartei.de/issues/3940#Kennzahlen
+20140327	28576		https://verwaltung.piratenpartei.de/issues/4555#Kennzahlen
+20140410	28410		https://verwaltung.piratenpartei.de/issues/4557#Kennzahlen
+20140522	28137		https://verwaltung.piratenpartei.de/issues/5051#TOP-11-Kennzahlen
+20140619	27678		https://verwaltung.piratenpartei.de/issues/5318#TOP-11-Kennzahlen
+20140629	27510	1059
+20140731	26891		https://buvo2014.piratenpad.de/BuVo-Sitzung-2014-07-31
 #
 # https://verwaltung.piratenpartei.de/projects/vorstand/issues?set_filter=1&f[]=tracker_id&op[tracker_id]=%3D&v[tracker_id][]=18
 # https://vorstand.piratenpartei.de/category/sitzungsprotokolle/
 # Wiki Oberkategorie: https://wiki.piratenpartei.de/Kategorie:Bundesvorstandssitzung
-# Wiki 2011: https://wiki.piratenpartei.de/Kategorie:Vorstandssitzung_2011

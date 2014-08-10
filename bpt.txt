@@ -27,3 +27,5 @@
 20131201 BPT 2013.2 in Bremen
 20140104
 20140105 BPT 2014.1 in Bochum
+20140628
+20140629 BPT 2014.2 in Halle/Saale (außerordentlich)

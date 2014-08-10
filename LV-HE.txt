@@ -184,10 +184,18 @@
 20140205	1693	1153
 20140205	1692		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2014-02-05#Generalsekret.C3.A4r
 20140219	1691		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2014-02-19#Generalsekret.C3.A4r
+20140305	1675		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2014-03-05#Generalsekret.C3.A4r
 20140310	1665	1163
-20140319	1663	1176
+20140319	1663	1176	https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2014-03-19#Generalsekret.C3.A4r
+20140402	1645		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2014-04-02#Generalsekret.C3.A4r
 20140405	1630	1189
+20140416	1623		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2014-04-16#Generalsekret.C3.A4r
+20140430	1609		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2014-04-30#Generalsekret.C3.A4r
+20140514	1594		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2014-05-14#Generalsekret.C3.A4r
 20140517	1594	1192
+20140604	1594		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2014-06-04#Generalsekret.C3.A4r
+20140702	1568		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2014-07-02#Generalsekret.C3.A4r
+20140730	1551		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2014-07-30#Generalsekret.C3.A4r
 #
 # https://wiki.piratenpartei.de/HE:Vorstand/Protokolle
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Hessen
