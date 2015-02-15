@@ -229,7 +229,7 @@
 20141108	4994	2156
 20141113	4994	2156	https://wiki.piratenpartei.de/2014-11-13_-_Protokoll_NRW_Vorstand#Berichte_Statistik
 20141127	4986	2317	https://wiki.piratenpartei.de/2014-11-27_-_Protokoll_NRW_Vorstand#Berichte_Statistik
-20141211	2646	2319	https://wiki.piratenpartei.de/2014-12-11_-_Protokoll_NRW_Vorstand#Berichte_Statistik
+#20141211	2646	2319	https://wiki.piratenpartei.de/2014-12-11_-_Protokoll_NRW_Vorstand#Berichte_Statistik
 20150108	4878	0	https://wiki.piratenpartei.de/2015-01-08_-_Protokoll_NRW_Vorstand#Berichte_Statistik
 20150128	4844	1377
 20150205	4815	31	https://wiki.piratenpartei.de/2015-02-05_-_Protokoll_NRW_Vorstand#Berichte_Statistik
