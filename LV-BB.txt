@@ -1,32 +1,66 @@
 # ISO-Datum	Mitgl	stimmb	Quelle
+20060910	02
+20071210	10
 20080122	11
 20080405	13
-20081003	7		https://wiki.piratenbrandenburg.de/images/0/04/Gr%C3%BCndungsprotokoll_Landesverband.pdf
+20081003	17
+#20081003	7		https://wiki.piratenbrandenburg.de/images/0/04/Gr%C3%BCndungsprotokoll_Landesverband.pdf
+20090220	20
 20090427	27
+20090511	30
 20090514	31
+20090607	37
+20090608	40
 20090609	42
 20090615	46
 20090618	50
+20090621	60
 20090622	63
 20090623	65
 20090624	67
+20090625	70
 20090627	74
+20090702	80
 20090703	81
 20090707	90
+20090713	100
 20090714	100
-20090727	117
+20090721	110
+#20090727	117
+20090727	120
+20090802	130
+20090809	140
+20090814	150
 20090816	154
+20090821	160
+20090824	170
 20090825	172
+#20090827	180
 20090827	184
-20090906	208
+20090902	190
+20090904	200
+#20090906	208
+20090906	210
+20090913	220
+20090914	230
 20090915	235
+#20090919	240
+#20090919	250
 20090919	251
-20090924	267
-20090927	287
-20090929	301
+20090922	260
+#20090924	267
+20090924	270
+20090925	280
+#20090927	287
+20090927	290
+20090928	300
+#20090929	301
+20090929	310
+#20091004	320
 20091004	321
 20091005	323
 20091017	327		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2009-10-17#8._Forum
+20091030	330
 20091105	333
 20091122	333
 20091205	334		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2009-12-05#Bericht_S.C3.B6ren
@@ -70,6 +104,7 @@
 20111012	529
 #20111013	435		http://vorstand.piratenpartei.de/2011/10/27/protokoll-zur-vorstandssitzung-2011-10-13/
 20111023	581
+20111028	489
 #20111029	592
 #20111103	605
 20111118	588		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2011-11-18#TOP_3.1:_Mitgliederzahlen_des_Landesverbandes
@@ -82,6 +117,7 @@
 20120322	720		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-03-22#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20120404	804
 20120411	854		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-04-14#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20120414	854
 20120415	870		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-04-14#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20120425	929
 #20120429	873		https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akkreditierungsstatistik
@@ -89,6 +125,7 @@
 20120514	1033		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-05-14#TOP_4:_Sonstiges_.2F_Verschiedenes
 20120522	1023		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-05-22#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20120608	1055		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-06-08#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20120610	1055
 20120723	1104		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-07-23#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20120813	1105	475	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-08-13#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20120926	1114	498	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-09-26#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
@@ -100,7 +137,7 @@
 20121118	1118	2	http://www.machmaldieaugenauf.de/2012/10/27/vorbereitung-der-bpt-akkreditierung/
 20121125	1118	451	http://www.machmaldieaugenauf.de/2012/11/22/infos-zur-akkreditierung-beim-piraten-bundesparteitag-2012-2-bpt122/
 20121128	1118	451	http://www.machmaldieaugenauf.de/2012/11/28/abschliesende-statistiken-bpt122/
-20121207		528	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-12-07#TOP_4.2:_Finanzen_des_Landesverbandes
+20121207	1122	528	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2012-12-07#TOP_4.2:_Finanzen_des_Landesverbandes
 20130104	1048		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-01-04#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
 20130118		98	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-01-18#TOP_4.2:_Finanzen_des_Landesverbandes
 20130201		118	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-02-01#TOP_4.2:_Finanzen_des_Landesverbandes
@@ -118,10 +155,12 @@
 20130607	1082	228	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-06-07#TOP_4:_Bericht_des_Schatzmeisters_und_des_Generalsekret.C3.A4rs
 20130621	1078	229	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-06-21#TOP_4:_Bericht_des_Schatzmeisters_und_des_Generalsekret.C3.A4rs
 20130705	1074	231	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2013-07-05#TOP_4:_Bericht_des_Schatzmeisters_und_des_Generalsekret.C3.A4rs
+20130811	1060
 20131026	1044	187	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131118	1031	186	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131123	1036	189	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131201	1036	199	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
+20140104	1030
 #20140105	1029		http://blog.alexzinser.de/?p=90
 20140105	1030	27	http://www.machmaldieaugenauf.de/2014/02/10/abschliessende-akkreditierungsstatistiken-zum-bpt141-und-zur-av-eu/
 20140108	1030		https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2014-01-08#TOP_3:_T.C3.A4tigkeitsberichte
@@ -129,8 +168,29 @@
 20140305	1008	56	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2014-03-05#TOP_3.1_CRM.2FMitgliederzahlen
 20140325	1005	113	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2014-03-25#TOP_3.1_CRM.2FMitgliederzahlen
 20140418	996	134	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2014-04-18#TOP_3.1_CRM.2FFiBu
+#20140418	998
+20140525	990
 20140526	990	138	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2014-05-26#TOP_3.1_CRM.2FFiBu
 20140618	983	158	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2014-06-18#TOP_3.1_CRM.2FFiBu
+20140712	974
+20140801	968
 20140808	968	168	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2014-08-01#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20140822	966	187	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2014-08-22#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20140828	966		https://twitter.com/H3rmi/status/505047264071790592/photo/1
+20140904	956	185	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2014-09-05#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20140911	956	186	https://twitter.com/H3rmi/status/510137422357995520/photo/1
+20140923	953	188
+20140925	950	185	https://twitter.com/H3rmi/status/515199307776266240/photo/1
+20140926	950	187	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2014-09-26#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20141017	889	186	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2014-10-17#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20141019	889	186
+20141023	884	186	https://twitter.com/Bundes_GenSek/status/525300116002181120
+20141106	773	184
+20141113	770	187	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2014-11-14#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20141204	769	188	https://wiki.piratenbrandenburg.de/Vorstand/Protokolle/2014-12-05#TOP_4.1:_Mitgliederzahlen_des_Landesverbandes
+20150121	733	19
+20150123	733	19	https://lavo-bb.piratenpad.de/2015-01-23
+20150128	733	24
 #
 # https://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle
+# https://wiki.piratenbrandenburg.de/Mitglieder/Archiv

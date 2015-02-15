@@ -165,5 +165,22 @@
 20140714	5560	1125
 20140724	5555	1131	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-07-24#Kurz-Bericht_Generalsekret.C3.A4r
 20140807	5530	1140	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-08-07#Kurz-Bericht_Generalsekret.C3.A4r
+20140810	5529	1139
+20140821	5498	1155	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-08-21#Kurz-Bericht_Generalsekret.C3.A4r
+20140828	5493		https://twitter.com/H3rmi/status/505047264071790592/photo/1
+20140904	5482		https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-09-04#Kurz-Bericht_Generalsekret.C3.A4r
+20140911	5476	1152	https://twitter.com/H3rmi/status/510137422357995520/photo/1
+20140914	5467	1199
+20140918	5462	1197	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-09-18#Kurz-Bericht_Generalsekret.C3.A4r
+20140925	5435	1162	https://twitter.com/H3rmi/status/515199307776266240/photo/1
+20141002	5416	1194	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-10-02#Kurz-Bericht_Generalsekret.C3.A4r
+20141016	5396	1198	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-10-16#Kurz-Bericht_Generalsekret.C3.A4r
+20141023	5392	1175	https://twitter.com/Bundes_GenSek/status/525300116002181120
+20141030	5390	1210	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-10-30#Kurz-Bericht_Generalsekret.C3.A4r
+20141113	5379	1211	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-11-13#Kurz-Bericht_Generalsekret.C3.A4r
+20141127	5354	1207	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2014-11-27#Kurz-Bericht_Generalsekret.C3.A4r
+20150108	5219	115	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2015-01-08#Kurz-Bericht_Generalsekret.C3.A4r
+20150122	5185	458	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2015-01-22#Kurz-Bericht_Generalsekret.C3.A4r
+20150205	5173	493	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2015-02-05#Kurz-Bericht_Generalsekret.C3.A4r
 #
-# https://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2013
+# https://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2014

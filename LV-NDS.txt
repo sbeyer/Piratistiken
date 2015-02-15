@@ -324,5 +324,19 @@
 20140702	2400	681	https://wiki.piratenpartei.de/NDS:Vorstand/2014-07-02#Mitgliederstatistik
 20140713	2196	759	https://wiki.piratenpartei.de/NDS:Vorstand/2014-07-13-RL#Mitgliederstatistik
 20140730	2197	808	https://wiki.piratenpartei.de/NDS:Vorstand/2014-07-30#Mitgliederstatistik
+20140813	2198	811
+20140827	2201	814	https://wiki.piratenpartei.de/NDS:Vorstand/2014-08-27#Mitgliederstatistik
+20140828	2228		https://twitter.com/H3rmi/status/505047264071790592/photo/1
+20140910	2202	813	https://wiki.piratenpartei.de/NDS:Vorstand/2014-09-10#Mitgliederstatistik
+20140911	2201	791	https://twitter.com/H3rmi/status/510137422357995520/photo/1
+20140924	2196		https://wiki.piratenpartei.de/NDS:Vorstand/2014-09-24#Mitgliederstatistik
+20140925	2182	792	https://twitter.com/H3rmi/status/515199307776266240/photo/1
+20141008	2171	815	https://wiki.piratenpartei.de/NDS:Vorstand/2014-10-08#Mitgliederstatistik
+20141022	2160	807	https://wiki.piratenpartei.de/NDS:Vorstand/2014-10-22#Mitgliederstatistik
+20141023	2157	789	https://twitter.com/Bundes_GenSek/status/525300116002181120
+20141105	2101		https://wiki.piratenpartei.de/NDS:Vorstand/2014-11-05#Mitgliederstatistik
+20141122	2093		https://wiki.piratenpartei.de/NDS:Vorstand/2014-11-23-RL#Mitgliederstatistik
+20141203	2085	805	https://wiki.piratenpartei.de/NDS:Vorstand/2014-12-03#Mitgliederstatistik
+20141217	2082	804	https://wiki.piratenpartei.de/NDS:Vorstand/2014-12-17#Mitgliederstatistik
 #
 # https://wiki.piratenpartei.de/NDS:Vorstand/Protokolle

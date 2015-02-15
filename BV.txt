@@ -155,7 +155,20 @@
 20140522	28137		https://verwaltung.piratenpartei.de/issues/5051#TOP-11-Kennzahlen
 20140619	27678		https://verwaltung.piratenpartei.de/issues/5318#TOP-11-Kennzahlen
 20140629	27510	1059
-20140731	26891		https://buvo2014.piratenpad.de/BuVo-Sitzung-2014-07-31
+20140731	26891		https://verwaltung.piratenpartei.de/issues/6487
+20140814	26749		https://verwaltung.piratenpartei.de/issues/6661
+20140828	26565		https://verwaltung.piratenpartei.de/issues/6845
+20140911	26408		https://verwaltung.piratenpartei.de/issues/7003
+20140925	26184	8992	https://verwaltung.piratenpartei.de/issues/7689
+20141009	25959	8945	https://verwaltung.piratenpartei.de/issues/7752
+20141023	25693	8930	https://verwaltung.piratenpartei.de/issues/7886
+20141106	25226	8924	https://verwaltung.piratenpartei.de/issues/8111
+20141120	25171	8962	https://verwaltung.piratenpartei.de/issues/8533
+20141204	25045	8945	https://verwaltung.piratenpartei.de/issues/8606
+20141218	24910	9105	https://verwaltung.piratenpartei.de/issues/8797
+20150115	23813	713	https://verwaltung.piratenpartei.de/issues/9146
+20150129	23717	4225	https://verwaltung.piratenpartei.de/issues/9335
+20150212	23570	4207	https://buvo2014.piratenpad.de/BuVo-Sitzung-2015-02-12?
 #
 # https://verwaltung.piratenpartei.de/projects/vorstand/issues?set_filter=1&f[]=tracker_id&op[tracker_id]=%3D&v[tracker_id][]=18
 # https://vorstand.piratenpartei.de/category/sitzungsprotokolle/
