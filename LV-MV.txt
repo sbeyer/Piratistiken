@@ -153,6 +153,7 @@
 20141125	161
 20141211	160
 20150128	152	21
-#
+20150409	149	44	http://vorstand.piratenpartei.de/2015/04/09/neues-aus-der-mitgliederverwaltung-3/
+20150507	147	47	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/#
 # Die Vorstandsprotokolle enthalten keine Mitgliederanzahlen.
 # Mitgliederinfos finden sich auf der Standardquelle: https://wiki.piratenpartei.de/MV:Vorlage:Piraten_in_MV

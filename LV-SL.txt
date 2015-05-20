@@ -151,6 +151,8 @@
 20150126	401	39	https://wiki.piratenpartei.de/SL:Landesvorstand/Vorstandssitzungen/2015-01-26#TOP_3:_Zahlen
 20150128	399	38
 20150209	397	40	https://wiki.piratenpartei.de/SL:Landesvorstand/Vorstandssitzungen/2015-02-09#TOP_3:_Zahlen
+20150409	358	46	http://vorstand.piratenpartei.de/2015/04/09/neues-aus-der-mitgliederverwaltung-3/
+20150507	358	50	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/#
 #
 # https://wiki.piratenpartei.de/Kategorie:Vorstandssitzungen_Saarland
 # https://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen

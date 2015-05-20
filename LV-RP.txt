@@ -268,5 +268,7 @@
 20150118	697	24	https://wiki.piratenpartei.de/RP:2015-01-18_-_151._Vorstandssitzung#Top_1:_Berichte
 20150128	688	452
 20150201	687	451	https://wiki.piratenpartei.de/RP:2015-02-01_-_152._Vorstandssitzung#Top_1:_Berichte
+20150409	672	429	http://vorstand.piratenpartei.de/2015/04/09/neues-aus-der-mitgliederverwaltung-3/
+20150507	669	432	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/#
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand
