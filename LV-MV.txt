@@ -153,6 +153,8 @@
 20141125	161
 20141211	160
 20150128	152	21
+20150312	152	30	http://vorstand.piratenpartei.de/2015/03/12/neues-aus-der-mitgliederverwaltung/
+20150326	149	30	http://vorstand.piratenpartei.de/2015/03/26/neues-aus-der-mitgliederverwaltung-2/
 20150409	149	44	http://vorstand.piratenpartei.de/2015/04/09/neues-aus-der-mitgliederverwaltung-3/
 20150507	147	47	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/#
 # Die Vorstandsprotokolle enthalten keine Mitgliederanzahlen.

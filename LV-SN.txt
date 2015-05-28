@@ -156,6 +156,8 @@
 20150113	794		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2015-01-13
 20150128	746	64
 20150209	745		https://wiki.piratenpartei.de/SN:%C3%84mter/Vorstand/Protokolle/2015-02-09
+20150312	741	87	http://vorstand.piratenpartei.de/2015/03/12/neues-aus-der-mitgliederverwaltung/
+20150326	739	95	http://vorstand.piratenpartei.de/2015/03/26/neues-aus-der-mitgliederverwaltung-2/
 20150409	738	103	http://vorstand.piratenpartei.de/2015/04/09/neues-aus-der-mitgliederverwaltung-3/
 20150507	733	104	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/#
 #

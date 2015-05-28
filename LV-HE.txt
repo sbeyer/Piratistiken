@@ -209,6 +209,8 @@
 20141119	1433		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2014-11-19#Generalsekret.C3.A4r
 20141217	1426		https://wiki.piratenpartei.de/HE:Vorstand/Protokolle/2014-12-17#Generalsekret.C3.A4r
 20150128	1368	746
+20150312	1350	716	http://vorstand.piratenpartei.de/2015/03/12/neues-aus-der-mitgliederverwaltung/
+20150326	1324	704	http://vorstand.piratenpartei.de/2015/03/26/neues-aus-der-mitgliederverwaltung-2/
 20150409	1324	706	http://vorstand.piratenpartei.de/2015/04/09/neues-aus-der-mitgliederverwaltung-3/
 20150507	1324	708	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/#
 #

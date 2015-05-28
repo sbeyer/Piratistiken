@@ -233,6 +233,8 @@
 20150108	4878	0	https://wiki.piratenpartei.de/2015-01-08_-_Protokoll_NRW_Vorstand#Berichte_Statistik
 20150128	4844	1377
 20150205	4815	31	https://wiki.piratenpartei.de/2015-02-05_-_Protokoll_NRW_Vorstand#Berichte_Statistik
+20150312	4700	1402	http://vorstand.piratenpartei.de/2015/03/12/neues-aus-der-mitgliederverwaltung/
+20150326	4661	1399	http://vorstand.piratenpartei.de/2015/03/26/neues-aus-der-mitgliederverwaltung-2/
 20150409	4657	1407	http://vorstand.piratenpartei.de/2015/04/09/neues-aus-der-mitgliederverwaltung-3/
 20150507	4604	1565	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/#
 #
