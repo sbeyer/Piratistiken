@@ -159,3 +159,4 @@
 20150507	147	47	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/#
 # Die Vorstandsprotokolle enthalten keine Mitgliederanzahlen.
 # Mitgliederinfos finden sich auf der Standardquelle: https://wiki.piratenpartei.de/MV:Vorlage:Piraten_in_MV
+20150608	147	50	scraped from http://finanzen.piratenpartei.de/statistik.php

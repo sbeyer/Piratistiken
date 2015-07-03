@@ -198,3 +198,4 @@
 #
 # https://wiki.piratenbrandenburg.de/Kategorie:Landesvorstand/Protokolle
 # https://wiki.piratenbrandenburg.de/Mitglieder/Archiv
+20150608	719	84	scraped from http://finanzen.piratenpartei.de/statistik.php

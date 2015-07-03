@@ -187,3 +187,4 @@
 # https://verwaltung.piratenpartei.de/projects/vorstand/issues?set_filter=1&f[]=tracker_id&op[tracker_id]=%3D&v[tracker_id][]=18
 # https://vorstand.piratenpartei.de/category/sitzungsprotokolle/
 # Wiki Oberkategorie: https://wiki.piratenpartei.de/Kategorie:Bundesvorstandssitzung
+20150608	18881	5620	scraped from http://finanzen.piratenpartei.de/statistik.php

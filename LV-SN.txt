@@ -162,3 +162,4 @@
 20150507	733	104	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/#
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Sachsen
+20150608	696	134	scraped from http://finanzen.piratenpartei.de/statistik.php

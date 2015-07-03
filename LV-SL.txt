@@ -158,3 +158,4 @@
 #
 # https://wiki.piratenpartei.de/Kategorie:Vorstandssitzungen_Saarland
 # https://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen
+20150608	354	53	scraped from http://finanzen.piratenpartei.de/statistik.php

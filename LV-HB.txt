@@ -138,3 +138,4 @@
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Bremen
 # https://wiki.piratenpartei.de/wiki//index.php?title=HB:Vorlage:Piraten_in_HB&action=history
+20150608	231	29	scraped from http://finanzen.piratenpartei.de/statistik.php

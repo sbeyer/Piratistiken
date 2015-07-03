@@ -216,3 +216,4 @@
 #
 # https://wiki.piratenpartei.de/HE:Vorstand/Protokolle
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Landesverband_Hessen
+20150608	1316	735	scraped from http://finanzen.piratenpartei.de/statistik.php

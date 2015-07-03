@@ -222,3 +222,4 @@
 #20150206
 #
 # https://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
+20150608	437	113	scraped from http://finanzen.piratenpartei.de/statistik.php

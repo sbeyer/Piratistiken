@@ -274,3 +274,4 @@
 20150507	669	432	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/#
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand
+20150608	663	420	scraped from http://finanzen.piratenpartei.de/statistik.php

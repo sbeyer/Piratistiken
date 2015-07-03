@@ -189,3 +189,4 @@
 20150514	3340	649	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2015-05-14
 #
 # https://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2014
+20150608	3320	687	scraped from http://finanzen.piratenpartei.de/statistik.php

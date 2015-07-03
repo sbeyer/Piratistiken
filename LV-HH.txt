@@ -211,3 +211,4 @@
 # >20150128
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Hamburg
+20150608	877	171	scraped from http://finanzen.piratenpartei.de/statistik.php

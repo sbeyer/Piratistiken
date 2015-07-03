@@ -344,3 +344,4 @@
 20150507	1945	415	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/#
 #
 # https://wiki.piratenpartei.de/NDS:Vorstand/Protokolle
+20150608	1907	537	scraped from http://finanzen.piratenpartei.de/statistik.php

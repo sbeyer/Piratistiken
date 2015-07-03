@@ -239,3 +239,4 @@
 20150507	4604	1565	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/#
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokolle_NRW_Vorstand
+20150608	4575	1584	scraped from http://finanzen.piratenpartei.de/statistik.php

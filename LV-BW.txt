@@ -289,3 +289,4 @@
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstandssitzung_Baden-W%C3%BCrttemberg
 # https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand
 # https://wiki.piratenpartei.de/wiki//index.php?title=BW:Vorlage:Piraten_in_BW&action=history
+20150608	1655	457	scraped from http://finanzen.piratenpartei.de/statistik.php

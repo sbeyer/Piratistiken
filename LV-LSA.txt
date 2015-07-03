@@ -232,3 +232,4 @@
 #20150227
 #
 # https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen
+20150608	359	29	scraped from http://finanzen.piratenpartei.de/statistik.php
