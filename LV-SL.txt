@@ -159,3 +159,25 @@
 # https://wiki.piratenpartei.de/Kategorie:Vorstandssitzungen_Saarland
 # https://wiki.piratenpartei.de/SL:Termine/Vorstandssitzungen
 20150608	354	53	scraped from http://finanzen.piratenpartei.de/statistik.php
+20150609	354	53	scraped
+20150610	354	53	scraped
+20150611	354	53	scraped
+20150612	354	53	scraped
+20150613	354	53	scraped
+20150614	354	53	scraped
+20150615	354	53	scraped
+20150616	354	53	scraped
+20150617	354	53	scraped
+20150618	354	53	scraped
+20150619	354	53	scraped
+20150620	354	60	scraped
+20150621	353	60	scraped
+20150622	353	60	scraped
+20150623	353	60	scraped
+20150624	353	60	scraped
+20150625	353	60	scraped
+20150626	353	60	scraped
+20150627	353	60	scraped
+20150628	353	60	scraped
+20150629	353	60	scraped
+20150630	353	60	scraped

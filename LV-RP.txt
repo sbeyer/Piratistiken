@@ -275,3 +275,25 @@
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_RLP_Vorstand
 20150608	663	420	scraped from http://finanzen.piratenpartei.de/statistik.php
+20150609	663	420	scraped
+20150610	661	422	scraped
+20150611	660	421	scraped
+20150612	658	423	scraped
+20150613	657	423	scraped
+20150614	657	423	scraped
+20150615	657	424	scraped
+20150616	657	434	scraped
+20150617	657	434	scraped
+20150618	657	437	scraped
+20150619	656	450	scraped
+20150620	656	450	scraped
+20150621	656	454	scraped
+20150622	656	454	scraped
+20150623	656	454	scraped
+20150624	656	454	scraped
+20150625	656	454	scraped
+20150626	657	454	scraped
+20150627	657	454	scraped
+20150628	657	454	scraped
+20150629	657	454	scraped
+20150630	657	454	scraped

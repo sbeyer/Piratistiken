@@ -188,3 +188,25 @@
 # https://vorstand.piratenpartei.de/category/sitzungsprotokolle/
 # Wiki Oberkategorie: https://wiki.piratenpartei.de/Kategorie:Bundesvorstandssitzung
 20150608	18881	5620	scraped from http://finanzen.piratenpartei.de/statistik.php
+20150609	18874	5619	scraped
+20150610	18871	5665	scraped
+20150611	18863	5660	scraped
+20150612	18866	5670	scraped
+20150613	18867	5691	scraped
+20150614	18865	5690	scraped
+20150615	18857	5704	scraped
+20150616	18852	5715	scraped
+20150617	18849	5715	scraped
+20150618	18841	5722	scraped
+20150619	18837	5737	scraped
+20150620	18834	5744	scraped
+20150621	18827	5785	scraped
+20150622	18821	5788	scraped
+20150623	18820	5788	scraped
+20150624	18815	5796	scraped
+20150625	18813	5796	scraped
+20150626	18783	5834	scraped
+20150627	18776	5848	scraped
+20150628	18778	5850	scraped
+20150629	18776	5856	scraped
+20150630	18765	5892	scraped

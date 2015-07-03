@@ -160,3 +160,25 @@
 # Die Vorstandsprotokolle enthalten keine Mitgliederanzahlen.
 # Mitgliederinfos finden sich auf der Standardquelle: https://wiki.piratenpartei.de/MV:Vorlage:Piraten_in_MV
 20150608	147	50	scraped from http://finanzen.piratenpartei.de/statistik.php
+20150609	147	50	scraped
+20150610	147	50	scraped
+20150611	147	50	scraped
+20150612	147	50	scraped
+20150613	147	51	scraped
+20150614	147	51	scraped
+20150615	147	51	scraped
+20150616	147	51	scraped
+20150617	147	51	scraped
+20150618	147	51	scraped
+20150619	147	51	scraped
+20150620	147	51	scraped
+20150621	147	51	scraped
+20150622	147	51	scraped
+20150623	147	51	scraped
+20150624	147	51	scraped
+20150625	147	51	scraped
+20150626	147	51	scraped
+20150627	147	51	scraped
+20150628	147	51	scraped
+20150629	147	51	scraped
+20150630	147	51	scraped

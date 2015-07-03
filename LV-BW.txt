@@ -290,3 +290,25 @@
 # https://wiki.piratenpartei.de/Landesverband_Baden-W%C3%BCrttemberg/Vorstand
 # https://wiki.piratenpartei.de/wiki//index.php?title=BW:Vorlage:Piraten_in_BW&action=history
 20150608	1655	457	scraped from http://finanzen.piratenpartei.de/statistik.php
+20150609	1655	457	scraped
+20150610	1656	458	scraped
+20150611	1657	459	scraped
+20150612	1659	460	scraped
+20150613	1660	463	scraped
+20150614	1660	463	scraped
+20150615	1660	464	scraped
+20150616	1660	464	scraped
+20150617	1660	464	scraped
+20150618	1661	464	scraped
+20150619	1660	464	scraped
+20150620	1659	464	scraped
+20150621	1659	463	scraped
+20150622	1659	463	scraped
+20150623	1658	463	scraped
+20150624	1657	463	scraped
+20150625	1657	463	scraped
+20150626	1657	463	scraped
+20150627	1656	463	scraped
+20150628	1656	463	scraped
+20150629	1656	463	scraped
+20150630	1657	467	scraped

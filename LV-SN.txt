@@ -163,3 +163,25 @@
 #
 # https://wiki.piratenpartei.de/Kategorie:Protokoll_Vorstand_Sachsen
 20150608	696	134	scraped from http://finanzen.piratenpartei.de/statistik.php
+20150609	692	133	scraped
+20150610	690	133	scraped
+20150611	689	133	scraped
+20150612	689	135	scraped
+20150613	689	139	scraped
+20150614	688	139	scraped
+20150615	683	139	scraped
+20150616	678	139	scraped
+20150617	676	139	scraped
+20150618	676	139	scraped
+20150619	676	139	scraped
+20150620	676	139	scraped
+20150621	676	162	scraped
+20150622	675	162	scraped
+20150623	675	162	scraped
+20150624	675	164	scraped
+20150625	675	164	scraped
+20150626	675	164	scraped
+20150627	675	164	scraped
+20150628	675	164	scraped
+20150629	675	164	scraped
+20150630	669	172	scraped

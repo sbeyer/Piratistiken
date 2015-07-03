@@ -233,3 +233,25 @@
 #
 # https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen
 20150608	359	29	scraped from http://finanzen.piratenpartei.de/statistik.php
+20150609	359	29	scraped
+20150610	359	29	scraped
+20150611	359	29	scraped
+20150612	359	29	scraped
+20150613	359	29	scraped
+20150614	359	29	scraped
+20150615	359	29	scraped
+20150616	359	29	scraped
+20150617	358	29	scraped
+20150618	358	29	scraped
+20150619	358	29	scraped
+20150620	358	29	scraped
+20150621	358	29	scraped
+20150622	358	29	scraped
+20150623	358	29	scraped
+20150624	358	29	scraped
+20150625	357	29	scraped
+20150626	357	29	scraped
+20150627	357	29	scraped
+20150628	357	29	scraped
+20150629	357	29	scraped
+20150630	357	29	scraped

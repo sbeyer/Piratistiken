@@ -223,3 +223,25 @@
 #
 # https://wiki.piraten-thueringen.de/Kategorie:Protokoll_Vorstandssitzung_Th%C3%BCringen
 20150608	437	113	scraped from http://finanzen.piratenpartei.de/statistik.php
+20150609	437	115	scraped
+20150610	436	114	scraped
+20150611	436	114	scraped
+20150612	436	114	scraped
+20150613	436	115	scraped
+20150614	436	115	scraped
+20150615	436	117	scraped
+20150616	436	117	scraped
+20150617	436	117	scraped
+20150618	436	117	scraped
+20150619	436	117	scraped
+20150620	436	117	scraped
+20150621	436	117	scraped
+20150622	436	117	scraped
+20150623	436	117	scraped
+20150624	435	117	scraped
+20150625	435	117	scraped
+20150626	435	117	scraped
+20150627	435	117	scraped
+20150628	435	117	scraped
+20150629	435	117	scraped
+20150630	435	119	scraped
