@@ -173,6 +173,16 @@
 20150326	22978	4739	http://vorstand.piratenpartei.de/2015/03/26/neues-aus-der-mitgliederverwaltung-2/
 20150409	22938	4863	http://vorstand.piratenpartei.de/2015/04/09/neues-aus-der-mitgliederverwaltung-3/
 20150507	22708	5243	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/#
+20150529	18956	5516	scraped from http://finanzen.piratenpartei.de/statistik.php
+20150530	18956	5516	scraped from http://finanzen.piratenpartei.de/statistik.php
+20150531	18956	5516	scraped from http://finanzen.piratenpartei.de/statistik.php
+20150601	18956	5516	scraped from http://finanzen.piratenpartei.de/statistik.php
+20150602	18923	5533	scraped from http://finanzen.piratenpartei.de/statistik.php
+20150603	18917	5531	scraped from http://finanzen.piratenpartei.de/statistik.php
+20150604	18913	5538	scraped from http://finanzen.piratenpartei.de/statistik.php
+20150605	18901	5543	scraped from http://finanzen.piratenpartei.de/statistik.php
+20150606	18894	5555	scraped from http://finanzen.piratenpartei.de/statistik.php
+20150607	18893	5574	scraped from http://finanzen.piratenpartei.de/statistik.php
 #
 # https://verwaltung.piratenpartei.de/projects/vorstand/issues?set_filter=1&f[]=tracker_id&op[tracker_id]=%3D&v[tracker_id][]=18
 # https://vorstand.piratenpartei.de/category/sitzungsprotokolle/
