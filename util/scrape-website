@@ -2,7 +2,7 @@
 # Scrapes the current values from the website.
 # Should be run within the util subdirectory.
 
-if [ -e scrape ]; then mkdir scrape; fi
+if [ ! -e scrape ]; then mkdir scrape; fi
 
 DATE=`date +"%Y-%m-%d-%H%M%S.txt"`
 SHORTDATE=`date +"%Y%m%d"`
