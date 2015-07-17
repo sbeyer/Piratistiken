@@ -29,3 +29,5 @@
 20140105 BPT 2014.1 in Bochum
 20140628
 20140629 BPT 2014.2 in Halle/Saale (außerordentlich)
+20150725
+20150726 BPT 2015.1 in Würzburg

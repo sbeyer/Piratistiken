@@ -1,13 +1,13 @@
 20060326 Landtagswahl BW, RP, LSA
 20060917 Abgeordnetenhauswahl BE, Landtagswahl MV
 20070503 Bürgerschaft HB
-20080127 Landtagswahl HE,NDS
+20080127 Landtagswahl HE, NDS
 20080224 Bürgerschaftswahl HH
 20080706 Nachwahlen Bürgerschaft HB
 20080928 Landtagswahl BY
 20090118 Landtagswahl HE
-20090830 Landtagswahl SL,SN,TH
-20090927 Landtagswahl BB,SH
+20090830 Landtagswahl SL, SN, TH
+20090927 Landtagswahl BB, SH
 20100509 Landtagswahl NRW
 20110220 Bürgerschaftswahl HH
 20110320 Landtagswahl LSA
@@ -22,6 +22,10 @@
 20130915 Landtagswahl BY
 20130922 Landtagswahl HE
 20140831 Landtagswahl SN
-20140914 Landtagswahl BB,TH
+20140914 Landtagswahl BB, TH
 20150215 Bürgerschaftswahl HH
 20150510 Bürgerschaftswahl HB
+20160313 Landtagswahl BW, RP, LSA
+20160904 Landtagswahl MV
+20160911 Landtagswahl NDS
+20160918 Abgeordnetenhauswahl BE

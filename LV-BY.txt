@@ -182,5 +182,6 @@
 20150108	5219	115	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2015-01-08#Kurz-Bericht_Generalsekret.C3.A4r
 20150122	5185	458	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2015-01-22#Kurz-Bericht_Generalsekret.C3.A4r
 20150205	5173	493	https://wiki.piratenpartei.de/BY:Vorstandssitzung/2015-02-05#Kurz-Bericht_Generalsekret.C3.A4r
+20150515	3340	649
 #
 # https://wiki.piratenpartei.de/Kategorie:Bayerische_Vorstandssitzung_2014
