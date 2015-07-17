@@ -194,8 +194,13 @@
 20150128	2823	109
 20150208	2796	112
 20150228	2790	277
+20150312	2787	274	http://vorstand.piratenpartei.de/2015/03/12/neues-aus-der-mitgliederverwaltung/
+20150326	2781	281	http://vorstand.piratenpartei.de/2015/03/26/neues-aus-der-mitgliederverwaltung-2/
 20150406	2778	299
+20150409	2779	291	http://vorstand.piratenpartei.de/2015/04/09/neues-aus-der-mitgliederverwaltung-3/
 20150505	2765	309
+20150507	2764	305	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/#
+20150510	2759	311	https://wiki.piratenpartei.de/BE:2015-05-10_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20150515	1005	308
 20150527	999	315
 20150619	995	320

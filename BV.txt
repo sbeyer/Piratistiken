@@ -169,6 +169,10 @@
 20150115	23813	713	https://verwaltung.piratenpartei.de/issues/9146
 20150129	23717	4225	https://verwaltung.piratenpartei.de/issues/9335
 20150212	23570	4207	https://buvo2014.piratenpad.de/BuVo-Sitzung-2015-02-12?
+20150312	23353	4678	http://vorstand.piratenpartei.de/2015/03/12/neues-aus-der-mitgliederverwaltung/
+20150326	22978	4739	http://vorstand.piratenpartei.de/2015/03/26/neues-aus-der-mitgliederverwaltung-2/
+20150409	22938	4863	http://vorstand.piratenpartei.de/2015/04/09/neues-aus-der-mitgliederverwaltung-3/
+20150507	22708	5243	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/#
 #
 # https://verwaltung.piratenpartei.de/projects/vorstand/issues?set_filter=1&f[]=tracker_id&op[tracker_id]=%3D&v[tracker_id][]=18
 # https://vorstand.piratenpartei.de/category/sitzungsprotokolle/

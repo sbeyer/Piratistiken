@@ -225,6 +225,10 @@
 20150128	381	13
 20150129	393		http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2015/01-Januar/2015-01-29_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
 20150210	391	36	http://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen/2015/02-Februar/2015-02-10_-_Protokoll_Vorstand_Sachsen-Anhalt#Aktuelle_Lage
+20150312	377	22	http://vorstand.piratenpartei.de/2015/03/12/neues-aus-der-mitgliederverwaltung/
+20150326	377	26	http://vorstand.piratenpartei.de/2015/03/26/neues-aus-der-mitgliederverwaltung-2/
+20150409	368	26	http://vorstand.piratenpartei.de/2015/04/09/neues-aus-der-mitgliederverwaltung-3/
+20150507	362	27	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/
 #20150227
 #
 # https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen

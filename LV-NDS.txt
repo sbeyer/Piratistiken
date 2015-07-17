@@ -338,5 +338,9 @@
 20141122	2093		https://wiki.piratenpartei.de/NDS:Vorstand/2014-11-23-RL#Mitgliederstatistik
 20141203	2085	805	https://wiki.piratenpartei.de/NDS:Vorstand/2014-12-03#Mitgliederstatistik
 20141217	2082	804	https://wiki.piratenpartei.de/NDS:Vorstand/2014-12-17#Mitgliederstatistik
+20150312	2016	293	http://vorstand.piratenpartei.de/2015/03/12/neues-aus-der-mitgliederverwaltung/
+20150326	2014	307	http://vorstand.piratenpartei.de/2015/03/26/neues-aus-der-mitgliederverwaltung-2/
+20150409	2009	314	http://vorstand.piratenpartei.de/2015/04/09/neues-aus-der-mitgliederverwaltung-3/
+20150507	1945	415	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/#
 #
 # https://wiki.piratenpartei.de/NDS:Vorstand/Protokolle

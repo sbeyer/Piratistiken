@@ -269,6 +269,10 @@
 20150128	688	452
 20150201	687	451	https://wiki.piratenpartei.de/RP:2015-02-01_-_152._Vorstandssitzung#Top_1:_Berichte
 20150310	671	423
+20150312	671	424	http://vorstand.piratenpartei.de/2015/03/12/neues-aus-der-mitgliederverwaltung/
+20150326	671	428	http://vorstand.piratenpartei.de/2015/03/26/neues-aus-der-mitgliederverwaltung-2/
+20150409	672	429	http://vorstand.piratenpartei.de/2015/04/09/neues-aus-der-mitgliederverwaltung-3/
+20150507	669	432	http://vorstand.piratenpartei.de/2015/05/07/neues-aus-der-mitgliederverwaltung-4/#
 20150601	666	427
 20150619	656	450
 20150710	566	458
