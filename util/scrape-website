@@ -1,0 +1,35 @@
+#!/bin/bash
+# Scrapes the current values from the website.
+# Should be run within the util subdirectory.
+
+if [ -e scrape ]; then mkdir scrape; fi
+
+DATE=`date +"%Y-%m-%d-%H%M%S.txt"`
+SHORTDATE=`date +"%Y%m%d"`
+wget -t 15 -w 120 -q http://finanzen.piratenpartei.de/statistik.php -O scrape/$DATE || exit 1
+
+function parse {
+ DATA=`grep "$1" < scrape/$DATE`
+ if [[ ${DATA} =~ ^[^0-9]+([0-9]{1,5})[^0-9]+([0-9]{1,5})[^0-9]+[0-9.,%]+[^0-9]+([0-9]{1,5})[^0-9]+([0-9]{1,5})  ]]; then
+  echo "${SHORTDATE}	${BASH_REMATCH[1]}	${BASH_REMATCH[2]}	${BASH_REMATCH[3]}	${BASH_REMATCH[4]}	scraped" >> ../$2
+ fi
+}
+
+parse Ausland OUTSIDE.txt
+parse BB LV-BB.txt
+parse BE LV-BE.txt
+parse BW LV-BW.txt
+parse BY LV-BY.txt
+parse HB LV-HB.txt
+parse HE LV-HE.txt
+parse HH LV-HH.txt
+parse MV LV-MV.txt
+parse NI LV-NDS.txt
+parse NW LV-NRW.txt
+parse RP LV-RP.txt
+parse SH LV-SH.txt
+parse SL LV-SL.txt
+parse SN LV-SN.txt
+parse ST LV-LSA.txt
+parse TH LV-TH.txt
+parse Gesamt BV.txt
