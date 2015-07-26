@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # Generate plot script for gnuplot
 #
-# (C) 2011 - 2014, Stephan Beyer
+# (C) 2011 - 2015, Stephan Beyer
 #
 # Redistribution and use in source and binary forms, with or
 # without modification, are permitted provided that the following
@@ -71,7 +71,7 @@ set xdata time
 set timefmt "%Y%m%d"
 set title "Verlauf der Mitgliederanzahl der Piratenpartei Deutschland"
 set xlabel "Datum" offset 0,-1
-set ylabel "Anzahl Mitglieder" offset 1.5
+set y2label "Anzahl Mitglieder" offset -1.5
 set xtics \\
 	"#{startdate}",7776000 \\
 	axis \\
@@ -79,10 +79,12 @@ set xtics \\
 	offset 0,character 0.5 \\
 	font "sans,7.7" \\
 	format "%Y-%m"
-set key outside center right
-set ytics 2000 \\
-	font "sans,9"
-set mytics 2
+set key outside center left
+set y2tics 2000 \\
+	font "sans,9" \\
+	mirror
+set my2tics 2
+set noytics
 
 ### define colors for special date markers
 col_europa = "#3030ff"
