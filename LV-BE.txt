@@ -203,7 +203,6 @@
 20150510	2759	311	https://wiki.piratenpartei.de/BE:2015-05-10_-_Protokoll_Vorstandssitzung_Landesverband_Berlin#Aktuelle_Kennzahlen
 20150515	1005	308
 20150527	999	315
-20150619	995	320
 #
 # Vorstandssitzungscheck:  20110301 - 20110904
 #
