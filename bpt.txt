@@ -31,3 +31,5 @@
 20140629 BPT 2014.2 in Halle/Saale (außerordentlich)
 20150725
 20150726 BPT 2015.1 in Würzburg
+20160220
+20160221 BPT 2016.1 in Lampertheim
