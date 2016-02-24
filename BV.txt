@@ -91,6 +91,7 @@
 20110929	13283		https://vorstand.piratenpartei.de/2011/10/03/protokoll-zur-vorstandssitzung-2011-09-29/#Aktuelle_Kennzahlen
 20111204	19027		http://piratenpartei.wortgewalt.de/docs/bpt112/
 20111208	19200		https://vorstand.piratenpartei.de/2011/12/11/protokoll-zur-vorstandssitzung-2011-12-08/#Aktuelle_Kennzahlen
+20111231	19749		https://wiki.piratenpartei.de/Datei:Pr%C3%BCfbericht_Piratenpartei_2011.pdf
 20120315	23211		https://vorstand.piratenpartei.de/2012/03/20/protokoll-zur-vorstandssitzung-2012-03-15/#Aktuelle_Kennzahlen
 20120429	28806		https://wiki.piratenpartei.de/Bundesparteitag_2012.1#Akreditierungsstatistik
 20120429	29638
@@ -114,6 +115,7 @@
 20121128	34326	19656	http://www.machmaldieaugenauf.de/2012/11/28/abschliesende-statistiken-bpt122/
 20121205	34267		https://vorstand.piratenpartei.de/2012/12/11/mitschrift-vorstandssitzung-05-12-12/#Kennzahlen
 20121219	33987	19749	https://vorstand.piratenpartei.de/2012/12/20/mitschrift-vorstandssitzung-19-12-12/#Kennzahlen
+#20121231	25548		https://wiki.piratenpartei.de/Datei:Pr%C3%BCfbericht_Piratenpartei_2012.pdf
 20130109	33570		https://vorstand.piratenpartei.de/2013/01/11/mitschrift-vorstandssitzung-09-01-2013/#Kennzahlen
 20130123	33460		https://vorstand.piratenpartei.de/2013/01/24/mitschrift-vorstandssitzung-23-01-13/#Kennzahlen
 20130206	33334		https://vorstand.piratenpartei.de/2013/02/09/mitschrift-vorstandssitzung-06-02-13/#Kennzahlen
@@ -144,6 +146,7 @@
 20131123	30542	11744	http://www.machmaldieaugenauf.de/2013/10/26/vorbereitung-der-akkreditierung-zum-bpt-in-bremen/
 20131127	30413		https://verwaltung.piratenpartei.de/issues/1812#Kennzahlen
 20131201	30442	12158	http://www.machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
+#20131231	22295		https://wiki.piratenpartei.de/Datei:Pr%C3%BCfbericht_Piratenpartei_2013.pdf
 #20140105	29447		http://blog.alexzinser.de/?p=90
 20140105	29601	5124	http://www.machmaldieaugenauf.de/2014/02/10/abschliessende-akkreditierungsstatistiken-zum-bpt141-und-zur-av-eu/
 20140116	29327		https://verwaltung.piratenpartei.de/issues/2660#Kennzahlen
@@ -166,6 +169,7 @@
 20141120	25171	8962	https://verwaltung.piratenpartei.de/issues/8533
 20141204	25045	8945	https://verwaltung.piratenpartei.de/issues/8606
 20141218	24910	9105	https://verwaltung.piratenpartei.de/issues/8797
+20141231	22386	9150	https://wiki.piratenpartei.de/Datei:Pr%C3%BCfbericht_Piratenpartei_2014.pdf
 20150115	23813	713	https://verwaltung.piratenpartei.de/issues/9146
 20150129	23717	4225	https://verwaltung.piratenpartei.de/issues/9335
 20150212	23570	4207	https://buvo2014.piratenpad.de/BuVo-Sitzung-2015-02-12?
