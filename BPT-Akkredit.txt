@@ -1,0 +1,18 @@
+BPT 2016.2,   Wolfenbüttel,      Wahlparteitag,      339,https://vorstand.piratenpartei.de/2016/08/27/akkreditierungsstatistik-bpt16-2-wolfenbuettel/
+BPT 2016.1,   Lampertheim,       Programmparteitag,  387,https://vorstand.piratenpartei.de/2016/02/22/bundesparteitag-16-1-akkreditierungsstatistik/
+BPT 2015,     Würzburg,          Wahlparteitag,      518,https://www.piratenpartei.de/2015/07/29/bundesparteitag-15-1-akkreditierte-und-delegierte-die-beteiligungsfrage/
+BPT 2014.2,   Halle an der Saale,Wahlparteitag/aBPT,1059,http://machmaldieaugenauf.de/2014/07/08/abschliessende-akkreditierungsstatistik-abpt/
+BPT 2014.1,   Bochum,            Programmparteitag,  753,http://machmaldieaugenauf.de/2014/02/10/abschliessende-akkreditierungsstatistiken-zum-bpt141-und-zur-av-eu/
+BPT 2013.2,   Bremen,            Wahlparteitag,     1085,http://machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
+BPT 2013.1,   Neumarkt i.d.OPf,  Programmparteitag, 1262,http://machmaldieaugenauf.de/2013/05/13/abschliesende-statistiken-bpt131/
+BPT 2012.2,   Bochum,            Programmparteitag, 2032,http://machmaldieaugenauf.de/2012/11/28/abschliesende-statistiken-bpt122/
+BPT 2012.1,   Neumünster,        Wahlparteitag,     1500,http://www.welt.de/politik/article106236609/Wie-die-Piraten-einen-geilen-Vorstand-waehlen.html  
+BPT 2011.2,   Offenbach,         Programmparteitag, 1364,http://machmaldieaugenauf.de/2011/12/07/verteilung-der-akkreditierten-mitglieder-zum-piraten-bundesparteitag-2011-2/
+BPT 2011.1,   Heidenheim,        Wahlparteitag,      787,https://wiki.piratenpartei.de/Bundesparteitag_2011.1/Protokoll#A75
+BPT 2010.2,   Chemnitz,          Programmparteitag,  545,http://www.sueddeutsche.de/politik/piraten-parteitag-in-chemnitz-kernis-vollis-und-der-traum-von-fuenf-prozent-1.1026404
+BPT 2010.1,   Bingen,            Wahlparteitag,     1001,https://piratenpartei-bw.de/2010/05/15/bundesparteitag-2010-in-bingen/
+BPT 2009,     Hamburg,           Wahlparteitag,      263,https://wiki.piratenpartei.de/Bundesparteitag_2009.1/Protokoll#P21
+BPT 2008.2,   Bielefeld,         Programmparteitag,   43,https://wiki.piratenpartei.de/Bundesparteitag_2008.2/Protokoll
+BPT 2008.1,   Hannover,          Wahlparteitag,      102,https://wiki.piratenpartei.de/Bundesparteitag_2008.1/Protokoll#Feststellen_der_Stimmberechtigten
+BPT 2007,     Stockheim,         Wahlparteitag,       55,https://wiki.piratenpartei.de/Bundesparteitag_2007/Protokoll#Bekanntgabe_der_Ergebnisse_der_Vorstandswahl
+Gründung 2006,Berlin,            Gründungsparteitag,  52,https://wiki.piratenpartei.de/wiki/images/4/4a/Gruendungsprotokoll.pdf
