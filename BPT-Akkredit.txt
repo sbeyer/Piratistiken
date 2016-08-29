@@ -6,7 +6,7 @@ BPT 2014.1,   Bochum,            Programmparteitag,  753,http://machmaldieaugena
 BPT 2013.2,   Bremen,            Wahlparteitag,     1085,http://machmaldieaugenauf.de/2013/12/02/abschliessende-statistiken-zum-bpt132/
 BPT 2013.1,   Neumarkt i.d.OPf,  Programmparteitag, 1262,http://machmaldieaugenauf.de/2013/05/13/abschliesende-statistiken-bpt131/
 BPT 2012.2,   Bochum,            Programmparteitag, 2032,http://machmaldieaugenauf.de/2012/11/28/abschliesende-statistiken-bpt122/
-BPT 2012.1,   Neumünster,        Wahlparteitag,     1500,http://www.welt.de/politik/article106236609/Wie-die-Piraten-einen-geilen-Vorstand-waehlen.html  
+BPT 2012.1,   Neumünster,        Wahlparteitag,     1491,http://machmaldieaugenauf.de/2012/04/28/piraten-bpt-2012-1-akkreditierungsstatistik/
 BPT 2011.2,   Offenbach,         Programmparteitag, 1364,http://machmaldieaugenauf.de/2011/12/07/verteilung-der-akkreditierten-mitglieder-zum-piraten-bundesparteitag-2011-2/
 BPT 2011.1,   Heidenheim,        Wahlparteitag,      787,https://wiki.piratenpartei.de/Bundesparteitag_2011.1/Protokoll#A75
 BPT 2010.2,   Chemnitz,          Programmparteitag,  545,http://www.sueddeutsche.de/politik/piraten-parteitag-in-chemnitz-kernis-vollis-und-der-traum-von-fuenf-prozent-1.1026404
