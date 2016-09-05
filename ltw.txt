@@ -27,5 +27,7 @@
 20150510 Bürgerschaftswahl HB
 20160313 Landtagswahl BW, RP, LSA
 20160904 Landtagswahl MV
-20160911 Landtagswahl NDS
 20160918 Abgeordnetenhauswahl BE
+20170326 Landtagswahl SL
+20170507 Landtagswahl SH
+20170514 Landtagswahl NRW
