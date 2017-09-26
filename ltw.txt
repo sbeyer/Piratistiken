@@ -31,4 +31,4 @@
 20170326 Landtagswahl SL
 20170507 Landtagswahl SH
 20170514 Landtagswahl NRW
-20180114 Landtagswahl NDS
+20171015 Landtagswahl NDS
