@@ -32,3 +32,6 @@
 20170507 Landtagswahl SH
 20170514 Landtagswahl NRW
 20171015 Landtagswahl NDS
+20181014 Landtagswahl BY
+20181028 Landtagswahl HE
+20190526 Bürgerschaftswahl HB
