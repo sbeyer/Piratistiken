@@ -35,3 +35,5 @@
 20181014 Landtagswahl BY
 20181028 Landtagswahl HE
 20190526 Bürgerschaftswahl HB
+20190901 Landtagswahl BB, SN
+20191027 Landtagswahl TH
