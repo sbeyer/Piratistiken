@@ -37,3 +37,4 @@
 20190526 Bürgerschaftswahl HB
 20190901 Landtagswahl BB, SN
 20191027 Landtagswahl TH
+20200223 Bürgerschaftswahl HH
