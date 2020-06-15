@@ -6,7 +6,7 @@ if [ ! -e scrape ]; then mkdir scrape; fi
 
 DATE=`date +"%Y-%m-%d-%H%M%S.txt"`
 SHORTDATE=`date +"%Y%m%d"`
-wget -t 15 -w 120 -q http://finanzen.piratenpartei.de/statistik.php -O scrape/$DATE || exit 1
+wget --no-check-certificate -t 15 -w 120 -q http://finanzen.piratenpartei.de/statistik.php -O scrape/$DATE || exit 1
 
 function parse {
  DATA=`grep "$1" < scrape/$DATE`
