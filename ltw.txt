@@ -38,3 +38,10 @@
 20190901 Landtagswahl BB, SN
 20191027 Landtagswahl TH
 20200223 Bürgerschaftswahl HH
+20210314 Landtagswahl BW, RP
+20210606 Landtagswahl LSA
+20210926 Landtagswahl MV, Abgeordnetenhauswahl BE
+20220327 Landtagswahl SL
+20220508 Landtagswahl SH
+20220515 Landtagswahl NRW
+20221009 Landtagswahl NDS
